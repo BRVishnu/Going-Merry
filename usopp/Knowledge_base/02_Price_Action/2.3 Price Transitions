@@ -1,0 +1,321 @@
+---
+chapter_number: 2
+chapter_title: Price Action Fundamentals
+document_title: Price Transitions
+category: Price Fundamentals
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - OHLC
+  - Candlesticks
+  - Trend
+  - Support
+  - Resistance
+
+related_concepts:
+  - Market Structure
+  - Consolidation
+  - Trend Continuation
+  - Trend Reversal
+  - Volume
+  - Swing Highs
+  - Swing Lows
+
+keywords:
+  - Breakout
+  - Breakdown
+  - Pullback
+  - Retracement
+  - Trend Continuation
+  - Trend Reversal
+  - Market Structure
+
+version: 1.0
+---
+
+# Price Transitions
+
+## Objective
+
+Understand the major price transitions that occur as markets move between trends, corrections, and consolidations. These transitions represent observable changes in market structure and form the foundation for interpreting price action.
+
+---
+
+# Breakouts
+
+## Definition
+
+A **breakout** occurs when price moves above a significant resistance level or exits a defined consolidation range to the upside.
+
+The movement indicates that buying pressure has exceeded the available selling pressure at that level.
+
+---
+
+## Common Breakout Locations
+
+Breakouts commonly occur above:
+
+- Resistance levels
+- Previous swing highs
+- Consolidation ranges
+- Trading channels
+- Chart patterns
+
+---
+
+## Characteristics
+
+A breakout generally exhibits:
+
+- Price closes above resistance.
+- Expansion in trading range.
+- Strong directional movement.
+- Often accompanied by increased trading volume.
+- Follow-through in subsequent trading periods.
+
+No single characteristic confirms a valid breakout.
+
+---
+
+## Valid Breakout
+
+A breakout is generally considered stronger when:
+
+- Price closes decisively beyond resistance.
+- Price remains above the breakout level.
+- Subsequent candles continue in the breakout direction.
+- Volume supports the move.
+
+Confirmation improves confidence but does not eliminate uncertainty.
+
+---
+
+## False Breakout
+
+A **false breakout** occurs when price temporarily moves above resistance but subsequently falls back below the breakout level.
+
+Characteristics:
+
+- Limited follow-through.
+- Failure to establish higher prices.
+- Return to the previous trading range.
+
+False breakouts are common and should be expected as part of normal market behavior.
+
+---
+
+## Analytical Importance
+
+Breakouts help identify:
+
+- Potential trend initiation.
+- Trend continuation.
+- Structural changes in price movement.
+- Areas where buyers have gained control.
+
+---
+
+# Breakdowns
+
+## Definition
+
+A **breakdown** occurs when price moves below a significant support level or exits a defined consolidation range to the downside.
+
+The movement indicates that selling pressure has exceeded the available buying pressure.
+
+---
+
+## Common Breakdown Locations
+
+Breakdowns commonly occur below:
+
+- Support levels
+- Previous swing lows
+- Consolidation ranges
+- Trading channels
+- Chart patterns
+
+---
+
+## Characteristics
+
+A breakdown generally exhibits:
+
+- Price closes below support.
+- Expansion in trading range.
+- Strong downward movement.
+- Often accompanied by increased selling activity.
+- Continued movement below the breakdown level.
+
+---
+
+## False Breakdown
+
+A **false breakdown** occurs when price temporarily moves below support but subsequently returns above that level.
+
+Characteristics:
+
+- Limited downward follow-through.
+- Failure to sustain lower prices.
+- Return to the previous trading range.
+
+---
+
+## Analytical Importance
+
+Breakdowns help identify:
+
+- Emerging market weakness.
+- Trend continuation.
+- Structural changes in market behavior.
+- Areas where sellers have gained control.
+
+A breakdown alone does not guarantee continued price decline.
+
+---
+
+# Pullbacks
+
+## Definition
+
+A **pullback** is a temporary counter-trend movement that occurs within an established trend.
+
+It represents a short-term interruption rather than a change in the primary trend.
+
+---
+
+## Pullback in an Uptrend
+
+During an uptrend:
+
+- Price temporarily declines.
+- Buyers temporarily lose momentum.
+- The broader upward trend may subsequently resume.
+
+---
+
+## Pullback in a Downtrend
+
+During a downtrend:
+
+- Price temporarily rises.
+- Sellers temporarily lose momentum.
+- The broader downward trend may subsequently resume.
+
+---
+
+## Characteristics
+
+Pullbacks typically:
+
+- Move opposite to the prevailing trend.
+- Are smaller than the preceding trend movement.
+- Preserve the existing market structure.
+- End when the primary trend resumes.
+
+---
+
+## Pullback vs Trend Reversal
+
+| Pullback | Trend Reversal |
+|----------|----------------|
+| Temporary counter-trend movement | Structural change in trend direction |
+| Existing trend remains intact | Existing trend is replaced |
+| Market structure is preserved | Market structure changes |
+
+A pullback should not be classified as a reversal without structural confirmation.
+
+---
+
+## Analytical Importance
+
+Pullbacks help evaluate:
+
+- Trend strength.
+- Trend maturity.
+- Continuation opportunities.
+- Dynamic support and resistance.
+
+---
+
+# Retracements
+
+## Definition
+
+A **retracement** is a partial reversal of a previous directional price movement.
+
+The retracement offsets only a portion of the preceding move before the primary trend potentially resumes.
+
+---
+
+## Characteristics
+
+A retracement:
+
+- Moves opposite to the previous impulse.
+- Does not completely reverse the prior move.
+- May vary in magnitude and duration.
+- Ends if the dominant trend resumes.
+
+---
+
+## Measuring Retracements
+
+Retracements are commonly evaluated by measuring how much of the previous price movement has been reversed.
+
+Examples include:
+
+- Percentage retracements
+- Fibonacci retracement levels
+- Previous swing highs and lows
+
+Measurement techniques are discussed in later chapters.
+
+---
+
+## Retracement vs Pullback
+
+Although often used interchangeably:
+
+- **Retracement** describes the magnitude of a counter-move relative to the previous price movement.
+- **Pullback** describes a temporary counter-trend movement within an established trend.
+
+Every pullback is a retracement, but the term *retracement* may also be used more generally to describe partial price reversals.
+
+---
+
+## Analytical Importance
+
+Retracements are used to evaluate:
+
+- Trend health.
+- Trend continuation.
+- Market structure.
+- Potential support and resistance zones.
+
+Their significance depends on the broader price context.
+
+---
+
+# Comparison
+
+| Transition | Description | Typical Context |
+|------------|-------------|-----------------|
+| Breakout | Price moves above resistance | Trend initiation or continuation |
+| Breakdown | Price moves below support | Trend continuation or weakness |
+| Pullback | Temporary counter-trend movement | Existing trend |
+| Retracement | Partial reversal of previous movement | Existing trend or impulse |
+
+---
+
+# Key Takeaways
+
+- A **breakout** occurs when price moves above resistance or exits consolidation to the upside.
+- A **breakdown** occurs when price moves below support or exits consolidation to the downside.
+- A **pullback** is a temporary movement against the prevailing trend that does not necessarily change the underlying market structure.
+- A **retracement** is a partial reversal of a previous price movement and is commonly used to assess trend health.
+- Breakouts, breakdowns, pullbacks, and retracements should always be interpreted within the broader context of trend, market structure, support, resistance, and volume rather than as isolated events.

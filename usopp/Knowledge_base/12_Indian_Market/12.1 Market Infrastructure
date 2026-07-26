@@ -1,0 +1,309 @@
+---
+chapter_number: 12
+chapter_title: Indian Market
+document_title: Market Infrastructure
+category: Indian Equity Market
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Discovery
+  - Liquidity
+  - Market Participants
+
+related_concepts:
+  - NSE
+  - BSE
+  - NIFTY 50
+  - SENSEX
+  - Trading Sessions
+  - Market Capitalization
+  - Indices
+
+keywords:
+  - NSE
+  - BSE
+  - NIFTY
+  - NIFTY 50
+  - SENSEX
+  - Stock Exchange
+  - Indian Stock Market
+  - Market Infrastructure
+
+version: 1.0
+---
+
+# Market Infrastructure
+
+## Objective
+
+Understand the primary infrastructure of the Indian equity market, including its major stock exchanges, benchmark indices, and commonly used market conventions. These concepts provide essential context for interpreting technical analysis within the Indian market.
+
+---
+
+# Indian Equity Market
+
+## Overview
+
+The Indian equity market is organized around regulated exchanges where listed securities are traded through electronic order matching.
+
+The market operates under a common regulatory framework while supporting multiple exchanges, benchmark indices, and standardized trading conventions.
+
+The two principal equity exchanges are:
+
+- National Stock Exchange (NSE)
+- Bombay Stock Exchange (BSE)
+
+---
+
+# National Stock Exchange (NSE)
+
+## Definition
+
+The **National Stock Exchange (NSE)** is India's largest stock exchange by trading activity and liquidity.
+
+Established in 1992, it introduced fully electronic screen-based trading to the Indian capital market.
+
+---
+
+## Characteristics
+
+The NSE:
+
+- Operates an electronic order-driven trading system.
+- Lists equities, exchange-traded funds (ETFs), derivatives, debt securities, and other financial instruments.
+- Serves as the primary trading venue for most actively traded Indian equities.
+- Maintains benchmark indices including the NIFTY family.
+
+---
+
+## Importance in Technical Analysis
+
+For most Indian equities:
+
+- Price discovery primarily occurs on the NSE.
+- Higher trading activity generally results in better liquidity.
+- Technical analysis is commonly performed using NSE price and volume data.
+
+---
+
+# Bombay Stock Exchange (BSE)
+
+## Definition
+
+The **Bombay Stock Exchange (BSE)** is Asia's oldest stock exchange, established in 1875.
+
+It remains one of India's principal securities exchanges.
+
+---
+
+## Characteristics
+
+The BSE:
+
+- Operates an electronic trading platform.
+- Lists equities, mutual funds, ETFs, debt instruments, and other securities.
+- Maintains benchmark indices including the SENSEX.
+- Supports trading across a broad range of listed companies.
+
+---
+
+## Importance in Technical Analysis
+
+The BSE provides:
+
+- Alternative trading venue for many securities.
+- Historical benchmark data.
+- Broad market representation through its indices.
+
+Many companies are simultaneously listed on both NSE and BSE.
+
+---
+
+# NIFTY
+
+## Definition
+
+The **NIFTY 50** is the flagship benchmark equity index of the National Stock Exchange.
+
+It consists of 50 large-cap companies representing multiple sectors of the Indian economy.
+
+---
+
+## Purpose
+
+The NIFTY serves as:
+
+- A benchmark for the Indian equity market.
+- A measure of large-cap market performance.
+- The underlying index for numerous index funds and derivatives.
+
+---
+
+## Characteristics
+
+The NIFTY:
+
+- Is free-float market capitalization weighted.
+- Is periodically rebalanced.
+- Represents a significant portion of the total market capitalization traded on the NSE.
+
+---
+
+## Importance in Technical Analysis
+
+The NIFTY is frequently analyzed to evaluate:
+
+- Overall market trend.
+- Broad market strength.
+- Sector rotation.
+- Market sentiment.
+- Relative performance of individual stocks.
+
+Individual securities are often interpreted within the context of the broader NIFTY trend.
+
+---
+
+# SENSEX
+
+## Definition
+
+The **SENSEX** is the flagship benchmark equity index of the Bombay Stock Exchange.
+
+It consists of 30 large, well-established companies representing major sectors of the Indian economy.
+
+---
+
+## Purpose
+
+The SENSEX serves as:
+
+- A benchmark for the Indian equity market.
+- A long-term measure of market performance.
+- A widely recognized indicator of investor sentiment.
+
+---
+
+## Characteristics
+
+The SENSEX:
+
+- Uses free-float market capitalization weighting.
+- Represents leading Indian companies.
+- Is periodically reviewed and rebalanced.
+
+---
+
+## Importance in Technical Analysis
+
+The SENSEX provides:
+
+- Long-term market context.
+- Broad market trend analysis.
+- Confirmation of market-wide technical conditions.
+
+The NIFTY and SENSEX generally exhibit similar long-term market behaviour because both represent large-cap Indian equities.
+
+---
+
+# Indian Market Conventions
+
+## Ticker Symbols
+
+Indian equities are commonly identified using exchange-specific ticker symbols.
+
+Examples:
+
+- RELIANCE
+- TCS
+- INFY
+- HDFCBANK
+
+The exchange identifier (NSE or BSE) may accompany the ticker depending on the data provider.
+
+---
+
+## Price Currency
+
+Indian equity prices are quoted in **Indian Rupees (INR)**.
+
+---
+
+## Market Capitalization Classification
+
+Companies are commonly classified as:
+
+- Large Cap
+- Mid Cap
+- Small Cap
+
+These classifications are periodically defined by regulatory guidelines and market capitalization rankings.
+
+---
+
+## Trading Calendar
+
+The Indian equity market operates on business days, excluding exchange holidays announced annually.
+
+Trading follows standardized exchange sessions and settlement procedures.
+
+---
+
+## Benchmark Usage
+
+Benchmark indices such as the NIFTY and SENSEX are commonly used to evaluate:
+
+- Relative stock performance.
+- Sector performance.
+- Portfolio performance.
+- Overall market direction.
+
+---
+
+# NSE vs BSE
+
+| Characteristic | NSE | BSE |
+|----------------|-----|-----|
+| Established | 1992 | 1875 |
+| Benchmark Index | NIFTY 50 | SENSEX |
+| Trading Model | Electronic order-driven | Electronic order-driven |
+| Primary Strength | Higher trading activity and liquidity | Historical significance and broad listings |
+
+Both exchanges operate under the same regulatory framework and play important roles in the Indian capital market.
+
+---
+
+# Importance for Technical Analysis
+
+Understanding market infrastructure helps place technical observations within the broader market context.
+
+Technical analysts commonly:
+
+- Evaluate benchmark index trends.
+- Compare individual stocks with market performance.
+- Consider liquidity when interpreting price action.
+- Use exchange-specific price and volume data consistently.
+
+Market infrastructure provides the foundation upon which technical analysis is performed.
+
+---
+
+# Important Considerations
+
+- Many Indian companies are listed on both NSE and BSE.
+- Technical analysis should use consistent exchange data for historical comparisons.
+- Benchmark indices describe overall market behaviour rather than individual stock performance.
+- Liquidity differences between exchanges may influence price behaviour in less actively traded securities.
+- Exchange infrastructure provides market context but does not independently determine technical conditions.
+
+---
+
+# Key Takeaways
+
+- The Indian equity market is primarily built around the **National Stock Exchange (NSE)** and the **Bombay Stock Exchange (BSE)**.
+- The **NIFTY 50** and **SENSEX** are the principal benchmark indices representing large-cap Indian equities.
+- Technical analysis is commonly performed using NSE price and volume data because of its higher trading activity.
+- Indian market conventions include standardized ticker symbols, INR price quotations, market capitalization classifications, and benchmark-based performance evaluation.
+- Understanding market infrastructure provides essential context for interpreting technical analysis within the Indian equity market.

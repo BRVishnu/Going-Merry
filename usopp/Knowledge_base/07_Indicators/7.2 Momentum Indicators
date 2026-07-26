@@ -1,0 +1,354 @@
+---
+chapter_number: 7
+chapter_title: Indicators
+document_title: Momentum Indicators
+category: Momentum Indicators
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: Short to Medium Term
+
+prerequisite_concepts:
+  - Trend Fundamentals
+  - Trend Development
+  - Moving Averages
+  - Volume Fundamentals
+  - Market Structure
+
+related_concepts:
+  - Trend Strength
+  - Trend Reversal
+  - Divergence
+  - Volume Confirmation
+  - Oscillators
+  - Support and Resistance
+
+keywords:
+  - RSI
+  - MACD
+  - ROC
+  - CCI
+  - Williams %R
+  - Stochastic Oscillator
+  - Momentum
+  - Divergence
+
+version: 1.0
+---
+
+# Momentum Indicators
+
+## Objective
+
+Understand the purpose of momentum indicators, the most commonly used momentum oscillators, and how they assist in evaluating trend strength, momentum, and potential changes in market behaviour.
+
+---
+
+# Momentum Indicators
+
+## Definition
+
+A **momentum indicator** measures the rate at which price changes over time.
+
+Unlike trend indicators, momentum indicators focus on the **strength and speed** of price movement rather than its direction alone.
+
+Most momentum indicators are oscillators that fluctuate within either a fixed or variable range.
+
+---
+
+## Purpose
+
+Momentum indicators are commonly used to:
+
+- Evaluate trend strength.
+- Identify weakening momentum.
+- Detect potential reversals.
+- Identify overbought and oversold conditions.
+- Confirm price action.
+
+Momentum indicators should always be interpreted alongside price and market structure.
+
+---
+
+# Relative Strength Index (RSI)
+
+## Definition
+
+The **Relative Strength Index (RSI)** is a momentum oscillator developed by **J. Welles Wilder**.
+
+It measures the magnitude of recent price gains relative to recent price losses.
+
+---
+
+## Characteristics
+
+- Oscillates between **0 and 100**.
+- Common default period: **14**.
+- Responds to changes in price momentum.
+
+---
+
+## Common Interpretation
+
+| RSI Level | General Interpretation |
+|-----------|------------------------|
+| Above 70 | Traditionally considered overbought |
+| Below 30 | Traditionally considered oversold |
+| Around 50 | Neutral momentum |
+
+Overbought and oversold conditions indicate strong momentum, not automatic reversal signals.
+
+---
+
+# Moving Average Convergence Divergence (MACD)
+
+## Definition
+
+**MACD** is a trend-following momentum indicator developed by **Gerald Appel**.
+
+It measures the relationship between two exponential moving averages.
+
+---
+
+## Components
+
+MACD consists of:
+
+- MACD Line
+- Signal Line
+- Histogram
+
+Each component provides information regarding momentum and trend development.
+
+---
+
+## Common Interpretation
+
+MACD is commonly used to evaluate:
+
+- Momentum changes.
+- Trend confirmation.
+- Bullish and bearish crossovers.
+- Divergence.
+
+MACD responds more slowly than many oscillators because it is derived from moving averages.
+
+---
+
+# Rate of Change (ROC)
+
+## Definition
+
+The **Rate of Change (ROC)** indicator measures the percentage change in price over a specified number of periods.
+
+It quantifies the speed of price movement.
+
+---
+
+## Characteristics
+
+ROC:
+
+- Oscillates around zero.
+- Measures momentum directly.
+- Can be positive or negative.
+
+---
+
+## Interpretation
+
+- Positive ROC indicates upward momentum.
+- Negative ROC indicates downward momentum.
+- Larger absolute values indicate stronger momentum.
+
+ROC measures momentum rather than trend direction.
+
+---
+
+# Commodity Channel Index (CCI)
+
+## Definition
+
+The **Commodity Channel Index (CCI)** is a momentum oscillator developed by **Donald Lambert**.
+
+It measures how far price has moved from its statistical average.
+
+---
+
+## Characteristics
+
+- Oscillates around zero.
+- Has no fixed upper or lower limits.
+- Common reference levels are **+100** and **−100**.
+
+---
+
+## Common Interpretation
+
+| CCI Value | General Interpretation |
+|-----------|------------------------|
+| Above +100 | Strong positive momentum |
+| Below -100 | Strong negative momentum |
+| Around 0 | Neutral momentum |
+
+CCI is commonly used to identify periods of unusually strong or weak price movement.
+
+---
+
+# Williams %R
+
+## Definition
+
+**Williams %R** is a momentum oscillator developed by **Larry Williams**.
+
+It compares the closing price with the highest and lowest prices over a specified lookback period.
+
+---
+
+## Characteristics
+
+- Oscillates between **0 and -100**.
+- Common default period: **14**.
+
+---
+
+## Common Interpretation
+
+| Williams %R | General Interpretation |
+|-------------|------------------------|
+| Above -20 | Traditionally considered overbought |
+| Below -80 | Traditionally considered oversold |
+
+Like RSI, these levels indicate momentum conditions rather than guaranteed reversals.
+
+---
+
+# Stochastic Oscillator
+
+## Definition
+
+The **Stochastic Oscillator** is a momentum indicator developed by **George Lane**.
+
+It measures the position of the closing price relative to the recent trading range.
+
+---
+
+## Components
+
+The indicator consists of:
+
+- %K Line
+- %D Line
+
+The relationship between these two lines is commonly used for momentum analysis.
+
+---
+
+## Characteristics
+
+- Oscillates between **0 and 100**.
+- Responds quickly to changes in momentum.
+- Frequently used in range-bound markets.
+
+---
+
+## Common Interpretation
+
+| Stochastic Value | General Interpretation |
+|------------------|------------------------|
+| Above 80 | Traditionally considered overbought |
+| Below 20 | Traditionally considered oversold |
+
+These conditions indicate momentum extremes rather than certain reversals.
+
+---
+
+# Divergence
+
+## Definition
+
+A **divergence** occurs when price movement and a momentum indicator move in different directions.
+
+The inconsistency suggests that momentum may not fully support the prevailing price movement.
+
+---
+
+## Bullish Divergence
+
+Occurs when:
+
+- Price forms lower lows.
+- The momentum indicator forms higher lows.
+
+This may indicate weakening selling momentum.
+
+---
+
+## Bearish Divergence
+
+Occurs when:
+
+- Price forms higher highs.
+- The momentum indicator forms lower highs.
+
+This may indicate weakening buying momentum.
+
+---
+
+## Interpretation
+
+Divergence:
+
+- Indicates weakening momentum.
+- Does not independently confirm trend reversal.
+- Requires confirmation through price action and market structure.
+
+---
+
+# Indicator Comparison
+
+| Indicator | Primary Purpose | Typical Range |
+|-----------|-----------------|---------------|
+| RSI | Momentum and overbought/oversold analysis | 0 to 100 |
+| MACD | Trend and momentum confirmation | Around zero |
+| ROC | Rate of price change | Around zero |
+| CCI | Price deviation from average | Variable |
+| Williams %R | Momentum extremes | 0 to -100 |
+| Stochastic | Position within recent trading range | 0 to 100 |
+
+---
+
+# Choosing a Momentum Indicator
+
+The choice depends on the analytical objective.
+
+| Objective | Common Indicator |
+|-----------|------------------|
+| General momentum analysis | RSI |
+| Trend confirmation | MACD |
+| Momentum acceleration | ROC |
+| Strong price deviation | CCI |
+| Momentum extremes | Williams %R |
+| Range-bound analysis | Stochastic |
+
+Different indicators often provide complementary information.
+
+---
+
+# Important Considerations
+
+- Momentum indicators measure **strength**, not future direction.
+- Overbought and oversold conditions can persist during strong trends.
+- Divergence indicates weakening momentum but does not confirm reversal.
+- Momentum indicators are most reliable when combined with price action, market structure, volume, and support and resistance.
+- No momentum indicator consistently outperforms all others across every market condition.
+
+---
+
+# Key Takeaways
+
+- Momentum indicators evaluate the strength and speed of price movement rather than trend direction alone.
+- **RSI**, **MACD**, **ROC**, **CCI**, **Williams %R**, and the **Stochastic Oscillator** each measure momentum using different methodologies.
+- Divergence between price and momentum may indicate weakening market participation but requires confirmation.
+- Momentum indicators are confirmation tools that should complement price action, trend analysis, and market structure.
+- Effective technical analysis combines multiple sources of evidence rather than relying on a single momentum indicator.

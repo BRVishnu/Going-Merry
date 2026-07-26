@@ -1,0 +1,322 @@
+---
+chapter_number: 12
+chapter_title: Indian Market
+document_title: Corporate and Regulatory Framework
+category: Indian Equity Market
+
+importance: High
+analytical_importance: ★★★★☆
+primary_time_horizon: Medium to Long Term
+
+prerequisite_concepts:
+  - Market Infrastructure
+  - Market Operations
+  - Price Action Fundamentals
+
+related_concepts:
+  - Corporate Actions
+  - Adjusted Charts
+  - SEBI
+  - Regulatory Disclosures
+  - Market Structure
+  - Technical Analysis
+
+keywords:
+  - Corporate Actions
+  - Stock Split
+  - Bonus Issue
+  - Dividend
+  - Rights Issue
+  - Adjusted Charts
+  - SEBI
+  - Regulatory Disclosure
+
+version: 1.0
+---
+
+# Corporate and Regulatory Framework
+
+## Objective
+
+Understand how corporate actions and the Indian regulatory framework influence historical price data, chart interpretation, and technical analysis. These factors ensure that price movements are interpreted within their correct corporate and regulatory context.
+
+---
+
+# Corporate Actions
+
+## Definition
+
+A **corporate action** is an event initiated by a listed company that affects its securities or shareholders.
+
+Some corporate actions change the price history of a stock without altering its underlying technical condition.
+
+---
+
+## Common Corporate Actions
+
+### Stock Split
+
+A stock split increases the number of outstanding shares while proportionally reducing the share price.
+
+Example:
+
+- Before split: ₹2,000
+- 1:2 split
+- After split: ₹1,000
+
+The company's market capitalization remains unchanged.
+
+---
+
+### Bonus Issue
+
+A bonus issue distributes additional shares to existing shareholders without additional payment.
+
+The share price adjusts to reflect the increased number of shares.
+
+---
+
+### Rights Issue
+
+A rights issue allows existing shareholders to purchase additional shares, usually at a predetermined price.
+
+This may temporarily influence price behaviour during the offering period.
+
+---
+
+### Cash Dividend
+
+A cash dividend distributes a portion of company profits to shareholders.
+
+On the ex-dividend date, the share price typically adjusts to reflect the dividend amount.
+
+---
+
+### Other Corporate Actions
+
+Additional corporate actions include:
+
+- Share buybacks.
+- Mergers and acquisitions.
+- Demergers.
+- Capital reduction.
+- Delisting.
+
+Each may influence historical price data or future technical interpretation.
+
+---
+
+# Adjusted vs Unadjusted Charts
+
+## Definition
+
+Historical charts may be displayed using either **adjusted** or **unadjusted** price data.
+
+The choice affects long-term technical analysis.
+
+---
+
+## Adjusted Charts
+
+Adjusted charts modify historical prices to account for corporate actions such as:
+
+- Stock splits.
+- Bonus issues.
+- Cash dividends (depending on the adjustment methodology).
+- Other capital restructuring events.
+
+The objective is to preserve price continuity.
+
+---
+
+## Advantages
+
+Adjusted charts:
+
+- Preserve long-term trend continuity.
+- Maintain consistent support and resistance.
+- Improve moving average calculations.
+- Produce more reliable historical technical analysis.
+
+---
+
+## Unadjusted Charts
+
+Unadjusted charts display historical prices exactly as they were traded.
+
+Corporate actions therefore appear as sudden price gaps or discontinuities.
+
+---
+
+## Appropriate Usage
+
+| Chart Type | Typical Use |
+|------------|-------------|
+| Adjusted | Long-term technical analysis |
+| Unadjusted | Reviewing actual historical traded prices and corporate action effects |
+
+For long-term trend analysis, adjusted charts are generally preferred.
+
+---
+
+# SEBI Regulations
+
+## Definition
+
+The **Securities and Exchange Board of India (SEBI)** is the statutory regulator of the Indian securities market.
+
+SEBI establishes regulations governing listed companies, market participants, and securities exchanges.
+
+---
+
+## Objectives
+
+SEBI seeks to:
+
+- Protect investors.
+- Promote fair and transparent markets.
+- Regulate intermediaries.
+- Prevent market manipulation.
+- Ensure orderly market functioning.
+
+---
+
+## Importance in Technical Analysis
+
+Although technical analysis focuses on price behaviour, regulatory oversight contributes to:
+
+- Market integrity.
+- Reliable price discovery.
+- Consistent disclosure standards.
+- Reduced market abuse.
+
+Regulations provide the framework within which technical analysis operates.
+
+---
+
+# Regulatory Disclosures
+
+## Definition
+
+Listed companies are required to disclose material information that may influence investment decisions.
+
+These disclosures promote market transparency.
+
+---
+
+## Common Disclosures
+
+Examples include:
+
+- Financial results.
+- Corporate actions.
+- Shareholding patterns.
+- Material business developments.
+- Board decisions.
+- Mergers and acquisitions.
+- Regulatory actions.
+
+---
+
+## Technical Considerations
+
+Major disclosures may lead to:
+
+- Price gaps.
+- Increased volatility.
+- Higher trading volume.
+- Trend acceleration or reversal.
+
+Technical analysts should recognize when significant price movement is associated with publicly disclosed information.
+
+---
+
+# Technical Analysis Considerations
+
+Corporate and regulatory events provide important context for interpreting charts.
+
+---
+
+## Price Continuity
+
+Long-term technical analysis should generally use adjusted historical price data to preserve structural continuity.
+
+---
+
+## Corporate Action Awareness
+
+Major corporate actions should be identified before evaluating:
+
+- Trend changes.
+- Breakouts.
+- Moving averages.
+- Historical support and resistance.
+
+Apparent technical changes may simply reflect accounting adjustments rather than genuine market behaviour.
+
+---
+
+## Regulatory Events
+
+Unexpected regulatory announcements may temporarily alter:
+
+- Market sentiment.
+- Liquidity.
+- Trading volume.
+- Price volatility.
+
+Such events should be considered alongside technical observations.
+
+---
+
+## Integration with Technical Analysis
+
+Corporate and regulatory information should:
+
+- Provide context.
+- Improve interpretation.
+- Explain structural price adjustments.
+
+They should not replace price action, market structure, or trend analysis as the primary basis of technical analysis.
+
+---
+
+# Summary
+
+| Topic | Technical Importance |
+|--------|----------------------|
+| Corporate Actions | Affect historical price data |
+| Adjusted Charts | Preserve long-term price continuity |
+| Unadjusted Charts | Reflect actual historical trading prices |
+| SEBI Regulations | Support fair and transparent markets |
+| Regulatory Disclosures | May influence short-term market behaviour |
+
+---
+
+# Best Practices
+
+- Use adjusted charts for long-term technical analysis.
+- Verify whether significant price gaps result from corporate actions.
+- Consider major regulatory disclosures when interpreting unusual price or volume behaviour.
+- Maintain consistency in chart data sources and adjustment methods.
+- Base technical conclusions on market structure and price action after accounting for corporate events.
+
+---
+
+# Important Considerations
+
+- Corporate actions may significantly alter historical price data without changing the company's underlying technical condition.
+- Adjusted and unadjusted charts serve different analytical purposes.
+- SEBI regulations provide the regulatory framework that supports fair price discovery and market transparency.
+- Regulatory disclosures may influence short-term technical behaviour but do not invalidate established analytical principles.
+- Corporate and regulatory context should complement, rather than replace, objective technical analysis.
+
+---
+
+# Key Takeaways
+
+- **Corporate actions** such as stock splits, bonus issues, dividends, and rights issues can affect historical price data and chart interpretation.
+- **Adjusted charts** preserve long-term price continuity and are generally preferred for technical analysis, while **unadjusted charts** reflect actual historical trading prices.
+- **SEBI** regulates the Indian securities market, promoting transparency, investor protection, and orderly market functioning.
+- **Regulatory disclosures** may lead to significant changes in price, volume, and volatility and should be considered when interpreting technical conditions.
+- Accurate technical analysis requires recognizing corporate and regulatory events while continuing to prioritize price action, market structure, trend, and volume as the primary analytical framework.

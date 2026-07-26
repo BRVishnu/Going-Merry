@@ -1,0 +1,307 @@
+---
+chapter_number: 2
+chapter_title: Price Action Fundamentals
+document_title: Candlesticks
+category: Price Fundamentals
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - OHLC
+  - Opening Price
+  - Closing Price
+  - High and Low
+
+related_concepts:
+  - Price Gaps
+  - Trend
+  - Market Structure
+  - Support
+  - Resistance
+  - Volume
+  - Candlestick Patterns
+
+keywords:
+  - Candlestick
+  - OHLC
+  - Real Body
+  - Upper Shadow
+  - Lower Shadow
+  - Wick
+  - Bullish Candle
+  - Bearish Candle
+  - Price Action
+
+version: 1.0
+---
+
+# Candlesticks
+
+## Objective
+
+Understand how candlesticks are constructed from OHLC data, identify their structural components, and learn how candlesticks visually represent price movement within a trading period.
+
+---
+
+# Candlestick Construction
+
+## Definition
+
+A **candlestick** is a graphical representation of a single OHLC (Open, High, Low, Close) record for a specified timeframe.
+
+Each candlestick summarizes all trading activity that occurred during one trading period.
+
+Examples:
+
+- 1-minute candlestick
+- 5-minute candlestick
+- Daily candlestick
+- Weekly candlestick
+
+Each timeframe produces its own independent candlestick.
+
+---
+
+## Construction Process
+
+A candlestick is constructed using four prices:
+
+| OHLC Component | Candlestick Representation |
+|---------------|----------------------------|
+| Open | One end of the real body |
+| Close | Opposite end of the real body |
+| High | Top of the upper shadow |
+| Low | Bottom of the lower shadow |
+
+The High and Low determine the total price range, while the Open and Close determine the body.
+
+---
+
+## Mathematical Representation
+
+```
+Body Size = |Close − Open|
+
+Upper Shadow = High − max(Open, Close)
+
+Lower Shadow = min(Open, Close) − Low
+```
+
+---
+
+# Candle Anatomy
+
+Every candlestick consists of three primary components.
+
+---
+
+## Real Body
+
+The **real body** represents the price difference between the opening and closing prices.
+
+Characteristics:
+
+- Indicates net price movement.
+- May be large, small, or absent.
+- Does not include price extremes beyond the Open and Close.
+
+---
+
+## Upper Shadow
+
+The **upper shadow** (upper wick) extends from the top of the real body to the session High.
+
+It represents the highest price reached above the opening or closing price.
+
+---
+
+## Lower Shadow
+
+The **lower shadow** (lower wick) extends from the bottom of the real body to the session Low.
+
+It represents the lowest price reached below the opening or closing price.
+
+---
+
+## Candle Structure
+
+```
+        High
+         │
+         │
+    Upper Shadow
+         │
+   ┌────────────┐
+   │ Real Body  │
+   └────────────┘
+         │
+    Lower Shadow
+         │
+         │
+        Low
+```
+
+---
+
+# Bullish vs Bearish Candles
+
+## Bullish Candlestick
+
+A candlestick is **bullish** when:
+
+```
+Close > Open
+```
+
+Characteristics:
+
+- Buyers achieved a positive net price movement.
+- Closing price is above the opening price.
+- Usually displayed in green or white, depending on chart settings.
+
+---
+
+## Bearish Candlestick
+
+A candlestick is **bearish** when:
+
+```
+Close < Open
+```
+
+Characteristics:
+
+- Sellers achieved a negative net price movement.
+- Closing price is below the opening price.
+- Usually displayed in red or black, depending on chart settings.
+
+---
+
+## Neutral Candlestick
+
+When:
+
+```
+Close ≈ Open
+```
+
+the real body becomes extremely small or disappears.
+
+This indicates minimal net price movement during the period.
+
+---
+
+## Color Considerations
+
+Candlestick colors are visual conventions and are configurable in most charting platforms.
+
+The analytical interpretation depends solely on the relationship between the Open and Close, not on the displayed color.
+
+---
+
+# Reading Candlesticks
+
+## Fundamental Principle
+
+A candlestick describes **what occurred during a completed trading period**.
+
+It does not independently predict future price movement.
+
+---
+
+## Observable Information
+
+A candlestick allows the observer to identify:
+
+- Session opening price
+- Session closing price
+- Highest traded price
+- Lowest traded price
+- Net price movement
+- Trading range
+- Relative buying and selling pressure during the session
+
+---
+
+## Body Interpretation
+
+A **large body** generally indicates:
+
+- Strong net directional movement.
+- Greater difference between the Open and Close.
+
+A **small body** generally indicates:
+
+- Limited net movement.
+- Relative balance between buyers and sellers.
+
+---
+
+## Shadow Interpretation
+
+A **long upper shadow** indicates that price traded significantly above the opening or closing price before moving lower.
+
+A **long lower shadow** indicates that price traded significantly below the opening or closing price before moving higher.
+
+Shadow length alone does not indicate future price direction.
+
+---
+
+## Context Dependency
+
+Individual candlesticks should always be interpreted alongside:
+
+- Trend
+- Market structure
+- Support and resistance
+- Volume
+- Previous candlesticks
+- Timeframe
+
+The same candlestick may have different significance depending on its market context.
+
+---
+
+# Price Representation
+
+## Visual Compression
+
+Candlesticks compress all trading activity within a period into a single visual object.
+
+Instead of observing every individual trade, analysts observe one candlestick representing the complete session.
+
+---
+
+## Advantages
+
+Compared to raw transaction data, candlesticks provide:
+
+- Immediate visualization of price movement.
+- Clear identification of trading range.
+- Simple comparison across periods.
+- Efficient recognition of recurring price behavior.
+- Foundation for pattern recognition.
+
+---
+
+## Relationship with OHLC
+
+Every candlestick is a direct graphical representation of one OHLC record.
+
+No additional price information is introduced during candlestick construction.
+
+The candlestick is purely a visual transformation of OHLC data.
+
+---
+
+# Key Takeaways
+
+- Every candlestick represents one OHLC record for a specific timeframe.
+- A candlestick consists of a **real body**, **upper shadow**, and **lower shadow**.
+- The body represents the relationship between the Open and Close.
+- The shadows represent the highest and lowest prices reached during the trading period.
+- Bullish and bearish candles are determined solely by the relationship between the Open and Close.
+- Candlesticks describe completed price behavior and should always be interpreted within the broader context of trend, market structure, support and resistance, and volume.

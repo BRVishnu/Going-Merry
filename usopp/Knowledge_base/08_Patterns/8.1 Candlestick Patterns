@@ -1,0 +1,349 @@
+---
+chapter_number: 8
+chapter_title: Patterns
+document_title: Candlestick Patterns
+category: Candlestick Patterns
+
+importance: High
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Candlesticks
+  - Price Action Fundamentals
+  - Trend Fundamentals
+  - Market Structure
+  - Support and Resistance
+
+related_concepts:
+  - Trend Reversal
+  - Trend Continuation
+  - Volume
+  - Swing Structure
+  - Market Phases
+  - Momentum Indicators
+
+keywords:
+  - Doji
+  - Hammer
+  - Hanging Man
+  - Shooting Star
+  - Engulfing
+  - Harami
+  - Morning Star
+  - Evening Star
+  - Candlestick Patterns
+
+version: 1.0
+---
+
+# Candlestick Patterns
+
+## Objective
+
+Understand the most widely recognized candlestick patterns and their role in interpreting market sentiment. Candlestick patterns provide contextual information regarding buying and selling pressure but should always be evaluated within the broader framework of market structure, trend, and support and resistance.
+
+---
+
+# Candlestick Patterns
+
+## Definition
+
+A **candlestick pattern** is a recognizable arrangement of one or more candlesticks that reflects the interaction between buyers and sellers during one or more trading periods.
+
+Patterns describe historical price behaviour and provide context for interpreting market conditions.
+
+They do not independently predict future price movement.
+
+---
+
+# Doji
+
+## Definition
+
+A **Doji** forms when the opening and closing prices are equal or nearly equal.
+
+The real body is very small, while the shadows may vary in length.
+
+---
+
+## Characteristics
+
+- Very small real body.
+- Upper and lower shadows may be short or long.
+- Indicates market indecision.
+
+---
+
+## Market Interpretation
+
+A Doji suggests that buyers and sellers reached temporary equilibrium during the trading period.
+
+Its significance depends entirely on the surrounding trend and market structure.
+
+---
+
+# Hammer
+
+## Definition
+
+A **Hammer** is a bullish single-candlestick pattern typically observed after a decline.
+
+It has:
+
+- A small real body near the top of the trading range.
+- A long lower shadow.
+- Little or no upper shadow.
+
+---
+
+## Market Interpretation
+
+The Hammer indicates that sellers initially pushed price lower, but buyers regained control before the close.
+
+Confirmation requires subsequent bullish price action.
+
+---
+
+# Hanging Man
+
+## Definition
+
+A **Hanging Man** has the same structure as a Hammer but appears after an advance.
+
+---
+
+## Characteristics
+
+- Small real body.
+- Long lower shadow.
+- Little or no upper shadow.
+
+---
+
+## Market Interpretation
+
+The Hanging Man suggests that selling pressure emerged during the session despite the prevailing uptrend.
+
+Additional confirmation is required before interpreting it as a bearish reversal.
+
+---
+
+# Shooting Star
+
+## Definition
+
+A **Shooting Star** is a bearish single-candlestick pattern typically observed after an advance.
+
+It has:
+
+- A small real body near the bottom of the trading range.
+- A long upper shadow.
+- Little or no lower shadow.
+
+---
+
+## Market Interpretation
+
+The pattern indicates that buyers initially pushed prices higher before sellers regained control.
+
+Confirmation through subsequent price action is required.
+
+---
+
+# Engulfing
+
+## Definition
+
+An **Engulfing Pattern** consists of two consecutive candlesticks in which the second candle's real body completely engulfs the real body of the first candle.
+
+---
+
+## Bullish Engulfing
+
+Occurs after a decline.
+
+Characteristics:
+
+- First candle is bearish.
+- Second candle is bullish.
+- Bullish body completely engulfs the previous bearish body.
+
+May indicate strengthening buying pressure.
+
+---
+
+## Bearish Engulfing
+
+Occurs after an advance.
+
+Characteristics:
+
+- First candle is bullish.
+- Second candle is bearish.
+- Bearish body completely engulfs the previous bullish body.
+
+May indicate strengthening selling pressure.
+
+Confirmation requires additional evidence.
+
+---
+
+# Harami
+
+## Definition
+
+A **Harami Pattern** consists of two consecutive candlesticks where the second candle's real body is contained within the real body of the first candle.
+
+---
+
+## Bullish Harami
+
+Typically appears after a decline.
+
+May indicate decreasing selling momentum.
+
+---
+
+## Bearish Harami
+
+Typically appears after an advance.
+
+May indicate decreasing buying momentum.
+
+---
+
+## Interpretation
+
+Harami patterns often represent reduced momentum rather than immediate trend reversal.
+
+---
+
+# Morning Star
+
+## Definition
+
+A **Morning Star** is a three-candlestick bullish reversal pattern typically observed after a decline.
+
+---
+
+## Structure
+
+The pattern consists of:
+
+1. Strong bearish candle.
+2. Small-bodied candle indicating indecision.
+3. Strong bullish candle.
+
+---
+
+## Market Interpretation
+
+The pattern suggests weakening selling pressure followed by increasing buying participation.
+
+Confirmation is provided by subsequent bullish price action.
+
+---
+
+# Evening Star
+
+## Definition
+
+An **Evening Star** is a three-candlestick bearish reversal pattern typically observed after an advance.
+
+---
+
+## Structure
+
+The pattern consists of:
+
+1. Strong bullish candle.
+2. Small-bodied candle indicating indecision.
+3. Strong bearish candle.
+
+---
+
+## Market Interpretation
+
+The pattern suggests weakening buying pressure followed by increasing selling participation.
+
+Confirmation requires subsequent bearish price action.
+
+---
+
+# Reliability
+
+## Context Matters
+
+The reliability of candlestick patterns depends primarily on their market context.
+
+The same pattern may have very different significance depending on:
+
+- Prevailing trend.
+- Market structure.
+- Support and resistance.
+- Trading volume.
+- Volatility.
+- Timeframe.
+
+---
+
+## Confirmation
+
+Candlestick patterns should be confirmed using additional technical evidence, including:
+
+- Trend structure.
+- Breakouts or breakdowns.
+- Volume confirmation.
+- Momentum indicators.
+- Support and resistance.
+- Multiple timeframe analysis.
+
+A single candlestick pattern should not be interpreted as a standalone trading signal.
+
+---
+
+## Relative Reliability
+
+Generally:
+
+- Multi-candlestick patterns provide more information than single-candlestick patterns.
+- Patterns occurring near significant support or resistance tend to have greater analytical significance.
+- Higher timeframe patterns generally carry greater importance than lower timeframe patterns.
+
+These are broad observations rather than fixed rules.
+
+---
+
+# Pattern Comparison
+
+| Pattern | Candles | Common Context | Typical Interpretation |
+|----------|----------|----------------|-------------------------|
+| Doji | 1 | Any trend | Indecision |
+| Hammer | 1 | After decline | Potential bullish reversal |
+| Hanging Man | 1 | After advance | Potential bearish weakening |
+| Shooting Star | 1 | After advance | Potential bearish reversal |
+| Engulfing | 2 | Trend transition | Strong momentum shift |
+| Harami | 2 | Trend transition | Momentum weakening |
+| Morning Star | 3 | After decline | Potential bullish reversal |
+| Evening Star | 3 | After advance | Potential bearish reversal |
+
+---
+
+# Important Considerations
+
+- Candlestick patterns describe historical price behaviour rather than future outcomes.
+- No pattern guarantees trend continuation or reversal.
+- Confirmation from price action and market structure is essential.
+- Pattern interpretation should always incorporate trend, support and resistance, volume, and momentum.
+- Higher timeframe patterns generally provide stronger analytical evidence than lower timeframe patterns.
+
+---
+
+# Key Takeaways
+
+- Candlestick patterns summarize recurring relationships between buyers and sellers.
+- **Doji** reflects indecision, while **Hammer**, **Hanging Man**, and **Shooting Star** are single-candle patterns that may indicate changes in market sentiment.
+- **Engulfing**, **Harami**, **Morning Star**, and **Evening Star** are multi-candlestick patterns that provide additional context regarding momentum shifts.
+- The analytical value of every candlestick pattern depends on its surrounding market environment.
+- Candlestick patterns should always be interpreted as confirmation tools within the broader framework of price action, trend, market structure, support and resistance, and volume.

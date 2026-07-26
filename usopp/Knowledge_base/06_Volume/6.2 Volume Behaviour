@@ -1,0 +1,287 @@
+---
+chapter_number: 6
+chapter_title: Volume
+document_title: Volume Behaviour
+category: Volume
+
+importance: High
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Volume Fundamentals
+  - Market Phases
+  - Trend Fundamentals
+  - Market Structure
+  - Support and Resistance
+
+related_concepts:
+  - Volume Indicators
+  - Volume Profile
+  - Accumulation
+  - Distribution
+  - Trend Reversal
+  - Trend Continuation
+  - Breakouts
+  - Breakdowns
+
+keywords:
+  - Accumulation Volume
+  - Distribution Volume
+  - Volume Climax
+  - Dry Volume
+  - Volume Pattern
+  - Buying Volume
+  - Selling Volume
+  - Market Participation
+
+version: 1.0
+---
+
+# Volume Behaviour
+
+## Objective
+
+Understand how changes in trading volume provide additional context for interpreting market participation, trend development, and structural transitions. Volume behaviour complements price action by indicating the intensity of buying and selling activity.
+
+---
+
+# Accumulation Volume
+
+## Definition
+
+**Accumulation volume** refers to volume behaviour that is consistent with increasing buying activity over time.
+
+It is commonly observed during accumulation phases, early uptrends, or sustained advances.
+
+---
+
+## Characteristics
+
+Accumulation volume may exhibit:
+
+- Increasing volume during upward price movement.
+- Relatively lower volume during pullbacks.
+- Repeated buying activity near support.
+- Gradual increase in market participation.
+
+These characteristics suggest increasing demand but should not be interpreted independently.
+
+---
+
+## Market Interpretation
+
+Accumulation volume may indicate:
+
+- Growing buying interest.
+- Increasing market participation.
+- Strengthening bullish structure.
+
+Confirmation requires supporting price action and market structure.
+
+---
+
+# Distribution Volume
+
+## Definition
+
+**Distribution volume** refers to volume behaviour that is consistent with increasing selling activity over time.
+
+It is commonly observed during distribution phases, late-stage uptrends, or developing downtrends.
+
+---
+
+## Characteristics
+
+Distribution volume may exhibit:
+
+- Increasing volume during downward price movement.
+- Reduced volume during short-term rallies.
+- Repeated selling activity near resistance.
+- Increasing participation from sellers.
+
+---
+
+## Market Interpretation
+
+Distribution volume may indicate:
+
+- Increasing selling pressure.
+- Weakening bullish participation.
+- Potential structural deterioration.
+
+Distribution volume alone does not confirm a bearish reversal.
+
+---
+
+# Volume Climax
+
+## Definition
+
+A **volume climax** is an unusually large increase in trading volume relative to recent trading activity.
+
+It reflects exceptional market participation during a short period.
+
+---
+
+## Characteristics
+
+Volume climax commonly occurs during:
+
+- Strong breakouts.
+- Strong breakdowns.
+- Sharp trend reversals.
+- Major news events.
+- Panic buying or panic selling.
+
+---
+
+## Interpretation
+
+A volume climax indicates that market participation has increased significantly.
+
+Depending on the surrounding price action, it may accompany:
+
+- Trend continuation.
+- Trend exhaustion.
+- Trend reversal.
+- High-volatility events.
+
+The interpretation depends entirely on market context.
+
+---
+
+# Dry Volume
+
+## Definition
+
+**Dry volume** refers to unusually low trading volume relative to recent market activity.
+
+It indicates reduced participation by market participants.
+
+---
+
+## Characteristics
+
+Dry volume commonly occurs during:
+
+- Consolidation.
+- Sideways markets.
+- Holiday trading sessions.
+- Narrow trading ranges.
+- Periods of market indecision.
+
+---
+
+## Market Interpretation
+
+Dry volume may indicate:
+
+- Reduced market conviction.
+- Limited buying and selling interest.
+- Temporary market equilibrium.
+
+Dry volume should not be interpreted as bullish or bearish without supporting price behaviour.
+
+---
+
+# Volume Patterns
+
+## Definition
+
+**Volume patterns** describe recurring relationships between price movement and trading volume over multiple trading periods.
+
+These patterns help evaluate the strength and sustainability of market behaviour.
+
+---
+
+## Common Volume Patterns
+
+### Expanding Volume
+
+Characteristics:
+
+- Increasing trading activity.
+- Rising market participation.
+- Often accompanies strong directional movement.
+
+---
+
+### Contracting Volume
+
+Characteristics:
+
+- Declining trading activity.
+- Reduced participation.
+- Frequently observed during consolidation or corrections.
+
+---
+
+### Rising Price with Rising Volume
+
+Common interpretation:
+
+- Stronger bullish participation.
+- Greater confidence in upward movement.
+
+---
+
+### Falling Price with Rising Volume
+
+Common interpretation:
+
+- Stronger bearish participation.
+- Greater confidence in downward movement.
+
+---
+
+### Rising Price with Falling Volume
+
+Common interpretation:
+
+- Reduced buying participation.
+- Possible weakening of the advance.
+
+---
+
+### Falling Price with Falling Volume
+
+Common interpretation:
+
+- Reduced selling participation.
+- Possible weakening of the decline.
+
+These observations are probabilistic rather than deterministic.
+
+---
+
+# Relationship with Market Phases
+
+| Market Phase | Typical Volume Behaviour |
+|---------------|--------------------------|
+| Accumulation | Gradually increasing buying participation |
+| Markup | Consistently healthy volume during advances |
+| Distribution | Increasing selling participation and mixed volume |
+| Markdown | Higher volume during declines |
+
+Volume characteristics vary across markets and individual securities.
+
+---
+
+# Important Considerations
+
+- Volume behaviour should always be interpreted alongside price action.
+- Individual high-volume or low-volume sessions rarely provide sufficient evidence on their own.
+- Volume patterns are more meaningful when evaluated over multiple trading periods.
+- Market structure, support and resistance, and trend direction remain the primary analytical framework.
+- Volume behaviour confirms price movement but does not independently predict future direction.
+
+---
+
+# Key Takeaways
+
+- **Accumulation volume** reflects increasing buying participation.
+- **Distribution volume** reflects increasing selling participation.
+- A **volume climax** represents unusually high market participation and may accompany continuation, exhaustion, or reversal depending on context.
+- **Dry volume** indicates reduced market participation and is commonly associated with consolidation or low-conviction markets.
+- Volume patterns provide additional confirmation for price action and should always be interpreted together with market structure, trend, and support and resistance.

@@ -1,0 +1,295 @@
+---
+chapter_number: 4
+chapter_title: Support and Resistance
+document_title: Dynamic Levels
+category: Support and Resistance
+
+importance: High
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Support and Resistance Fundamentals
+  - Trend Structure
+  - Swing Structure
+  - Market Structure
+
+related_concepts:
+  - Moving Averages
+  - Breakouts
+  - Breakdowns
+  - Trend
+  - Pullbacks
+  - Retracements
+  - Support
+  - Resistance
+
+keywords:
+  - Dynamic Support
+  - Dynamic Resistance
+  - Trendline
+  - Trend Channel
+  - Ascending Channel
+  - Descending Channel
+  - Price Channel
+
+version: 1.0
+---
+
+# Dynamic Levels
+
+## Objective
+
+Understand dynamic support and resistance, how trendlines and channels are constructed, and how these moving reference levels help evaluate trend direction, market structure, and potential price reactions.
+
+---
+
+# Dynamic Support
+
+## Definition
+
+**Dynamic Support** is a support level that changes over time instead of remaining at a fixed price.
+
+Unlike horizontal support, dynamic support moves with the prevailing trend.
+
+---
+
+## Characteristics
+
+Dynamic support:
+
+- Changes as price evolves.
+- Commonly slopes upward during an uptrend.
+- Represents areas where buying pressure has repeatedly emerged.
+- Provides a moving reference for trend continuation.
+
+---
+
+## Common Sources
+
+Dynamic support may be formed by:
+
+- Uptrend trendlines.
+- Rising moving averages.
+- Lower boundaries of ascending channels.
+
+The specific method depends on the analytical framework being used.
+
+---
+
+## Market Behaviour
+
+When price approaches dynamic support, possible outcomes include:
+
+- Price resumes the prevailing uptrend.
+- Price consolidates near the level.
+- Price breaks below the level.
+
+Dynamic support does not guarantee a reversal.
+
+---
+
+# Dynamic Resistance
+
+## Definition
+
+**Dynamic Resistance** is a resistance level that changes over time rather than remaining fixed at a single price.
+
+It typically follows the direction of a declining market.
+
+---
+
+## Characteristics
+
+Dynamic resistance:
+
+- Changes continuously with price movement.
+- Commonly slopes downward during a downtrend.
+- Represents areas where selling pressure has repeatedly emerged.
+- Provides a moving reference for trend continuation.
+
+---
+
+## Common Sources
+
+Dynamic resistance may be formed by:
+
+- Downtrend trendlines.
+- Falling moving averages.
+- Upper boundaries of descending channels.
+
+---
+
+## Market Behaviour
+
+When price approaches dynamic resistance, possible outcomes include:
+
+- Price resumes the prevailing downtrend.
+- Price consolidates near the level.
+- Price breaks above the level.
+
+Dynamic resistance should be interpreted alongside broader market structure.
+
+---
+
+# Trendlines
+
+## Definition
+
+A **trendline** is a straight line drawn by connecting significant swing points to represent the prevailing direction of price movement.
+
+Trendlines are visual tools used to identify dynamic support and resistance.
+
+---
+
+## Uptrend Trendline
+
+An uptrend trendline is constructed by connecting two or more significant **Higher Lows**.
+
+Characteristics:
+
+- Slopes upward.
+- Represents dynamic support.
+- Indicates the direction of the prevailing uptrend.
+
+---
+
+## Downtrend Trendline
+
+A downtrend trendline is constructed by connecting two or more significant **Lower Highs**.
+
+Characteristics:
+
+- Slopes downward.
+- Represents dynamic resistance.
+- Indicates the direction of the prevailing downtrend.
+
+---
+
+## Construction Principles
+
+A trendline should:
+
+- Connect confirmed swing points.
+- Follow the overall price structure.
+- Minimize unnecessary intersections with price.
+- Represent the dominant market direction.
+
+More confirmed touches generally increase the analytical significance of a trendline.
+
+---
+
+## Trendline Breaks
+
+A trendline break occurs when price moves beyond the established trendline.
+
+A break may indicate:
+
+- Weakening trend.
+- Change in market structure.
+- Beginning of consolidation.
+- Potential trend reversal.
+
+A trendline break alone is insufficient to confirm a trend reversal.
+
+---
+
+# Channels
+
+## Definition
+
+A **channel** consists of two approximately parallel trendlines that contain the majority of price movement.
+
+Channels define the upper and lower boundaries within which price trends.
+
+---
+
+## Ascending Channel
+
+An **ascending channel** is formed by:
+
+- An upward-sloping support line.
+- A parallel upward-sloping resistance line.
+
+Characteristics:
+
+- Higher Highs.
+- Higher Lows.
+- Sustained upward trend.
+- Dynamic support and resistance.
+
+---
+
+## Descending Channel
+
+A **descending channel** is formed by:
+
+- A downward-sloping resistance line.
+- A parallel downward-sloping support line.
+
+Characteristics:
+
+- Lower Highs.
+- Lower Lows.
+- Sustained downward trend.
+- Dynamic support and resistance.
+
+---
+
+## Horizontal Channel
+
+A **horizontal channel** occurs when both boundaries remain relatively flat.
+
+Characteristics:
+
+- Sideways movement.
+- Repeated interaction with support and resistance.
+- Temporary market equilibrium.
+
+Horizontal channels are commonly associated with consolidation.
+
+---
+
+## Analytical Importance
+
+Channels help identify:
+
+- Trend direction.
+- Trend strength.
+- Dynamic support.
+- Dynamic resistance.
+- Potential breakout or breakdown areas.
+
+They provide a structured framework for evaluating price movement.
+
+---
+
+# Dynamic vs Horizontal Levels
+
+| Dynamic Levels | Horizontal Levels |
+|----------------|-------------------|
+| Move with price over time | Remain at relatively fixed price levels |
+| Derived from trend direction | Derived from historical price reactions |
+| Commonly represented by trendlines or channels | Commonly represented by swing highs and swing lows |
+| Adapt to changing market structure | Represent historical market structure |
+
+Both forms of support and resistance are complementary and are often used together.
+
+---
+
+# Important Considerations
+
+- Dynamic levels are approximations rather than exact price values.
+- Trendlines and channels are analytical tools and may vary slightly depending on the chosen swing points.
+- Multiple confirmations generally increase the significance of a dynamic level.
+- Dynamic support and resistance should always be interpreted alongside trend, market structure, horizontal levels, and volume.
+
+---
+
+# Key Takeaways
+
+- **Dynamic support** and **dynamic resistance** move with the prevailing trend rather than remaining fixed.
+- **Trendlines** connect confirmed swing points to represent the dominant direction of price movement.
+- **Channels** consist of parallel trendlines that define the boundaries of a trending market.
+- Trendlines and channels provide dynamic reference levels for evaluating trend continuation, trend weakening, and structural changes.
+- Dynamic levels are most effective when combined with horizontal support and resistance, market structure, and volume analysis.

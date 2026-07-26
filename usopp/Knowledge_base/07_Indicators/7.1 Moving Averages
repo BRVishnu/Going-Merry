@@ -1,0 +1,370 @@
+---
+chapter_number: 7
+chapter_title: Indicators
+document_title: Moving Averages
+category: Trend Indicators
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Trend Fundamentals
+  - Trend Development
+  - Dynamic Levels
+  - Volume Fundamentals
+  - Market Structure
+
+related_concepts:
+  - Trend
+  - Dynamic Support
+  - Dynamic Resistance
+  - Crossovers
+  - VWAP
+  - Momentum Indicators
+  - Trend Strength
+
+keywords:
+  - Moving Average
+  - SMA
+  - EMA
+  - WMA
+  - VWMA
+  - 20 DMA
+  - 50 DMA
+  - 100 DMA
+  - 200 DMA
+  - Golden Cross
+  - Death Cross
+
+version: 1.0
+---
+
+# Moving Averages
+
+## Objective
+
+Understand the purpose of moving averages, the major types used in technical analysis, and how they assist in identifying trend direction, trend strength, dynamic support and resistance, and market structure.
+
+---
+
+# Moving Averages
+
+## Definition
+
+A **Moving Average (MA)** is a technical indicator that smooths historical price data by calculating the average price over a specified number of periods.
+
+As new price data becomes available, the calculation updates continuously, causing the average to "move" over time.
+
+Moving averages are **lagging indicators** because they are derived from historical prices.
+
+---
+
+## Purpose
+
+Moving averages are commonly used to:
+
+- Identify trend direction.
+- Smooth short-term price fluctuations.
+- Identify dynamic support and resistance.
+- Compare short-term and long-term trends.
+- Generate crossover signals.
+
+They do not predict future price movement.
+
+---
+
+# Simple Moving Average (SMA)
+
+## Definition
+
+A **Simple Moving Average (SMA)** calculates the arithmetic mean of the closing prices over a specified number of periods.
+
+Each observation receives equal weight.
+
+---
+
+## Characteristics
+
+SMA:
+
+- Is simple to calculate.
+- Produces a smooth trend representation.
+- Responds relatively slowly to recent price changes.
+- Is widely used for long-term trend analysis.
+
+---
+
+## Common Applications
+
+SMA is frequently used for:
+
+- Long-term trend identification.
+- Dynamic support and resistance.
+- Trend confirmation.
+- Institutional market analysis.
+
+---
+
+# Exponential Moving Average (EMA)
+
+## Definition
+
+An **Exponential Moving Average (EMA)** assigns greater weight to more recent prices while still incorporating historical data.
+
+Recent price changes therefore influence the EMA more rapidly than the SMA.
+
+---
+
+## Characteristics
+
+EMA:
+
+- Responds faster to changing prices.
+- Places greater emphasis on recent market activity.
+- Produces more responsive trend signals.
+- Is commonly used in short- and medium-term analysis.
+
+---
+
+## Common Applications
+
+EMA is frequently used for:
+
+- Short-term trend analysis.
+- Momentum evaluation.
+- Active trading systems.
+- Moving average crossover strategies.
+
+---
+
+# Weighted Moving Average (WMA)
+
+## Definition
+
+A **Weighted Moving Average (WMA)** assigns different weights to observations, with more recent prices receiving greater importance.
+
+Unlike EMA, the weighting is explicitly defined rather than exponentially calculated.
+
+---
+
+## Characteristics
+
+WMA:
+
+- Responds more quickly than SMA.
+- Produces less lag than equal-weight averages.
+- Emphasizes recent price movement.
+- Is less commonly used than SMA or EMA.
+
+---
+
+# Volume Weighted Moving Average (VWMA)
+
+## Definition
+
+A **Volume Weighted Moving Average (VWMA)** incorporates both price and trading volume into the moving average calculation.
+
+Periods with higher trading volume exert greater influence on the average.
+
+---
+
+## Characteristics
+
+VWMA:
+
+- Combines price and volume.
+- Reflects periods of greater market participation.
+- May better represent heavily traded price movements.
+- Is useful when volume confirmation is important.
+
+---
+
+# Common Moving Average Periods
+
+The significance of a moving average depends on the selected lookback period.
+
+---
+
+## 20-Day Moving Average (20 DMA)
+
+The **20 DMA** primarily reflects short-term market behaviour.
+
+Common uses:
+
+- Short-term trend identification.
+- Dynamic support and resistance.
+- Pullback analysis.
+
+It responds relatively quickly to changing prices.
+
+---
+
+## 50-Day Moving Average (50 DMA)
+
+The **50 DMA** is one of the most widely used medium-term trend indicators.
+
+Common uses:
+
+- Intermediate trend identification.
+- Institutional trend analysis.
+- Dynamic support and resistance.
+
+---
+
+## 100-Day Moving Average (100 DMA)
+
+The **100 DMA** represents intermediate- to long-term market direction.
+
+Common uses:
+
+- Evaluating broader trend structure.
+- Identifying medium-term support and resistance.
+- Trend confirmation.
+
+---
+
+## 200-Day Moving Average (200 DMA)
+
+The **200 DMA** is widely regarded as one of the most important long-term trend indicators.
+
+Common uses:
+
+- Long-term trend identification.
+- Institutional market analysis.
+- Defining bullish or bearish market conditions.
+- Long-term dynamic support and resistance.
+
+Many market participants monitor the 200 DMA as a major structural reference.
+
+---
+
+# Crossovers
+
+## Definition
+
+A **moving average crossover** occurs when one moving average crosses another.
+
+Crossovers are commonly used to identify potential changes in trend direction.
+
+---
+
+## Bullish Crossover
+
+A bullish crossover occurs when a shorter-period moving average crosses above a longer-period moving average.
+
+Common example:
+
+- 50 DMA crossing above the 200 DMA.
+
+This event is commonly referred to as a **Golden Cross**.
+
+---
+
+## Bearish Crossover
+
+A bearish crossover occurs when a shorter-period moving average crosses below a longer-period moving average.
+
+Common example:
+
+- 50 DMA crossing below the 200 DMA.
+
+This event is commonly referred to as a **Death Cross**.
+
+---
+
+## Interpretation
+
+Crossovers:
+
+- Confirm existing trend changes more effectively than predict them.
+- Are subject to lag because moving averages are based on historical prices.
+- Are generally more reliable when supported by market structure and volume.
+
+---
+
+# Dynamic Support
+
+## Concept
+
+Moving averages frequently act as **dynamic support** or **dynamic resistance** during trending markets.
+
+Unlike horizontal levels, these reference levels continuously change as new price data becomes available.
+
+---
+
+## Dynamic Support
+
+During an uptrend:
+
+- Price may temporarily decline toward a moving average.
+- The moving average may serve as an area of buying interest.
+- The trend may subsequently resume.
+
+---
+
+## Dynamic Resistance
+
+During a downtrend:
+
+- Price may temporarily rise toward a moving average.
+- The moving average may serve as an area of selling interest.
+- The downward trend may subsequently resume.
+
+---
+
+## Important Consideration
+
+Moving averages should be interpreted as **dynamic zones** rather than precise price levels.
+
+Their effectiveness depends on the prevailing trend and market structure.
+
+---
+
+# Comparison
+
+| Indicator | Weighting Method | Typical Use |
+|-----------|------------------|-------------|
+| SMA | Equal weighting | Long-term trend analysis |
+| EMA | Exponential weighting | Short- and medium-term trend analysis |
+| WMA | Linear weighting | Faster trend response |
+| VWMA | Volume-weighted | Trend analysis with volume confirmation |
+
+---
+
+# Choosing a Moving Average
+
+The choice of moving average depends on the analytical objective.
+
+| Objective | Common Choice |
+|-----------|---------------|
+| Long-term investing | 200 DMA |
+| Medium-term trend analysis | 50 DMA or 100 DMA |
+| Short-term trend analysis | 20 DMA or EMA |
+| Volume-sensitive analysis | VWMA |
+
+No moving average is universally superior.
+
+---
+
+# Limitations
+
+Moving averages:
+
+- Are lagging indicators.
+- May generate false signals during sideways markets.
+- Become less effective in highly volatile conditions.
+- Should not be used independently of price action and market structure.
+
+They provide confirmation rather than prediction.
+
+---
+
+# Key Takeaways
+
+- A **Moving Average** smooths historical price data to identify trend direction.
+- **SMA** assigns equal weight to all observations, while **EMA** and **WMA** emphasize recent prices.
+- **VWMA** incorporates trading volume into the calculation.
+- The **20 DMA**, **50 DMA**, **100 DMA**, and **200 DMA** represent commonly monitored short-, medium-, and long-term trend references.
+- **Golden Cross** and **Death Cross** are widely used moving average crossover events.
+- Moving averages frequently act as dynamic support and resistance but should always be interpreted alongside price action, market structure, and volume.

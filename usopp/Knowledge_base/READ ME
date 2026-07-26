@@ -1,0 +1,335 @@
+# Technical Analysis Knowledge Base for AI
+
+## Version 1.0
+
+### Long-Term Investment Edition
+
+---
+
+# Overview
+
+The **Technical Analysis Knowledge Base for AI** is a structured, engineering-grade repository that documents the principles, concepts, and methodologies of **Technical Analysis** with a primary focus on **long-term investing** and the **Indian equity market**.
+
+This repository is designed to serve as the knowledge context for an AI-powered **Technical Analysis Assistant**.
+
+Unlike traditional books or trading courses, this repository is organized as a collection of modular, self-contained knowledge units that are optimized for semantic retrieval, Retrieval-Augmented Generation (RAG), and long-term maintainability.
+
+---
+
+# Purpose
+
+The primary purpose of this repository is to provide an AI system with a consistent and reliable body of knowledge for interpreting technical market behaviour.
+
+The downstream AI should be capable of:
+
+* Analyzing price action and market structure.
+* Interpreting trends and momentum.
+* Evaluating technical evidence.
+* Explaining technical concepts objectively.
+* Monitoring changes in technical conditions over time.
+* Identifying conflicting technical evidence.
+* Describing uncertainty where appropriate.
+
+The repository intentionally **does not** teach the AI to make investment decisions.
+
+The AI's role is to explain **what the technical evidence indicates**, **why the evidence supports that interpretation**, and **what should continue to be monitored**.
+
+Investment decisions remain the responsibility of the end user.
+
+---
+
+# Repository Design Philosophy
+
+This repository is designed as a **technical knowledge base**, not as a textbook.
+
+Instead of organizing information into long chapters, the repository is divided into **domains** and **knowledge units**.
+
+Each Markdown document represents a single technical concept.
+
+This design provides several advantages:
+
+* Higher retrieval accuracy.
+* Better semantic search.
+* Easier maintenance.
+* Reduced duplication.
+* Clear concept boundaries.
+* Simpler version control.
+* Improved scalability.
+
+The repository should evolve as an engineering documentation system rather than a sequential book.
+
+---
+
+# Repository Architecture
+
+The repository follows a three-level hierarchy.
+
+```text
+Repository
+    ↓
+Knowledge Domain
+    ↓
+Knowledge Unit
+```
+
+Example:
+
+```text
+Technical_Analysis_Knowledge_Base
+    ↓
+Indicators
+    ↓
+Momentum
+    ↓
+RSI.md
+```
+
+Each domain groups closely related concepts.
+
+Each knowledge unit documents exactly one concept.
+
+---
+
+# Knowledge Unit Standard
+
+Every Markdown document should represent **one technical concept**.
+
+Examples include:
+
+* RSI
+* Support
+* Trend
+* Higher High
+* Bollinger Bands
+* Double Top
+* Breakout
+
+A knowledge unit should answer one specific question rather than cover multiple unrelated topics.
+
+Where applicable, every knowledge unit should contain the following sections.
+
+* Definition
+* Purpose
+* Theory
+* Components
+* Interpretation
+* Practical Applications
+* Advantages
+* Limitations
+* Failure Conditions
+* Common Misconceptions
+* Relationships
+* AI Interpretation
+* Monitoring Considerations
+* Related Knowledge Units
+
+Not every concept requires every section. The objective is consistency rather than rigid formatting.
+
+---
+
+# Documentation Principles
+
+Every document should satisfy the following requirements.
+
+## Self-Contained
+
+Each knowledge unit should be understandable when retrieved independently.
+
+Avoid assuming that the reader has access to previous documents.
+
+---
+
+## Technically Accurate
+
+Definitions should be precise, objective, and internally consistent.
+
+Avoid subjective opinions and unsupported claims.
+
+---
+
+## Evidence-Based
+
+Technical analysis should be presented as an evidence-based analytical framework.
+
+Avoid deterministic language.
+
+---
+
+## Modular
+
+Every concept should exist in exactly one primary location.
+
+Other documents should reference the concept rather than duplicate it.
+
+---
+
+## Cross-Referenced
+
+Concepts should explicitly reference related knowledge units.
+
+Example:
+
+* Trend → Market Structure
+* RSI → Momentum
+* Volume → Breakouts
+* Support → Trendlines
+
+The repository should function as a connected knowledge graph rather than a collection of isolated documents.
+
+---
+
+# Technical Analysis Philosophy
+
+The repository follows several guiding principles.
+
+* Technical analysis is probabilistic rather than deterministic.
+* Price is the primary source of technical information.
+* Volume validates price movement.
+* Trend carries greater analytical importance than individual indicators.
+* Context is more important than isolated signals.
+* No indicator predicts future prices.
+* Multiple independent observations increase analytical confidence.
+* Technical analysis describes market behaviour rather than providing investment advice.
+
+---
+
+# AI Usage Philosophy
+
+The downstream AI is a **Technical Analysis Assistant**.
+
+Its responsibilities include:
+
+* Explaining technical concepts.
+* Interpreting charts.
+* Evaluating trends.
+* Describing market structure.
+* Assessing technical strength and weakness.
+* Explaining momentum and volume.
+* Identifying conflicting evidence.
+* Highlighting technical uncertainty.
+
+The AI should **not**:
+
+* Recommend buying or selling.
+* Predict future prices with certainty.
+* Treat any indicator as a guaranteed signal.
+* Replace the user's investment judgment.
+
+The AI should always separate **technical interpretation** from **investment decision-making**.
+
+---
+
+# Repository Organization
+
+The repository is organized into the following knowledge domains.
+
+| Domain                   | Description                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| Foundations              | Core philosophy, terminology, and analytical principles.                     |
+| Market Fundamentals      | Market mechanics and price formation.                                        |
+| Price Action             | Behaviour of price as the primary source of technical information.           |
+| Market Structure         | Interpretation of trends through swing analysis and structure.               |
+| Support & Resistance     | Static and dynamic price levels influencing market behaviour.                |
+| Trend                    | Trend identification, quality, continuation, and reversal.                   |
+| Volume                   | Market participation and price confirmation.                                 |
+| Indicators               | Technical indicators used as supporting evidence.                            |
+| Patterns                 | Candlestick and classical chart patterns.                                    |
+| Multi-Timeframe Analysis | Integrating observations across different chart timeframes.                  |
+| Technical Interpretation | Converting technical observations into objective analysis.                   |
+| Analytical Framework     | Standards for interpreting, prioritizing, and explaining technical evidence. |
+| Indian Market            | Concepts specific to NSE, BSE, and Indian market conventions.                |
+| Appendices               | Formulae, glossary, templates, checklists, and reference material.           |
+
+---
+
+# Naming Conventions
+
+Repository assets should follow consistent naming conventions.
+
+* Use descriptive file names.
+* Use PascalCase or snake_case consistently.
+* One concept per file.
+* Avoid abbreviations unless they are industry standard.
+
+Examples:
+
+```text
+Trend.md
+Support.md
+Higher_High.md
+Moving_Averages.md
+RSI.md
+MACD.md
+Double_Top.md
+```
+
+---
+
+# Cross-Referencing Standard
+
+Every knowledge unit should reference related concepts where appropriate.
+
+Example:
+
+```text
+Related Knowledge Units
+
+- Trend
+- Market Structure
+- Support
+- Resistance
+- Volume
+```
+
+Cross-references should improve navigation while avoiding duplication.
+
+---
+
+# Versioning Strategy
+
+## Version 1.0
+
+Provides the core concepts required for professional technical analysis focused on long-term investing.
+
+## Future Versions
+
+Future releases may include:
+
+* Relative Strength Analysis
+* Sector Rotation
+* Market Breadth
+* Intermarket Analysis
+* Wyckoff Methodology
+* Institutional Order Flow
+* Advanced Volume Profile
+* Pattern Reliability Statistics
+* Historical Case Studies
+* Portfolio-Level Technical Monitoring
+
+---
+
+# Design Principles
+
+The repository follows six core design principles.
+
+1. One Concept = One Knowledge Unit.
+2. Price action takes precedence over indicators.
+3. Indicators provide supporting evidence rather than conclusions.
+4. Technical analysis explains market behaviour without making investment decisions.
+5. Every concept should be independently retrievable while remaining connected to related concepts.
+6. The repository should remain modular, extensible, maintainable, and suitable for long-term version control.
+
+---
+
+# Target Audience
+
+This repository is intended for:
+
+* AI assistants specializing in technical analysis.
+* Retrieval-Augmented Generation (RAG) systems.
+* Local large language models.
+* Knowledge graph construction.
+* Technical documentation systems.
+* Developers building AI-powered financial analysis tools.
+
+Although the documentation remains readable by humans, its primary purpose is to serve as structured machine-readable knowledge.

@@ -1,0 +1,360 @@
+# Technical Analysis Knowledge Base for AI
+
+## Version 1.0
+
+### Long-Term Investment Edition
+
+# Repository Structure
+
+## 00 — Foundations
+
+Establishes the philosophy, assumptions, terminology, and reasoning framework used throughout the knowledge base. 
+This domain provides the conceptual foundation required to understand and interpret all subsequent technical analysis concepts.
+
+### Knowledge Units
+
+* Introduction : Provides an overview of the knowledge base, its objectives, intended audience, organizational structure, and the role of technical analysis within the overall repository.
+* Purpose of Technical Analysis : Defines the purpose of technical analysis, explains what it aims to achieve, its scope, and how it differs from prediction, speculation, and investment decision-making.
+* Long-Term Investment Philosophy : Describes how technical analysis should be applied within a long-term investment framework, emphasizing trend monitoring, evidence-based interpretation, and disciplined analysis over short-term trading.
+* Scope of Knowledge Base : Defines the boundaries of the repository by specifying the topics covered, the intended use of the documentation, and the concepts intentionally excluded.
+* Guiding Principles : Documents the core principles that govern the interpretation of technical analysis throughout the repository, ensuring consistency across all knowledge units.
+* AI Analysis Philosophy : Explains how the downstream AI should interpret, organize, and explain technical evidence while remaining objective, transparent, and free from investment recommendations.
+* Probability vs Prediction : Clarifies the distinction between probabilistic analysis and deterministic prediction, reinforcing that technical analysis evaluates likelihoods rather than forecasting certainties.
+* Evidence-Based Analysis : Introduces the methodology of forming technical conclusions using multiple independent observations rather than relying on individual indicators or isolated signals.
+* Confirmation : Explains the role of confirmation in technical analysis and how multiple supporting observations increase the reliability of technical interpretations.
+* Contradictory Evidence : Describes how conflicting technical observations should be identified, interpreted, and communicated without forcing definitive conclusions.
+* Confidence : Defines analytical confidence as a measure of the strength and consistency of available technical evidence, distinguishing confidence from certainty.
+* Technical Context : Explains the importance of interpreting every technical observation within its broader market context, including trend, market structure, timeframe, volume, and surrounding price action.
+
+---
+
+## 01 — Market Fundamentals
+
+Explains how financial markets function, how prices are established, and the forces that influence market behaviour. 
+This domain provides the economic and behavioural foundation required to understand why technical patterns emerge and how market participants collectively shape price action.
+
+### Knowledge Units
+
+* Market Participants : Identifies the different participants in financial markets, their objectives, and how their collective actions influence price movement, liquidity, and market behaviour.
+* Price Discovery : Explains the process through which buyers and sellers collectively determine the fair market price of a security based on available information and market expectations.
+* Supply and Demand : Describes the fundamental relationship between buying pressure and selling pressure that drives price movement and forms the basis of all technical analysis.
+* Liquidity : Defines market liquidity, explains its impact on price stability and trade execution, and discusses why liquidity is an important consideration in technical analysis.
+* Market Efficiency : Introduces the concept of market efficiency, its different forms, and its relationship to technical analysis and observable price behaviour.
+* Behavioural Finance : Examines how human emotions, cognitive biases, and collective psychology influence investor behaviour and contribute to recurring market patterns.
+* Dow Theory : Introduces the foundational principles of Dow Theory, including trend classification, market confirmation, and the assumptions that underpin modern technical analysis.
+* Market Cycles : Explains how financial markets progress through recurring phases such as accumulation, markup, distribution, and markdown, and how these cycles influence long-term price behaviour.
+* Indian Market Characteristics : Describes the structural, regulatory, and operational characteristics of the Indian equity market, including features of the NSE and BSE that are relevant to technical analysis.
+
+---
+
+## 02 — Price Action
+
+Introduces price behaviour as the primary source of technical information. 
+This domain explains how price movements reflect market activity and forms the foundation upon which all other technical analysis concepts are built.
+
+### Knowledge Units
+
+* OHLC_and_Candlesticks
+  * OHLC : Introduces the Open, High, Low, and Close (OHLC) price data that forms the basis of most charting techniques and technical indicators.
+  * Candlestick Construction : Explains how candlesticks are constructed from OHLC data and how they visually represent the interaction between buyers and sellers during a trading period.
+* Price_Components
+  * Opening Price : Describes the significance of the opening price, its relationship to market sentiment, overnight information, and its role in gap formation and intraday price behaviour.
+  * Closing Price : Explains why the closing price is considered one of the most significant data points in technical analysis and how it is used in trend evaluation and indicator calculations.
+  * High and Low : Defines the highest and lowest traded prices within a session and explains how these levels help measure volatility, market conviction, and price range.
+* Price_Behaviour
+  * Price Gaps : Describes price gaps, their causes, different classifications, and their significance in identifying shifts in market sentiment and trend behaviour.
+  * Trend Days : Explains trading sessions characterized by sustained directional price movement, indicating strong buying or selling conviction throughout the session.
+  * Range Days : Describes sessions where price remains confined within a relatively narrow range, reflecting temporary equilibrium between buyers and sellers.
+* Price_Transitions
+  * Breakouts : Explains how price moves beyond established support, resistance, or consolidation zones, and discusses the characteristics of valid and false breakouts.
+  * Breakdowns : Describes situations where price falls below significant support levels or established trading ranges, indicating potential weakness or trend continuation.
+  * Pullbacks : Explains temporary counter-trend movements that occur within an existing trend and discusses how they differ from genuine trend reversals.
+  * Retracements : Defines retracements as partial reversals within a broader price movement and explains their role in evaluating trend health and market structure.
+  * Consolidation : Describes periods of reduced directional movement where price trades within a defined range before potentially resuming or reversing the prevailing trend.
+
+---
+
+## 03 — Market Structure
+
+Explains how trends emerge through price movement.
+
+### Knowledge Units
+
+* Swing High
+* Swing Low
+* Higher High
+* Higher Low
+* Lower High
+* Lower Low
+* Trend Changes
+* Accumulation
+* Distribution
+* Market Phases
+
+---
+
+## 04 — Support & Resistance
+
+Documents the price levels where market behaviour changes.
+
+### Knowledge Units
+
+* Support
+* Resistance
+* Horizontal Levels
+* Dynamic Levels
+* Trendlines
+* Channels
+* Psychological Levels
+* Supply & Demand Zones
+* Retests
+* Failed Breakouts
+* False Breakdowns
+
+---
+
+## 05 — Trend
+
+Documents trend identification, evaluation, and interpretation.
+
+### Knowledge Units
+
+* Trend
+* Uptrend
+* Downtrend
+* Sideways Market
+* Trend Strength
+* Trend Continuation
+* Trend Reversal
+* Trend Exhaustion
+* Trend Quality
+* Stage Analysis
+
+---
+
+## 06 — Volume
+
+Explains how volume confirms price movement.
+
+### Knowledge Units
+
+* Volume
+* Volume Confirmation
+* Accumulation Volume
+* Distribution Volume
+* Volume Climax
+* Dry Volume
+* On Balance Volume (OBV)
+* Volume Weighted Average Price (VWAP)
+* Volume Divergence
+
+---
+
+## 07 — Indicators
+
+Documents commonly used technical indicators.
+
+### Moving Averages
+
+* Simple Moving Average (SMA)
+* Exponential Moving Average (EMA)
+* Weighted Moving Average (WMA)
+* Volume Weighted Moving Average (VWMA)
+* 20-Day Moving Average
+* 50-Day Moving Average
+* 100-Day Moving Average
+* 200-Day Moving Average
+* Moving Average Crossovers
+* Dynamic Support & Resistance
+
+### Momentum Indicators
+
+* Relative Strength Index (RSI)
+* MACD
+* Rate of Change (ROC)
+* Commodity Channel Index (CCI)
+* Williams %R
+* Stochastic Oscillator
+* Divergence
+
+### Volatility Indicators
+
+* Average True Range (ATR)
+* Bollinger Bands
+* Keltner Channels
+* Volatility Expansion
+* Volatility Contraction
+
+---
+
+## 08 — Patterns
+
+Documents classical technical analysis patterns.
+
+### Candlestick Patterns
+
+* Doji
+* Hammer
+* Hanging Man
+* Shooting Star
+* Bullish Engulfing
+* Bearish Engulfing
+* Harami
+* Morning Star
+* Evening Star
+* Pattern Reliability
+
+### Chart Patterns
+
+* Double Top
+* Double Bottom
+* Head & Shoulders
+* Inverse Head & Shoulders
+* Cup & Handle
+* Flags
+* Pennants
+* Triangles
+* Wedges
+* Rectangles
+* Channels
+
+---
+
+## 09 — Multi-Timeframe Analysis
+
+Explains how multiple timeframes should be interpreted together.
+
+### Knowledge Units
+
+* Monthly Charts
+* Weekly Charts
+* Daily Charts
+* Top-Down Analysis
+* Timeframe Alignment
+* Conflicting Timeframes
+
+---
+
+## 10 — Technical Interpretation
+
+Describes how technical observations should be interpreted.
+
+### Knowledge Units
+
+* Trend Interpretation
+* Volume Interpretation
+* Momentum Interpretation
+* Volatility Interpretation
+* Market Structure Interpretation
+* Technical Strength
+* Technical Weakness
+* Contradictory Evidence
+* Technical Uncertainty
+* Monitoring Framework
+
+---
+
+## 11 — Analytical Framework
+
+Defines how technical evidence should be evaluated and explained.
+
+### Knowledge Units
+
+* Evidence Hierarchy
+* Analytical Importance
+* Technical Interpretation Workflow
+* Primary vs Supporting Evidence
+* Common Analytical Errors
+* Limitations of Technical Analysis
+* Technical Report Template
+
+---
+
+## 12 — Indian Market
+
+Documents concepts specific to the Indian equity market.
+
+### Knowledge Units
+
+* National Stock Exchange (NSE)
+* Bombay Stock Exchange (BSE)
+* NIFTY
+* SENSEX
+* Trading Sessions
+* Circuit Filters
+* Corporate Actions
+* Adjusted vs Unadjusted Charts
+* SEBI Regulations
+* Indian Market Conventions
+
+---
+
+# Appendices
+
+Supporting reference material.
+
+* Indicator Formulae
+* Glossary
+* Common Misconceptions
+* Technical Analysis Checklists
+* Prompt Templates
+* Reference Tables
+
+---
+
+# Cross-Referencing Rules
+
+Every knowledge unit should explicitly reference related concepts.
+
+Example:
+
+```
+RSI
+
+Related Knowledge Units
+
+- Momentum
+- Divergence
+- Trend
+- Volume
+- Support
+- Resistance
+```
+
+The repository should behave as a connected knowledge graph rather than a collection of isolated documents.
+
+---
+
+# Versioning Strategy
+
+## Version 1.0
+
+Core technical analysis concepts required for long-term technical analysis.
+
+## Version 2.0
+
+Future additions may include:
+
+* Relative Strength vs Benchmark
+* Sector Rotation
+* Market Breadth
+* Intermarket Analysis
+* Institutional Behaviour
+* Wyckoff Methodology
+* Pattern Reliability Statistics
+* Historical Case Studies
+* Advanced Screening Frameworks
+* Portfolio-Level Technical Monitoring
+
+---
+
+# Design Principles
+
+This knowledge base follows six core design principles:
+
+1. One Concept = One Knowledge Unit.
+2. Price Action takes precedence over indicators.
+3. Indicators provide supporting evidence, not conclusions.
+4. Technical analysis explains market behaviour rather than making investment decisions.
+5. Every concept should be independently retrievable while remaining connected to related concepts.
+6. The knowledge base should remain modular, extensible, and version-controlled.

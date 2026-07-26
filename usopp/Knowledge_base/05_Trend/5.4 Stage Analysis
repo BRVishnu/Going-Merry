@@ -1,0 +1,298 @@
+---
+chapter_number: 5
+chapter_title: Trend
+document_title: Stage Analysis
+category: Trend
+
+importance: High
+analytical_importance: ★★★★★
+primary_time_horizon: Medium to Long Term
+
+prerequisite_concepts:
+  - Trend Fundamentals
+  - Trend Development
+  - Market Phases
+  - Trend Structure
+  - Support and Resistance
+
+related_concepts:
+  - Market Phases
+  - Trend Reversal
+  - Trend Continuation
+  - Moving Averages
+  - Volume
+  - Market Structure
+  - Accumulation
+  - Distribution
+
+keywords:
+  - Stage Analysis
+  - Stage I
+  - Stage II
+  - Stage III
+  - Stage IV
+  - Stan Weinstein
+  - Market Cycle
+  - Trend
+
+version: 1.0
+---
+
+# Stage Analysis
+
+## Objective
+
+Understand the four-stage model of market development and how it provides a structured framework for classifying the long-term condition of a security. Stage analysis combines price behaviour, trend, and market structure to evaluate where a security is positioned within its market cycle.
+
+---
+
+# Stage Analysis
+
+## Definition
+
+**Stage Analysis** is a methodology that classifies market behaviour into four sequential stages based on trend, consolidation, and structural transitions.
+
+The framework was popularized by **Stan Weinstein** and is widely used for long-term trend analysis.
+
+The four stages are:
+
+1. Stage I – Accumulation
+2. Stage II – Advancing
+3. Stage III – Distribution
+4. Stage IV – Declining
+
+The duration of each stage varies depending on market conditions.
+
+---
+
+## Purpose
+
+Stage analysis helps:
+
+- Identify the current market condition.
+- Distinguish trending and non-trending markets.
+- Evaluate long-term structural changes.
+- Provide context for price action and trend analysis.
+
+Stage analysis is descriptive and does not predict future market behaviour.
+
+---
+
+# Stage I – Accumulation
+
+## Definition
+
+**Stage I** is a prolonged consolidation phase that follows a declining market.
+
+Price stabilizes as selling pressure gradually diminishes and buyers begin absorbing available supply.
+
+---
+
+## Characteristics
+
+Stage I commonly exhibits:
+
+- Sideways price movement.
+- Limited directional momentum.
+- Stable trading range.
+- Reduced volatility.
+- Repeated interaction with support and resistance.
+
+---
+
+## Market Structure
+
+Typical characteristics include:
+
+- Absence of a sustained uptrend.
+- Stabilizing swing structure.
+- Gradual reduction in Lower Highs and Lower Lows.
+- Formation of a trading range.
+
+---
+
+## Transition
+
+Stage I ends when price establishes a confirmed breakout from the accumulation range and begins developing a sustained uptrend.
+
+---
+
+# Stage II – Advancing
+
+## Definition
+
+**Stage II** is the primary bullish phase in which price establishes a sustained upward trend.
+
+Demand consistently exceeds supply, resulting in persistent price appreciation.
+
+---
+
+## Characteristics
+
+Stage II commonly exhibits:
+
+- Higher Highs.
+- Higher Lows.
+- Strong directional movement.
+- Expanding price range.
+- Persistent buying pressure.
+
+---
+
+## Market Structure
+
+Typical characteristics include:
+
+- Confirmed bullish trend.
+- Respect for dynamic support.
+- Successful breakout continuation.
+- Healthy pullbacks.
+
+---
+
+## Transition
+
+Stage II weakens when bullish market structure begins deteriorating and price transitions toward consolidation.
+
+---
+
+# Stage III – Distribution
+
+## Definition
+
+**Stage III** is a consolidation phase that follows an extended advance.
+
+Buying and selling pressure become increasingly balanced as upward momentum weakens.
+
+---
+
+## Characteristics
+
+Stage III commonly exhibits:
+
+- Sideways movement.
+- Reduced trend momentum.
+- Repeated resistance tests.
+- Narrowing directional movement.
+- Increased price hesitation.
+
+---
+
+## Market Structure
+
+Typical characteristics include:
+
+- Loss of consistent Higher Highs.
+- Mixed swing structure.
+- Increasing consolidation.
+- Reduced trend quality.
+
+---
+
+## Transition
+
+Stage III concludes when price establishes a confirmed breakdown below the distribution range and bearish market structure develops.
+
+---
+
+# Stage IV – Declining
+
+## Definition
+
+**Stage IV** is the primary bearish phase in which price establishes a sustained downward trend.
+
+Supply consistently exceeds demand, resulting in continued price depreciation.
+
+---
+
+## Characteristics
+
+Stage IV commonly exhibits:
+
+- Lower Highs.
+- Lower Lows.
+- Persistent selling pressure.
+- Expanding downside movement.
+- Strong bearish market structure.
+
+---
+
+## Market Structure
+
+Typical characteristics include:
+
+- Confirmed downtrend.
+- Respect for dynamic resistance.
+- Successful breakdown continuation.
+- Temporary counter-trend rallies.
+
+---
+
+## Transition
+
+Stage IV eventually weakens as selling pressure decreases and a new accumulation phase begins to develop.
+
+---
+
+# Stage Progression
+
+```
+Stage I
+Accumulation
+      │
+      ▼
+Stage II
+Advancing
+      │
+      ▼
+Stage III
+Distribution
+      │
+      ▼
+Stage IV
+Declining
+      │
+      ▼
+Stage I
+(New Cycle)
+```
+
+This progression represents a generalized market cycle rather than a fixed sequence.
+
+Markets may remain in any stage for extended periods or transition at different rates.
+
+---
+
+# Relationship with Market Phases
+
+| Stage Analysis | Market Phase |
+|----------------|--------------|
+| Stage I | Accumulation |
+| Stage II | Markup |
+| Stage III | Distribution |
+| Stage IV | Markdown |
+
+Stage Analysis and Market Phases describe the same broad market progression using different terminology and analytical frameworks.
+
+Stage Analysis places greater emphasis on long-term trend classification and structural transitions.
+
+---
+
+# Important Considerations
+
+- Stage Analysis is primarily designed for intermediate- and long-term trend evaluation.
+- Stage transitions occur gradually and require structural confirmation.
+- Individual price movements do not determine the current stage.
+- Market structure, trend, support and resistance, and volume should be evaluated together.
+- Different timeframes may simultaneously exhibit different stages.
+
+---
+
+# Key Takeaways
+
+- **Stage Analysis** classifies markets into four sequential stages based on long-term price behaviour and market structure.
+- **Stage I (Accumulation)** represents consolidation following a decline.
+- **Stage II (Advancing)** represents the primary bullish trend.
+- **Stage III (Distribution)** represents consolidation following an advance.
+- **Stage IV (Declining)** represents the primary bearish trend.
+- Stage Analysis provides a structured framework for understanding long-term trend development and complements market structure, support and resistance, and volume analysis.

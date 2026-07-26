@@ -1,0 +1,270 @@
+---
+chapter_number: 3
+chapter_title: Market Structure
+document_title: Market Phases
+category: Market Structure
+
+importance: High
+analytical_importance: ★★★★★
+primary_time_horizon: Medium to Long Term
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - Swing Structure
+  - Trend Structure
+  - Support
+  - Resistance
+
+related_concepts:
+  - Trend
+  - Consolidation
+  - Market Behaviour
+  - Volume
+  - Trend Continuation
+  - Trend Reversal
+  - Supply and Demand
+
+keywords:
+  - Accumulation
+  - Markup
+  - Distribution
+  - Markdown
+  - Market Cycle
+  - Trading Range
+  - Trend
+  - Consolidation
+
+version: 1.0
+---
+
+# Market Phases
+
+## Objective
+
+Understand the four primary phases through which financial markets typically progress. Market phases describe broad changes in supply, demand, and participant behaviour that collectively form a market cycle.
+
+---
+
+# Overview
+
+Financial markets rarely move in a single direction indefinitely.
+
+Instead, they alternate between periods of:
+
+- Price accumulation
+- Sustained upward movement
+- Price distribution
+- Sustained downward movement
+
+These recurring phases collectively form a **market cycle**.
+
+The duration and magnitude of each phase vary across securities and timeframes.
+
+---
+
+# Accumulation
+
+## Definition
+
+**Accumulation** is a phase in which price trades within a relatively stable range following a decline.
+
+During this phase, buying activity gradually absorbs available selling pressure without producing a sustained upward trend.
+
+---
+
+## Characteristics
+
+Accumulation commonly exhibits:
+
+- Sideways price movement.
+- Reduced downward momentum.
+- Stable trading range.
+- Multiple tests of support and resistance.
+- Decreasing volatility compared to the preceding decline.
+
+---
+
+## Market Interpretation
+
+Accumulation indicates that the market is establishing a new equilibrium after a period of weakness.
+
+Although buying activity may gradually increase, accumulation alone does not confirm an upcoming uptrend.
+
+Confirmation requires subsequent price action.
+
+---
+
+# Markup
+
+## Definition
+
+**Markup** is the phase in which price establishes a sustained upward trend following accumulation.
+
+Demand consistently exceeds supply, allowing price to advance over time.
+
+---
+
+## Characteristics
+
+Markup commonly exhibits:
+
+- Higher Highs.
+- Higher Lows.
+- Strong directional movement.
+- Expanding price range.
+- Persistent buying pressure.
+
+---
+
+## Market Interpretation
+
+Markup represents the primary advancing phase of the market cycle.
+
+The trend remains intact as long as the bullish market structure is maintained.
+
+---
+
+# Distribution
+
+## Definition
+
+**Distribution** is a phase in which price trades within a relatively stable range following an extended uptrend.
+
+During this phase, buying and selling pressure become increasingly balanced.
+
+---
+
+## Characteristics
+
+Distribution commonly exhibits:
+
+- Sideways price movement.
+- Reduced upward momentum.
+- Repeated interaction with resistance.
+- Narrowing directional movement.
+- Increased price hesitation.
+
+---
+
+## Market Interpretation
+
+Distribution indicates that upward momentum is weakening.
+
+Distribution alone does not confirm a future decline.
+
+A bearish transition requires confirmation through subsequent price action and market structure.
+
+---
+
+# Markdown
+
+## Definition
+
+**Markdown** is the phase in which price establishes a sustained downward trend following distribution.
+
+Supply consistently exceeds demand, resulting in continued price decline.
+
+---
+
+## Characteristics
+
+Markdown commonly exhibits:
+
+- Lower Highs.
+- Lower Lows.
+- Persistent selling pressure.
+- Strong downward movement.
+- Expanding downside price range.
+
+---
+
+## Market Interpretation
+
+Markdown represents the primary declining phase of the market cycle.
+
+The bearish trend remains intact while the downward market structure is preserved.
+
+---
+
+# Relationship Between Market Phases
+
+The four phases typically occur in the following sequence:
+
+```
+Accumulation
+      │
+      ▼
+Markup
+      │
+      ▼
+Distribution
+      │
+      ▼
+Markdown
+      │
+      ▼
+Accumulation (Next Cycle)
+```
+
+This sequence represents a generalized market cycle rather than a fixed rule.
+
+Markets may remain in any phase for extended periods or transition directly between phases depending on prevailing conditions.
+
+---
+
+# Market Phase Identification
+
+Market phases are identified by evaluating multiple observations rather than a single indicator.
+
+Common observations include:
+
+- Trend structure.
+- Swing highs and swing lows.
+- Trading range.
+- Price volatility.
+- Support and resistance.
+- Volume characteristics.
+
+No individual observation is sufficient to determine the current market phase.
+
+---
+
+# Relationship with Trend
+
+| Market Phase | Predominant Trend |
+|---------------|-------------------|
+| Accumulation | Sideways |
+| Markup | Uptrend |
+| Distribution | Sideways |
+| Markdown | Downtrend |
+
+Trend describes the current direction of price movement, while market phases describe the broader stage of the market cycle.
+
+---
+
+# Practical Considerations
+
+Market phases:
+
+- Are descriptive rather than predictive.
+- Can only be identified with increasing confidence as additional price data becomes available.
+- May vary across different timeframes.
+- Should always be interpreted within the broader market context.
+
+Different timeframes may simultaneously exhibit different market phases.
+
+For example:
+
+- A daily chart may be in a markup phase.
+- A weekly chart may remain in accumulation.
+- An hourly chart may be consolidating.
+
+---
+
+# Key Takeaways
+
+- Financial markets typically progress through four recurring phases: **Accumulation**, **Markup**, **Distribution**, and **Markdown**.
+- **Accumulation** and **Distribution** are generally characterized by sideways movement and temporary market equilibrium.
+- **Markup** is characterized by sustained upward price movement with Higher Highs and Higher Lows.
+- **Markdown** is characterized by sustained downward price movement with Lower Highs and Lower Lows.
+- Market phases describe the broader evolution of price and should be identified using trend structure, swing analysis, support and resistance, volatility, and volume rather than any single observation.

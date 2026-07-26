@@ -1,0 +1,557 @@
+---
+chapter_number: 0
+chapter_title: Scope of Knowledge Base
+category: Foundations
+importance: High
+analytical_importance: ★★★★★
+primary_time_horizon: Universal (Applicable Across All Time Horizons)
+prerequisite_concepts:
+  - Introduction
+  - Purpose of Technical Analysis
+  - Long-Term Investment Philosophy
+related_concepts:
+  - Guiding Principles
+  - AI Analysis Philosophy
+  - Evidence-Based Analysis
+  - Technical Context
+  - Technical Interpretation
+  - Analytical Framework
+---
+
+# Scope of Knowledge Base
+
+## Definition
+
+The Scope of the Knowledge Base defines the **boundaries, objectives, intended usage, and limitations** of this repository. It specifies what technical concepts are documented, how they should be used by downstream AI systems, and which subjects are intentionally excluded.
+
+The scope ensures that every chapter contributes to a consistent, evidence-based framework for interpreting technical market conditions. It also prevents the repository from expanding into domains that require different analytical methodologies, such as investment advisory, portfolio optimization, or quantitative trading system design.
+
+---
+
+# Purpose
+
+The purpose of defining the scope is to:
+
+- Establish clear boundaries for the repository.
+- Maintain consistency across all documentation.
+- Ensure every concept contributes to technical market interpretation.
+- Prevent ambiguity regarding the intended use of the repository.
+- Improve semantic organization for Retrieval-Augmented Generation (RAG) systems.
+- Define the responsibilities and limitations of downstream AI systems using this knowledge base.
+
+A well-defined scope promotes maintainability, reduces conceptual overlap, and improves the reliability of AI-generated technical analysis.
+
+---
+
+# Primary Objective
+
+The primary objective of this repository is to provide a comprehensive and structured body of knowledge that enables an AI system to:
+
+- Observe market-generated data.
+- Interpret technical market conditions.
+- Explain technical evidence objectively.
+- Describe changes in market structure.
+- Assess technical strength and weakness.
+- Recognize conflicting evidence.
+- Communicate analytical confidence appropriately.
+- Monitor the evolution of technical conditions over time.
+
+The repository is designed to support **technical interpretation**, not investment decision-making.
+
+---
+
+# Topics Covered
+
+The repository documents the core concepts required for comprehensive technical analysis within a long-term investment framework.
+
+## Foundations
+
+Defines the philosophical and analytical framework used throughout the repository.
+
+Topics include:
+
+- Purpose of Technical Analysis
+- Long-Term Investment Philosophy
+- Guiding Principles
+- AI Analysis Philosophy
+- Evidence-Based Analysis
+- Confirmation
+- Confidence
+- Technical Context
+
+---
+
+## Market Fundamentals
+
+Documents the mechanisms that influence market behavior.
+
+Topics include:
+
+- Market participants
+- Price discovery
+- Supply and demand
+- Liquidity
+- Market efficiency
+- Behavioural finance
+- Dow Theory
+- Market cycles
+- Characteristics of Indian markets
+
+---
+
+## Price Action
+
+Defines how price information is represented and interpreted.
+
+Topics include:
+
+- OHLC data
+- Candlesticks
+- Opening and closing prices
+- Highs and lows
+- Price gaps
+- Breakouts
+- Breakdowns
+- Pullbacks
+- Retracements
+- Consolidation
+
+---
+
+## Market Structure
+
+Explains how individual price movements combine to form larger technical structures.
+
+Topics include:
+
+- Swing highs
+- Swing lows
+- Higher highs
+- Higher lows
+- Lower highs
+- Lower lows
+- Trend transitions
+- Accumulation
+- Distribution
+- Market phases
+
+---
+
+## Support and Resistance
+
+Documents the identification and interpretation of important price levels.
+
+Topics include:
+
+- Horizontal support and resistance
+- Dynamic support and resistance
+- Trendlines
+- Channels
+- Supply and demand zones
+- Psychological price levels
+- Retests
+- Failed breakouts
+- False breakdowns
+
+---
+
+## Trend Analysis
+
+Explains how trends are identified, monitored, and evaluated.
+
+Topics include:
+
+- Trend identification
+- Trend quality
+- Trend continuation
+- Trend reversal
+- Trend exhaustion
+- Sideways markets
+- Stage analysis
+
+---
+
+## Volume Analysis
+
+Documents how trading activity supports or contradicts price movement.
+
+Topics include:
+
+- Volume analysis
+- Volume confirmation
+- Accumulation volume
+- Distribution volume
+- Volume climax
+- Dry volume
+- On-Balance Volume (OBV)
+- Volume-Weighted Average Price (VWAP)
+- Volume divergence
+
+---
+
+## Technical Indicators
+
+Documents widely used mathematical indicators.
+
+Categories include:
+
+- Moving averages
+- Momentum indicators
+- Volatility indicators
+
+Each indicator is documented with:
+
+- Definition
+- Theory
+- Interpretation
+- Practical application
+- Limitations
+- Failure conditions
+- Relationship to other concepts
+
+---
+
+## Technical Patterns
+
+Documents recurring market formations.
+
+Categories include:
+
+- Candlestick patterns
+- Chart patterns
+- Pattern reliability
+
+Patterns are interpreted as supporting technical evidence rather than deterministic signals.
+
+---
+
+## Multi-Timeframe Analysis
+
+Explains the interaction between different chart timeframes.
+
+Topics include:
+
+- Monthly analysis
+- Weekly analysis
+- Daily analysis
+- Top-down analysis
+- Timeframe alignment
+- Conflicting timeframe interpretation
+
+---
+
+## Technical Interpretation
+
+Documents how multiple technical observations should be integrated into a coherent analytical conclusion.
+
+Topics include:
+
+- Trend interpretation
+- Volume interpretation
+- Momentum interpretation
+- Volatility interpretation
+- Technical strength
+- Technical weakness
+- Technical uncertainty
+- Monitoring framework
+
+---
+
+## Analytical Framework
+
+Defines the reasoning methodology used throughout the repository.
+
+Topics include:
+
+- Evidence hierarchy
+- Analytical importance
+- Technical interpretation workflow
+- Supporting versus primary evidence
+- Common analytical errors
+- Limitations of Technical Analysis
+- Standardized reporting framework
+
+---
+
+## Indian Market Context
+
+Documents concepts specific to Indian equity markets.
+
+Topics include:
+
+- NSE
+- BSE
+- NIFTY
+- SENSEX
+- Trading sessions
+- Circuit filters
+- Corporate actions
+- Adjusted and unadjusted charts
+- SEBI regulations
+- Indian market conventions
+
+---
+
+## Appendices
+
+Provides reference material supporting the primary documentation.
+
+Examples include:
+
+- Indicator formulae
+- Glossary
+- Common misconceptions
+- Technical analysis checklists
+- Prompt templates
+- Reference tables
+
+---
+
+# Intended Use
+
+This repository is intended to serve as the foundational knowledge source for AI systems that perform technical market interpretation.
+
+Appropriate use cases include:
+
+- Technical analysis assistants.
+- AI-powered chart interpretation.
+- Retrieval-Augmented Generation (RAG) systems.
+- Financial knowledge graphs.
+- Educational reference systems.
+- Technical documentation.
+- Analytical workflow automation.
+
+The repository is optimized for deterministic reasoning, semantic retrieval, and consistent technical interpretation.
+
+---
+
+# Intended Outputs
+
+AI systems using this repository should produce outputs that:
+
+- Describe observable technical conditions.
+- Explain the reasoning behind technical conclusions.
+- Identify supporting and contradictory evidence.
+- Evaluate analytical confidence.
+- Highlight technical strengths and weaknesses.
+- Explain changes in market structure.
+- Communicate uncertainty when evidence is incomplete or conflicting.
+
+The output should remain objective and evidence-based.
+
+---
+
+# Concepts Intentionally Excluded
+
+To preserve the analytical focus of the repository, several domains are intentionally excluded.
+
+## Investment Advice
+
+The repository does not provide:
+
+- Buy recommendations.
+- Sell recommendations.
+- Hold recommendations.
+- Portfolio allocation advice.
+- Position sizing guidance.
+- Personalized investment strategies.
+
+Investment decisions remain the responsibility of the user.
+
+---
+
+## Fundamental Security Valuation
+
+The repository does not document methodologies for determining intrinsic value.
+
+Examples include:
+
+- Discounted Cash Flow (DCF)
+- Relative valuation models
+- Earnings projections
+- Financial statement analysis
+- Business quality assessment
+- Economic moat analysis
+
+These subjects belong to fundamental analysis and are outside the scope of this repository.
+
+---
+
+## Algorithmic Trading System Design
+
+The repository does not provide guidance on:
+
+- Automated trading systems.
+- High-frequency trading.
+- Execution algorithms.
+- Trading infrastructure.
+- Broker APIs.
+- Order routing systems.
+
+Technical concepts may support such systems but are not documented from an implementation perspective.
+
+---
+
+## Quantitative Model Development
+
+The repository excludes:
+
+- Machine learning models.
+- Predictive modeling.
+- Statistical forecasting.
+- Factor modeling.
+- Time-series forecasting algorithms.
+- Model optimization techniques.
+
+The focus remains on interpreting observable technical evidence rather than developing predictive models.
+
+---
+
+## Portfolio Management
+
+The repository does not cover:
+
+- Asset allocation.
+- Diversification strategies.
+- Tax optimization.
+- Rebalancing methodologies.
+- Wealth management.
+- Retirement planning.
+
+These disciplines require broader financial planning considerations.
+
+---
+
+## Macroeconomic Analysis
+
+While macroeconomic events may influence markets, the repository does not provide detailed coverage of:
+
+- Economic forecasting.
+- Monetary policy analysis.
+- Fiscal policy analysis.
+- Inflation modeling.
+- Currency analysis.
+- Interest rate forecasting.
+
+Such factors are considered only when their effects are reflected in observable technical market behavior.
+
+---
+
+# Relationship with Fundamental Analysis
+
+Technical Analysis and Fundamental Analysis are complementary but distinct disciplines.
+
+This repository focuses exclusively on interpreting market-generated evidence.
+
+It does not attempt to determine:
+
+- Fair value.
+- Business quality.
+- Earnings potential.
+- Competitive advantage.
+- Financial health.
+
+These topics may influence long-term investment decisions but fall outside the repository's technical scope.
+
+---
+
+# Analytical Boundaries
+
+Throughout this repository, Technical Analysis is consistently treated as:
+
+- A framework for interpreting market behavior.
+- A probabilistic analytical discipline.
+- An evidence-based methodology.
+- A continuously evolving assessment process.
+
+It is **not** treated as:
+
+- A prediction engine.
+- A trading system.
+- An investment advisory framework.
+- A deterministic decision-making model.
+
+These boundaries apply uniformly across every chapter.
+
+---
+
+# AI Interpretation
+
+## Primary Role
+
+The AI should use this repository exclusively for interpreting technical market conditions and explaining the evidence supporting those interpretations.
+
+---
+
+## Primary Responsibilities
+
+The AI should:
+
+- Explain observable market behavior.
+- Interpret technical evidence consistently.
+- Evaluate supporting and contradictory signals.
+- Monitor evolving technical conditions.
+- Clearly communicate uncertainty where appropriate.
+
+The AI should not provide investment advice or substitute technical interpretation for investment decisions.
+
+---
+
+## Analytical Importance
+
+★★★★★ (Foundational)
+
+The defined scope governs the applicability of every concept contained within the repository and establishes the limits of the AI's analytical responsibilities.
+
+---
+
+## Situations Requiring Explicit Boundary Recognition
+
+The AI should explicitly recognize when a request falls outside the scope of this repository, including requests involving:
+
+- Personalized investment advice.
+- Intrinsic valuation.
+- Portfolio construction.
+- Financial planning.
+- Tax planning.
+- Predictive market forecasting.
+- Algorithmic trading implementation.
+
+In such cases, the AI should distinguish between technical interpretation and the requested domain rather than extending beyond the documented scope.
+
+---
+
+# Relationships
+
+## Depends On
+
+- Introduction
+- Purpose of Technical Analysis
+- Long-Term Investment Philosophy
+
+## Supports
+
+- Guiding Principles
+- AI Analysis Philosophy
+- Technical Interpretation
+- Evidence-Based Analysis
+- Analytical Framework
+- Entire Technical Analysis Knowledge Base
+
+## Commonly Used Together
+
+- Technical Context
+- Confirmation
+- Confidence
+- Probability vs Prediction
+- Evidence Hierarchy
+
+## Conflicts With
+
+- Investment advisory frameworks
+- Deterministic market prediction
+- Portfolio management methodologies
+- Fundamental valuation models
+- Algorithmic trading system design
+- Opinion-based market analysis
+```

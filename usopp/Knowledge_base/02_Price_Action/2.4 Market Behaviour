@@ -1,0 +1,326 @@
+---
+chapter_number: 2
+chapter_title: Price Action Fundamentals
+document_title: Market Behaviour
+category: Price Fundamentals
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - OHLC
+  - Candlesticks
+  - Trend
+  - Support
+  - Resistance
+
+related_concepts:
+  - Market Structure
+  - Breakouts
+  - Breakdowns
+  - Volatility
+  - Trading Range
+  - Trend Continuation
+  - Trend Reversal
+  - Volume
+
+keywords:
+  - Price Gap
+  - Gap Up
+  - Gap Down
+  - Trend Day
+  - Range Day
+  - Consolidation
+  - Sideways Market
+  - Trading Range
+
+version: 1.0
+---
+
+# Market Behaviour
+
+## Objective
+
+Understand common forms of market behaviour observed through price action. These behaviours describe how price responds to changing market conditions and provide context for interpreting trends, volatility, and market structure.
+
+---
+
+# Price Gaps
+
+## Definition
+
+A **price gap** occurs when the opening price of a trading period differs from the previous period's closing price, creating a discontinuity on the price chart.
+
+```
+Gap Up   : Open > Previous Close
+
+Gap Down : Open < Previous Close
+```
+
+A gap represents an immediate market repricing between two consecutive trading periods.
+
+---
+
+## Causes
+
+Price gaps commonly result from information that becomes available while the market is closed.
+
+Examples include:
+
+- Corporate announcements
+- Earnings releases
+- Economic data
+- Regulatory decisions
+- Geopolitical events
+- Global market movements
+- Significant order imbalance
+
+---
+
+## Types of Price Gaps
+
+### Common Gap
+
+Occurs within an established trading range.
+
+Characteristics:
+
+- Usually associated with normal market activity.
+- Often observed during consolidation.
+- Typically has limited long-term significance.
+
+---
+
+### Breakaway Gap
+
+Occurs when price exits a significant consolidation or breaks through major support or resistance.
+
+Characteristics:
+
+- Often marks the beginning of a new trend.
+- Usually accompanied by increased participation.
+- Represents a structural change in price behaviour.
+
+---
+
+### Runaway (Continuation) Gap
+
+Occurs during an established trend.
+
+Characteristics:
+
+- Appears after the trend has already developed.
+- Indicates continued directional participation.
+- Suggests trend continuation.
+
+---
+
+### Exhaustion Gap
+
+Occurs near the later stages of an established trend.
+
+Characteristics:
+
+- Often follows an extended directional move.
+- May indicate weakening momentum.
+- Requires confirmation before interpreting as a reversal.
+
+---
+
+## Gap Filling
+
+A gap is considered **filled** when subsequent price movement trades through the gap area.
+
+Gap filling is a common market observation but is not guaranteed.
+
+---
+
+## Analytical Importance
+
+Price gaps help identify:
+
+- Sudden changes in market sentiment.
+- Market repricing.
+- Trend initiation.
+- Trend continuation.
+- Areas of increased buying or selling interest.
+
+---
+
+# Trend Days
+
+## Definition
+
+A **trend day** is a trading session in which price moves predominantly in one direction with minimal sustained counter-movement.
+
+The session demonstrates persistent buying or selling pressure from open to close.
+
+---
+
+## Characteristics
+
+Trend days typically exhibit:
+
+- Strong directional movement.
+- Wide trading range.
+- Consecutive higher highs and higher lows (bullish), or lower highs and lower lows (bearish).
+- Limited retracements.
+- Closing price near one extreme of the session range.
+
+---
+
+## Bullish Trend Day
+
+Characteristics:
+
+- Buyers dominate throughout the session.
+- Price advances consistently.
+- Close generally occurs near the session high.
+
+---
+
+## Bearish Trend Day
+
+Characteristics:
+
+- Sellers dominate throughout the session.
+- Price declines consistently.
+- Close generally occurs near the session low.
+
+---
+
+## Analytical Importance
+
+Trend days indicate:
+
+- Strong directional conviction.
+- Sustained market participation.
+- Potential continuation of the prevailing trend.
+
+A single trend day does not guarantee future price movement.
+
+---
+
+# Range Days
+
+## Definition
+
+A **range day** is a trading session in which price remains confined within a relatively narrow trading range without establishing a sustained directional trend.
+
+Buying and selling pressure remain relatively balanced throughout the session.
+
+---
+
+## Characteristics
+
+Range days typically exhibit:
+
+- Sideways price movement.
+- Narrow trading range.
+- Repeated reversals within the range.
+- Absence of sustained directional momentum.
+- Closing price often near the middle of the day's range.
+
+---
+
+## Market Interpretation
+
+Range days generally indicate:
+
+- Temporary equilibrium between buyers and sellers.
+- Reduced market conviction.
+- Consolidation before a potential expansion in volatility.
+
+The existence of a range day does not determine the direction of the next significant price movement.
+
+---
+
+## Analytical Importance
+
+Range days help identify:
+
+- Consolidation phases.
+- Reduced volatility.
+- Short-term support and resistance.
+- Areas where future breakouts or breakdowns may develop.
+
+---
+
+# Consolidation
+
+## Definition
+
+**Consolidation** is a period during which price trades within a relatively well-defined range without establishing a sustained directional trend.
+
+It represents a temporary pause in the prevailing market movement.
+
+---
+
+## Characteristics
+
+Consolidation commonly exhibits:
+
+- Sideways movement.
+- Stable trading range.
+- Reduced directional momentum.
+- Multiple interactions with support and resistance.
+- Relative balance between buyers and sellers.
+
+---
+
+## Causes
+
+Consolidation may occur:
+
+- After a strong trend.
+- Before major market events.
+- During periods of reduced participation.
+- While buyers and sellers establish a new price equilibrium.
+
+---
+
+## Possible Outcomes
+
+A consolidation period may eventually result in:
+
+- Breakout.
+- Breakdown.
+- Continued sideways movement.
+
+The subsequent direction cannot be determined solely from the existence of consolidation.
+
+---
+
+## Analytical Importance
+
+Consolidation helps identify:
+
+- Market equilibrium.
+- Potential accumulation or distribution.
+- Important support and resistance zones.
+- Areas where future directional movement may emerge.
+
+Interpretation requires confirmation from subsequent price action.
+
+---
+
+# Comparison
+
+| Market Behaviour | Primary Characteristic | Typical Market Condition |
+|------------------|------------------------|--------------------------|
+| Price Gap | Sudden price discontinuity between sessions | Market repricing |
+| Trend Day | Sustained directional movement | Strong buying or selling conviction |
+| Range Day | Limited movement within a narrow range | Temporary buyer-seller equilibrium |
+| Consolidation | Sideways movement over multiple periods | Pause before continuation or reversal |
+
+---
+
+# Key Takeaways
+
+- **Price gaps** represent immediate market repricing between consecutive trading periods.
+- **Trend days** demonstrate sustained directional movement and strong market conviction.
+- **Range days** reflect temporary equilibrium between buyers and sellers within a limited trading range.
+- **Consolidation** is a multi-period phase of reduced directional movement that frequently precedes trend continuation or reversal.
+- These market behaviours describe observable price conditions and should always be interpreted alongside trend, market structure, support, resistance, and volume rather than as standalone trading signals.

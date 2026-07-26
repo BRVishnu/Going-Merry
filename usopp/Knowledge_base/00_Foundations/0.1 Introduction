@@ -1,0 +1,294 @@
+---
+chapter_number: 0
+chapter_title: Introduction
+category: Foundations
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: Universal (Applicable Across All Time Horizons)
+prerequisite_concepts: None
+related_concepts:
+  - Purpose of Technical Analysis
+  - Long-Term Investment Philosophy
+  - Scope of Knowledge Base
+  - Guiding Principles
+  - AI Analysis Philosophy
+  - Probability vs Prediction
+  - Evidence-Based Analysis
+  - Technical Context
+---
+
+# Introduction
+
+## Overview
+
+This knowledge base is a comprehensive engineering-grade reference for **Technical Analysis for Long-Term Investors**, with primary emphasis on the **Indian equity market**. It has been designed as structured technical documentation rather than educational course material or investment guidance.
+
+The repository serves as the foundational knowledge source for an AI-powered Technical Analysis Assistant whose responsibility is to analyze market conditions using observable technical evidence. The assistant is intended to explain market behavior objectively, interpret technical signals consistently, and describe the current technical state of securities without making investment decisions.
+
+Unlike conventional educational material, this knowledge base is optimized for semantic retrieval, deterministic reasoning, and long-term maintainability. Each concept is documented as an independent knowledge unit while remaining explicitly connected to related concepts, enabling both human understanding and machine reasoning.
+
+---
+
+# Objectives
+
+The primary objectives of this knowledge base are to:
+
+- Establish a consistent framework for interpreting technical market conditions.
+- Define technical analysis concepts using precise and unambiguous terminology.
+- Document the theoretical foundations behind technical indicators, price action, market structure, and analytical methodologies.
+- Standardize the interpretation of technical evidence across different market environments.
+- Provide an objective reasoning framework that prioritizes observable evidence over subjective opinion.
+- Enable downstream AI systems to explain technical market behavior using consistent analytical principles.
+- Support long-term investing through disciplined technical analysis rather than short-term speculation.
+
+---
+
+# Intended Audience
+
+Although the repository is written in human-readable Markdown, its primary consumer is another AI system.
+
+The documentation is intended for:
+
+- AI-powered technical analysis assistants
+- Retrieval-Augmented Generation (RAG) systems
+- Knowledge graph construction
+- Automated technical analysis workflows
+- Long-term investors seeking structured technical interpretation
+- Engineers building financial AI applications
+- Researchers requiring deterministic technical definitions
+
+The documentation assumes familiarity with financial markets but introduces each technical concept as an independent knowledge unit to support partial document retrieval.
+
+---
+
+# Purpose of the Repository
+
+This repository is not designed to teach trading strategies or provide investment advice.
+
+Instead, it establishes a structured body of technical knowledge that enables consistent interpretation of observable market behavior.
+
+Its purpose is to:
+
+- Define technical concepts precisely.
+- Explain how technical evidence should be interpreted.
+- Describe relationships between technical concepts.
+- Identify situations where technical evidence is reliable or unreliable.
+- Document the strengths and limitations of analytical techniques.
+- Maintain consistency across all technical interpretations.
+
+The repository treats technical analysis as a framework for understanding market behavior rather than predicting future price movements.
+
+---
+
+# Scope
+
+The repository covers the complete analytical workflow required for technical market interpretation, including:
+
+- Market fundamentals
+- Price action
+- Market structure
+- Trend analysis
+- Support and resistance
+- Volume analysis
+- Technical indicators
+- Chart and candlestick patterns
+- Multi-timeframe analysis
+- Technical interpretation
+- Analytical reasoning
+- Indian market conventions
+
+Fundamental analysis is referenced only where it provides necessary context for interpreting technical conditions. The primary focus remains on observable price and volume behavior.
+
+---
+
+# Organizational Structure
+
+The repository is organized into progressively dependent domains.
+
+| Domain | Purpose |
+|---------|----------|
+| Foundations | Establishes analytical philosophy and terminology. |
+| Market Fundamentals | Explains how markets function and how prices are formed. |
+| Price Action | Documents the construction and interpretation of price movement. |
+| Market Structure | Defines trends and structural market behavior. |
+| Support & Resistance | Explains key price levels and market reactions. |
+| Trend | Documents trend identification and trend quality. |
+| Volume | Explains participation and confirmation through trading volume. |
+| Indicators | Covers mathematical technical indicators and their interpretation. |
+| Patterns | Documents candlestick and chart formations. |
+| Multi-Timeframe Analysis | Explains interaction between different chart timeframes. |
+| Technical Interpretation | Integrates multiple forms of evidence into coherent market analysis. |
+| Analytical Framework | Standardizes the reasoning process used by the AI. |
+| Indian Market | Documents market-specific conventions, regulations, and practices. |
+| Appendices | Reference material, formulae, glossaries, and analytical checklists. |
+
+Each domain builds upon concepts introduced in preceding sections while remaining independently retrievable.
+
+---
+
+# Role of Technical Analysis
+
+Within this repository, technical analysis is defined as:
+
+> The systematic interpretation of market-generated information—including price, volume, market structure, and related technical evidence—to objectively describe current market conditions and assess the strength, weakness, or uncertainty of prevailing trends.
+
+Technical analysis is not treated as a predictive discipline.
+
+Instead, it is treated as an evidence-based framework for interpreting observable market behavior.
+
+Observable market behavior includes:
+
+- Price movement
+- Trading volume
+- Trend development
+- Support and resistance interactions
+- Momentum characteristics
+- Volatility conditions
+- Market structure evolution
+- Multi-timeframe alignment
+
+These observations collectively provide evidence regarding the current technical condition of a security.
+
+---
+
+# Knowledge Design Principles
+
+The repository has been designed according to the following principles:
+
+## Modular Knowledge
+
+Every concept exists as an independent documentation unit.
+
+Each unit should remain understandable even when retrieved without its surrounding chapters.
+
+---
+
+## Consistent Terminology
+
+Every technical term is defined once and used consistently throughout the repository.
+
+Definitions should never conflict across chapters.
+
+---
+
+## Explicit Relationships
+
+Concepts are explicitly connected to related concepts rather than explained in isolation.
+
+Examples include:
+
+- Trend depends on Market Structure.
+- Volume confirms Breakouts.
+- Support interacts with Pullbacks.
+- Momentum supports Trend Strength.
+- Multi-Timeframe Analysis validates Technical Context.
+
+These relationships enable downstream AI systems to construct richer semantic understanding.
+
+---
+
+## Evidence-Based Interpretation
+
+Interpretations must be supported by observable technical evidence.
+
+The repository avoids subjective conclusions and instead explains:
+
+- What the market is doing.
+- Why the evidence supports that interpretation.
+- Which additional evidence strengthens or weakens the conclusion.
+- Where uncertainty remains.
+
+---
+
+## Deterministic Documentation
+
+Concept definitions should be:
+
+- Precise
+- Reproducible
+- Unambiguous
+- Internally consistent
+
+Whenever possible, analytical reasoning should follow explicit logical relationships rather than heuristic opinion.
+
+---
+
+# AI Interpretation
+
+The downstream AI should use this repository to:
+
+- Describe observable technical conditions.
+- Explain the reasoning behind technical observations.
+- Evaluate supporting and contradictory evidence.
+- Maintain analytical consistency across different securities.
+- Recognize uncertainty when evidence conflicts.
+- Avoid deterministic predictions.
+- Avoid investment recommendations.
+
+The AI should function as an analytical interpreter rather than a decision maker.
+
+---
+
+# Repository Assumptions
+
+This knowledge base assumes:
+
+- Financial markets are probabilistic systems.
+- Price reflects continuously evolving market information.
+- No single technical indicator is sufficient for reliable analysis.
+- Multiple independent sources of evidence produce more robust interpretations.
+- Technical analysis complements—but does not replace—other forms of investment research.
+- Market conditions change continuously, requiring ongoing evaluation rather than static conclusions.
+
+These assumptions influence every analytical framework described throughout the repository.
+
+---
+
+# Relationship to Subsequent Chapters
+
+This introduction establishes the context for the remainder of the Foundations domain.
+
+Subsequent chapters define:
+
+- **Purpose of Technical Analysis** — explains why technical analysis exists and its role within investment analysis.
+- **Long-Term Investment Philosophy** — defines the investment philosophy underlying this repository.
+- **Scope of Knowledge Base** — clarifies what is included and excluded.
+- **Guiding Principles** — establishes analytical standards.
+- **AI Analysis Philosophy** — defines how the AI should reason about technical evidence.
+- **Probability vs Prediction** — distinguishes probabilistic reasoning from deterministic forecasting.
+- **Evidence-Based Analysis** — formalizes evidence-driven interpretation.
+- **Confirmation** — explains how independent evidence strengthens conclusions.
+- **Contradictory Evidence** — explains how conflicting signals should be interpreted.
+- **Confidence** — defines confidence as a function of evidence quality rather than certainty.
+- **Technical Context** — explains why technical observations must always be interpreted within their broader market environment.
+
+Together, these chapters form the conceptual foundation upon which all subsequent technical analysis concepts in this repository are built.
+
+---
+
+# Concept Relationships
+
+## Depends On
+
+- None
+
+## Supports
+
+- Entire Technical Analysis Knowledge Base
+- Analytical Framework
+- Technical Interpretation
+- AI Reasoning Framework
+
+## Commonly Used Together
+
+- Purpose of Technical Analysis
+- AI Analysis Philosophy
+- Evidence-Based Analysis
+- Technical Context
+
+## Conflicts With
+
+- Deterministic market prediction
+- Single-indicator decision making
+- Opinion-based technical interpretation
+- Strategy-first analytical approaches

@@ -1,0 +1,347 @@
+---
+chapter_number: 11
+chapter_title: Analytical Framework
+document_title: Evidence Framework
+category: Analytical Framework
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Technical Assessment
+  - Evidence Integration
+  - Monitoring Framework
+  - Market Structure
+  - Trend Fundamentals
+  - Multi-Timeframe Analysis
+
+related_concepts:
+  - Technical Thesis
+  - Confirmation
+  - Trend
+  - Market Structure
+  - Support and Resistance
+  - Volume
+  - Momentum
+  - Volatility
+
+keywords:
+  - Evidence Framework
+  - Evidence Hierarchy
+  - Evidence Weighting
+  - Confirmation
+  - Technical Evidence
+  - Analytical Framework
+  - Technical Analysis
+
+version: 1.0
+---
+
+# Evidence Framework
+
+## Objective
+
+Establish a structured methodology for evaluating technical evidence. This framework defines how different types of technical observations should be prioritized, weighted, and combined to produce objective, repeatable, and internally consistent technical assessments.
+
+---
+
+# Evidence Framework
+
+## Definition
+
+An **Evidence Framework** is a systematic approach for organizing and evaluating technical observations according to their analytical importance.
+
+Rather than treating all technical signals equally, the framework prioritizes evidence based on its contribution to understanding market structure and prevailing market conditions.
+
+---
+
+## Principles
+
+The framework is based on five principles:
+
+- Technical evidence is hierarchical.
+- Stronger evidence should receive greater weight.
+- Multiple independent confirmations increase confidence.
+- Contradictory evidence should be incorporated rather than ignored.
+- Technical conclusions should remain adaptable as new evidence emerges.
+
+---
+
+# Evidence Hierarchy
+
+## Definition
+
+An **Evidence Hierarchy** ranks technical observations according to their relative analytical importance.
+
+Higher-level evidence provides the primary framework for interpretation, while lower-level evidence offers confirmation or refinement.
+
+---
+
+## Suggested Hierarchy
+
+| Level | Technical Evidence | Role |
+|--------|--------------------|------|
+| 1 | Market Structure | Defines the primary technical framework |
+| 2 | Trend | Establishes prevailing market direction |
+| 3 | Support and Resistance | Identifies structural reference levels |
+| 4 | Multi-Timeframe Alignment | Validates observations across timeframes |
+| 5 | Volume | Confirms market participation |
+| 6 | Momentum | Evaluates trend strength and momentum |
+| 7 | Volatility | Measures price movement characteristics |
+| 8 | Chart Patterns | Provides structural context |
+| 9 | Candlestick Patterns | Offers short-term sentiment information |
+| 10 | Individual Indicator Signals | Supplements broader analysis |
+
+The hierarchy is a guideline rather than a rigid rule.
+
+---
+
+## Hierarchical Interpretation
+
+Higher-level evidence should generally take precedence over lower-level evidence.
+
+For example:
+
+- A strong long-term uptrend should not be considered invalid solely because RSI is overbought.
+- A confirmed structural breakdown carries greater significance than a single bullish candlestick.
+
+---
+
+# Primary vs Supporting Evidence
+
+## Primary Evidence
+
+Primary evidence defines the overall technical condition of a security.
+
+It typically includes:
+
+- Market structure.
+- Trend.
+- Support and resistance.
+- Multi-timeframe alignment.
+
+These components establish the technical framework.
+
+---
+
+## Supporting Evidence
+
+Supporting evidence strengthens or weakens confidence in the primary assessment.
+
+Examples include:
+
+- Volume.
+- Momentum indicators.
+- Volatility indicators.
+- Chart patterns.
+- Candlestick patterns.
+
+Supporting evidence should not independently override primary evidence.
+
+---
+
+## Relationship
+
+```
+Primary Evidence
+        │
+Defines Technical Context
+        │
+        ▼
+Supporting Evidence
+        │
+Confirms or Challenges
+        │
+        ▼
+Overall Technical Assessment
+```
+
+---
+
+# Analytical Importance
+
+## Definition
+
+**Analytical importance** describes the degree to which a technical observation contributes to understanding current market conditions.
+
+Not every observation contributes equally.
+
+---
+
+## High Analytical Importance
+
+Typically includes:
+
+- Market structure changes.
+- Trend reversals.
+- Major support and resistance breaks.
+- Multi-timeframe alignment.
+
+These observations often influence multiple aspects of technical analysis.
+
+---
+
+## Moderate Analytical Importance
+
+Examples include:
+
+- Volume confirmation.
+- Trend quality.
+- Momentum divergence.
+- Volatility expansion.
+
+These observations provide important context but generally require confirmation from higher-level evidence.
+
+---
+
+## Lower Analytical Importance
+
+Examples include:
+
+- Individual candlestick patterns.
+- Single indicator crossovers.
+- Isolated oscillator readings.
+
+These observations are most valuable when they align with the broader technical framework.
+
+---
+
+# Evidence Weighting
+
+## Definition
+
+**Evidence weighting** is the process of assigning greater influence to higher-quality technical observations.
+
+Weighting improves consistency by reducing reliance on isolated or low-quality signals.
+
+---
+
+## Weighting Principles
+
+Evidence should generally receive greater weight when it is:
+
+- Supported by market structure.
+- Confirmed across multiple timeframes.
+- Confirmed by volume.
+- Consistent across multiple indicators.
+- Persistent over time.
+
+---
+
+## Factors That Reduce Weight
+
+Technical evidence may receive less weight when:
+
+- It conflicts with higher timeframe structure.
+- It is based on a single indicator.
+- It lacks volume confirmation.
+- It contradicts prevailing market structure.
+- It occurs during low-liquidity or highly volatile conditions.
+
+Weighting is qualitative rather than numerical.
+
+---
+
+# Confirmation Principles
+
+## Definition
+
+**Confirmation** is the process of verifying a technical observation using one or more independent sources of evidence.
+
+Confirmation improves confidence without guaranteeing future outcomes.
+
+---
+
+## Sources of Confirmation
+
+Technical observations may be confirmed through:
+
+- Market structure.
+- Trend.
+- Support and resistance.
+- Volume.
+- Momentum.
+- Volatility.
+- Multi-timeframe alignment.
+
+Independent confirmation is generally stronger than repeated confirmation from similar indicators.
+
+---
+
+## Strong Confirmation
+
+A technical assessment is generally stronger when:
+
+- Multiple independent observations agree.
+- Higher and lower timeframes align.
+- Volume supports price movement.
+- Market structure remains consistent.
+
+---
+
+## Weak Confirmation
+
+A technical assessment is generally weaker when:
+
+- Evidence is contradictory.
+- Confirmation depends on a single indicator.
+- Market structure is unclear.
+- Volume fails to support price action.
+
+---
+
+# Evidence Evaluation Workflow
+
+```
+Collect Technical Evidence
+           │
+           ▼
+Classify Evidence
+(Primary or Supporting)
+           │
+           ▼
+Prioritize According to Hierarchy
+           │
+           ▼
+Evaluate Confirmation
+           │
+           ▼
+Weight Supporting Evidence
+           │
+           ▼
+Form Technical Assessment
+           │
+           ▼
+Monitor for New Evidence
+```
+
+---
+
+# Best Practices
+
+- Begin with market structure before evaluating indicators.
+- Prioritize higher timeframes over lower timeframes.
+- Seek confirmation from independent sources.
+- Avoid allowing isolated signals to dominate the assessment.
+- Reassess evidence as market conditions evolve.
+
+---
+
+# Important Considerations
+
+- Technical evidence represents probabilities rather than certainties.
+- No single technical observation should determine the overall assessment.
+- Supporting evidence enhances, but does not replace, primary evidence.
+- Evidence weighting is based on analytical significance rather than the number of indicators.
+- A consistent evidence framework improves objectivity, repeatability, and interpretability.
+
+---
+
+# Key Takeaways
+
+- An **Evidence Framework** provides a structured methodology for evaluating technical observations objectively.
+- **Evidence Hierarchy** prioritizes market structure and trend above individual indicators and candlestick patterns.
+- **Primary evidence** establishes the technical context, while **supporting evidence** confirms or challenges that interpretation.
+- **Evidence weighting** assigns greater importance to observations supported by market structure, volume, and multi-timeframe alignment.
+- **Confirmation principles** emphasize the use of multiple independent sources of evidence to strengthen technical assessments while acknowledging uncertainty.

@@ -1,0 +1,333 @@
+# Technical Analysis Knowledge Base for AI
+
+## Repository Structure (Version 1.0)
+
+Technical_Analysis_Knowledge_Base/
+│
+├── README.md
+├── INDEX.md
+├── GLOSSARY.md
+├── REFERENCES.md
+│
+├── 00_Foundations/
+│   ├── README.md
+│   ├── Introduction.md
+│   ├── Purpose_of_Technical_Analysis.md
+│   ├── Long_Term_Investment_Philosophy.md
+│   ├── Scope_of_Knowledge_Base.md
+│   ├── Guiding_Principles.md
+│   ├── AI_Analysis_Philosophy.md
+│   ├── Probability_vs_Prediction.md
+│   ├── Evidence_Based_Analysis.md
+│   ├── Confirmation.md
+│   ├── Contradictory_Evidence.md
+│   ├── Confidence.md
+│   └── Technical_Context.md
+│
+├── 01_Market_Fundamentals/
+│   ├── README.md
+│   ├── Market_Participants.md
+│   ├── Price_Discovery.md
+│   ├── Supply_and_Demand.md
+│   ├── Liquidity.md
+│   ├── Market_Efficiency.md
+│   ├── Behavioural_Finance.md
+│   ├── Dow_Theory.md
+│   ├── Market_Cycles.md
+│   └── Indian_Market_Characteristics.md
+│
+├── 02_Price_Action/
+│   ├── README.md
+|   ├── Price_Action_Fundamentals.md
+│   |               ├── OHLC
+│   |               ├── Opening Price
+|   |               ├── Closing Price
+|   |               └── High and Low
+│   ├── Candlesticks.md
+|   │               ├── Candlestick Construction
+|   │               ├── Candle Anatomy
+|   │               ├── Bullish vs Bearish Candles
+|   │               ├── Reading Candlesticks
+|   │               └── Price Representation
+|   ├── Price_Transitions.md
+|   │               ├── Breakouts
+|   │               ├── Breakdowns
+|   │               ├── Pullbacks
+|   │               └── Retracements
+|   └── Market_Behaviour.md
+|                    ├── Price Gaps
+|                    ├── Trend Days
+|                    ├── Range Days
+|                    └── Consolidation
+│
+├── 03_Market_Structure/
+|   ├── README.md
+|   │
+|   ├── Swing_Structure.md
+|   │               ├── Swing High
+|   │               ├── Swing Low
+|   │               └── Identifying Swing Points
+|   │
+|   ├── Trend_Structure.md
+|   │               ├── Higher High
+|   │               ├── Higher Low
+|   │               ├── Lower High
+|   │               ├── Lower Low
+|   │               ├── Trend Changes
+|   │               └── Structural Trend Reversals
+|   │
+|   └── Market_Phases.md
+|                    ├── Accumulation
+|                    ├── Markup
+|                    ├── Distribution
+|                    ├── Markdown
+|                    └── Market Phases
+|
+├── 04_Support_Resistance/
+|   ├── README.md
+|   │
+|   ├── Support_and_Resistance_Fundamentals.md
+|   │               ├── Support
+|   │               ├── Resistance
+|   │               ├── Horizontal Levels
+|   │               └── Psychological Levels
+|   │
+|   ├── Dynamic_Levels.md
+|   │               ├── Dynamic Support
+|   │               ├── Dynamic Resistance
+|   │               ├── Trendlines
+|   │               └── Channels
+|   │
+|   ├── Supply_and_Demand.md
+|   │               ├── Supply Zones
+|   │               ├── Demand Zones
+|   │               ├── Zone Strength
+|   │               └── Retests
+|   │
+|   └── Level_Validation.md
+|                    ├── Breakout Validation
+|                    ├── Failed Breakouts
+|                    ├── False Breakdowns
+|                    └── Support and Resistance Flips
+├── 05_Trend/
+|   ├── README.md
+|   │
+|   ├── Trend_Fundamentals.md
+|   │               ├── Trend
+|   │               ├── Uptrend
+|   │               ├── Downtrend
+|   │               └── Sideways Market
+|   │
+|   ├── Trend_Development.md
+|   │               ├── Trend Continuation
+|   │               ├── Trend Exhaustion
+|   │               ├── Trend Reversal
+|   │               └── Trend Lifecycle
+|   │
+|   ├── Trend_Quality.md
+|   │               ├── Trend Strength
+|   │               ├── Trend Quality
+|   │               ├── Healthy vs Weak Trends
+|   │               └── Measuring Trend Quality
+|   │
+|   └── Stage_Analysis.md
+|                   ├── Stage Analysis
+|                   ├── Stage I – Accumulation
+|                   ├── Stage II – Advancing
+|                   ├── Stage III – Distribution
+|                   └── Stage IV – Declining
+|
+├── 06_Volume/
+|   ├── README.md
+|   │
+|   ├── Volume_Fundamentals.md
+|   │               ├── Volume
+|   │               ├── Volume Confirmation
+|   │               ├── Volume and Liquidity
+|   │               └── Importance of Volume
+|   │
+|   ├── Volume_Behaviour.md
+|   │               ├── Accumulation Volume
+|   │               ├── Distribution Volume
+|   │               ├── Volume Climax
+|   │               ├── Dry Volume
+|   │               └── Volume Patterns
+|   │
+|   ├── Volume_Indicators.md
+|   │               ├── On Balance Volume (OBV)
+|   │               ├── Volume Weighted Average Price (VWAP)
+|   │               └── Choosing the Appropriate Volume Indicator
+|   │
+|   └── Volume_Interpretation.md
+|                   ├── Volume Divergence
+|                   ├── Combining Volume with Price Action
+|                   ├── Volume in Trend Analysis
+|                   ├── Volume in Breakouts & Breakdowns
+|                   ├── Common Interpretation Guidelines
+|                   └── Limitations of Volume Analysis
+|
+├── 07_Indicators/
+│   ├── README.md
+│   │
+│   ├── Moving_Averages.md
+│   │               ├── SMA
+│   │               ├── EMA
+│   │               ├── WMA
+│   │               ├── VWMA
+│   │               ├── 20_DMA
+│   │               ├── 50_DMA
+│   │               ├── 100_DMA
+│   │               ├── 200_DMA
+│   │               ├── Crossovers
+│   │               └── Dynamic_Support
+│   │
+│   ├── Momentum.md
+│   │               ├── RSI
+│   │               ├── MACD
+│   │               ├── ROC
+│   │               ├── CCI
+│   │               ├── Williams_R
+│   │               ├── Stochastic
+│   │               └── Divergence
+│   │
+│   └── Volatility.md
+│                   ├── ATR
+│                   ├── Bollinger_Bands
+│                   ├── Keltner_Channels
+│                   ├── Volatility_Expansion
+│                   └── Volatility_Contraction
+│
+├── 08_Patterns/
+│   ├── README.md
+│   │
+│   ├── Candlestick.md
+│   │               ├── Doji
+│   │               ├── Hammer
+│   │               ├── Hanging_Man
+│   │               ├── Shooting_Star
+│   │               ├── Engulfing
+│   │               ├── Harami
+│   │               ├── Morning_Star
+│   │               ├── Evening_Star
+│   │               └── Reliability
+│   │
+│   ├──  Chart.md
+│   |               ├── Double_Top
+│   |               ├── Double_Bottom
+│   |               ├── Head_and_Shoulders
+│   |               ├── Inverse_Head_and_Shoulders
+│   |               ├── Cup_and_Handle
+│   |               ├── Flags
+│   |               ├── Pennants
+│   |               ├── Triangles
+│   |               ├── Wedges
+│   |               ├── Rectangles
+│   |               └── Channels
+|   |
+|   ├── Continuation_Patterns.md
+|   ├── Reversal_Patterns.md
+|   ├── Pattern_Confirmation.md
+|   └── Pattern_Failure.md
+|
+├── 09_Multi_Timeframe_Analysis/
+|    ├── README.md
+|    │
+|    ├── Timeframe_Fundamentals.md
+|    │               ├── Multi-Timeframe Analysis
+|    │               ├── Monthly Charts
+|    │               ├── Weekly Charts
+|    │               ├── Daily Charts
+|    │               ├── Timeframe Characteristics
+|    │               └── Choosing the Appropriate Timeframe
+|    │
+|    └── Top_Down_Analysis.md
+|                    ├── Top-Down Analysis
+|                    ├── Timeframe Alignment
+|                    ├── Conflicting Timeframes
+|                    ├── Signal Prioritization
+|                    ├── Practical Analysis Workflow
+|                    └── Common Multi-Timeframe Mistakes
+|
+├── 10_Technical_Interpretation/
+|    ├── README.md
+|    │
+|    ├── Technical_Assessment.md
+|    │               ├── Trend Interpretation
+|    │               ├── Market Structure Interpretation
+|    │               ├── Volume Interpretation
+|    │               ├── Momentum Interpretation
+|    │               ├── Volatility Interpretation
+|    │               ├── Technical Strength
+|    │               └── Technical Weakness
+|    │
+|    ├── Evidence_Integration.md
+|    │               ├── Contradictory Evidence
+|    │               ├── Technical Uncertainty
+|    │               ├── Evidence Prioritization
+|    │               ├── Confidence Assessment
+|    │               └── Building a Technical Thesis
+|    │
+|    └── Monitoring_Framework.md
+|                    ├── Monitoring Framework
+|                    ├── Technical Health Review
+|                    ├── Trend Monitoring
+|                    ├── Monitoring Key Levels
+|                    ├── Monitoring Indicator Changes
+|                    ├── Thesis Validation
+|                    └── Technical Review Workflow
+│
+├── 11_Analytical_Framework/
+|   ├── README.md
+|   │
+|   ├── Evidence_Framework.md
+|   │               ├── Evidence Hierarchy
+|   │               ├── Primary vs Supporting Evidence
+|   │               ├── Analytical Importance
+|   │               ├── Evidence Weighting
+|   │               └── Confirmation Principles
+|   │
+|   ├── Technical_Analysis_Workflow.md
+|   │               ├── Technical Interpretation Workflow
+|   │               ├── Building a Technical Thesis
+|   │               ├── Decision Documentation
+|   │               ├── Technical Report Template
+|   │               └── Analysis Best Practices
+|   │
+|   └── Analytical_Limitations.md
+|                    ├── Limitations of Technical Analysis
+|                    ├── Common Analytical Errors
+|                    ├── Cognitive Biases
+|                    ├── Failure Conditions
+|                    └── Best Practices for Objective Analysis
+│
+├── 12_Indian_Market/
+|   ├── README.md
+|   │
+|   ├── Market_Infrastructure.md
+|   │               ├── National Stock Exchange (NSE)
+|   │               ├── Bombay Stock Exchange (BSE)
+|   │               ├── NIFTY
+|   │               ├── SENSEX
+|   │               └── Indian Market Conventions
+|   │
+|   ├── Market_Operations.md
+|   │               ├── Trading Sessions
+|   │               ├── Market Timings
+|   │               ├── Circuit Filters
+|   │               ├── Settlement Cycle
+|   │               └── Trading Holidays
+|   │
+|   └── Corporate_and_Regulatory_Framework.md
+|                    ├── Corporate Actions
+|                    ├── Adjusted vs Unadjusted Charts
+|                    ├── SEBI Regulations
+|                    ├── Regulatory Disclosures
+|                    └── Technical Analysis Considerations
+│
+└── Appendices/
+    ├── Indicator_Formulae.md
+    ├── Glossary.md
+    ├── Common_Misconceptions.md
+    ├── Technical_Analysis_Checklists.md
+    ├── Prompt_Templates.md
+    └── Reference_Tables.md

@@ -1,0 +1,289 @@
+---
+chapter_number: 6
+chapter_title: Volume
+document_title: Volume Indicators
+category: Volume
+
+importance: High
+analytical_importance: ★★★★☆
+primary_time_horizon: Intraday to Long Term
+
+prerequisite_concepts:
+  - Volume Fundamentals
+  - Volume Behaviour
+  - Trend Fundamentals
+  - Support and Resistance
+
+related_concepts:
+  - Volume Profile
+  - Moving Averages
+  - Trend Confirmation
+  - Breakouts
+  - Breakdowns
+  - Momentum
+  - Liquidity
+
+keywords:
+  - On Balance Volume
+  - OBV
+  - Volume Weighted Average Price
+  - VWAP
+  - Volume Indicator
+  - Trend Confirmation
+  - Volume Analysis
+
+version: 1.0
+---
+
+# Volume Indicators
+
+## Objective
+
+Understand the most widely used volume-based technical indicators, their underlying principles, and their appropriate applications. Volume indicators provide additional analytical context by combining trading volume with price movement.
+
+---
+
+# On Balance Volume (OBV)
+
+## Definition
+
+**On Balance Volume (OBV)** is a cumulative volume indicator that measures buying and selling pressure by adding or subtracting trading volume based on the direction of the closing price.
+
+The indicator assumes that volume may precede significant price movement.
+
+---
+
+## Calculation
+
+For each trading period:
+
+- If **Close > Previous Close**, current volume is added.
+- If **Close < Previous Close**, current volume is subtracted.
+- If **Close = Previous Close**, OBV remains unchanged.
+
+```
+Bullish Close   → OBV = Previous OBV + Current Volume
+
+Bearish Close   → OBV = Previous OBV − Current Volume
+
+Unchanged Close → OBV = Previous OBV
+```
+
+---
+
+## Interpretation
+
+### Rising OBV
+
+Generally indicates:
+
+- Increasing buying participation.
+- Positive volume confirmation.
+- Accumulation of volume.
+
+---
+
+### Falling OBV
+
+Generally indicates:
+
+- Increasing selling participation.
+- Negative volume confirmation.
+- Distribution of volume.
+
+---
+
+### Divergence
+
+A divergence occurs when price and OBV move in different directions.
+
+Examples:
+
+- Price makes a higher high while OBV fails to make a higher high.
+- Price makes a lower low while OBV fails to make a lower low.
+
+Divergences indicate that price and volume are no longer behaving consistently and warrant further analysis.
+
+---
+
+## Advantages
+
+OBV:
+
+- Is simple to interpret.
+- Helps evaluate trend confirmation.
+- May identify changes in buying or selling participation.
+- Can complement market structure analysis.
+
+---
+
+## Limitations
+
+OBV:
+
+- Does not measure trend strength directly.
+- Can generate false signals during volatile markets.
+- Should not be interpreted independently of price action.
+
+---
+
+# Volume Weighted Average Price (VWAP)
+
+## Definition
+
+**Volume Weighted Average Price (VWAP)** is the average traded price of a security weighted by trading volume throughout the trading session.
+
+Unlike a simple average, VWAP assigns greater influence to prices where larger trading volumes occurred.
+
+---
+
+## Concept
+
+VWAP combines:
+
+- Price
+- Volume
+
+to calculate an average execution price that reflects actual market participation.
+
+Institutional traders frequently use VWAP as an execution benchmark.
+
+---
+
+## Interpretation
+
+### Price Above VWAP
+
+Generally indicates:
+
+- Trading above the session's average volume-weighted price.
+- Relative intraday strength.
+- Stronger buying participation.
+
+---
+
+### Price Below VWAP
+
+Generally indicates:
+
+- Trading below the session's average volume-weighted price.
+- Relative intraday weakness.
+- Stronger selling participation.
+
+---
+
+### Price Near VWAP
+
+May indicate:
+
+- Temporary equilibrium.
+- Balanced buying and selling activity.
+- Reduced short-term directional conviction.
+
+---
+
+## Common Applications
+
+VWAP is widely used for:
+
+- Intraday trend identification.
+- Institutional trade execution.
+- Intraday support and resistance.
+- Measuring execution quality.
+- Comparing current price with the session average.
+
+VWAP is primarily an **intraday indicator** and is recalculated at the beginning of each trading session.
+
+---
+
+## Advantages
+
+VWAP:
+
+- Incorporates both price and volume.
+- Reflects actual trading activity.
+- Widely accepted by institutional participants.
+- Provides an objective intraday reference level.
+
+---
+
+## Limitations
+
+VWAP:
+
+- Primarily designed for intraday analysis.
+- Loses significance across multiple trading sessions.
+- Is less suitable for long-term trend analysis.
+
+---
+
+# Choosing the Appropriate Volume Indicator
+
+Different volume indicators serve different analytical objectives.
+
+Selection should depend on the market, timeframe, and analysis being performed.
+
+---
+
+## When to Use OBV
+
+OBV is well suited for:
+
+- Trend confirmation.
+- Detecting volume divergence.
+- Evaluating accumulation and distribution.
+- Medium- and long-term trend analysis.
+
+---
+
+## When to Use VWAP
+
+VWAP is well suited for:
+
+- Intraday trading.
+- Measuring institutional execution.
+- Identifying intraday trend direction.
+- Dynamic intraday support and resistance.
+
+---
+
+## Comparison
+
+| Indicator | Primary Purpose | Best Time Horizon |
+|-----------|-----------------|-------------------|
+| On Balance Volume (OBV) | Trend and volume confirmation | Swing Trading to Long Term |
+| Volume Weighted Average Price (VWAP) | Intraday price benchmark | Intraday |
+
+---
+
+## Selection Principles
+
+When choosing a volume indicator, consider:
+
+- Trading timeframe.
+- Analytical objective.
+- Market conditions.
+- Relationship with price action.
+- Compatibility with the broader trading methodology.
+
+Volume indicators should complement price analysis rather than replace it.
+
+---
+
+# Important Considerations
+
+- Volume indicators provide **confirmation**, not prediction.
+- No volume indicator is universally superior.
+- Indicators may produce conflicting signals during volatile or low-liquidity conditions.
+- Market structure and price action should remain the primary analytical framework.
+- Multiple indicators may be combined when they address different aspects of market behaviour.
+
+---
+
+# Key Takeaways
+
+- **On Balance Volume (OBV)** is a cumulative indicator used to evaluate buying and selling pressure through changes in trading volume.
+- **Volume Weighted Average Price (VWAP)** is a volume-weighted average price primarily used for intraday analysis and institutional trade benchmarking.
+- OBV is generally more suitable for trend confirmation and accumulation/distribution analysis.
+- VWAP is generally more suitable for intraday trend assessment and execution analysis.
+- The choice of volume indicator should depend on the trading timeframe and analytical objective, while price action and market structure remain the primary basis for technical analysis.

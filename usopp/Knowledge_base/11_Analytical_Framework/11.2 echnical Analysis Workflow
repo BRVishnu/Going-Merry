@@ -1,0 +1,483 @@
+---
+chapter_number: 11
+chapter_title: Analytical Framework
+document_title: Technical Analysis Workflow
+category: Analytical Framework
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Evidence Framework
+  - Technical Assessment
+  - Evidence Integration
+  - Monitoring Framework
+  - Multi-Timeframe Analysis
+
+related_concepts:
+  - Technical Thesis
+  - Market Structure
+  - Trend
+  - Support and Resistance
+  - Volume
+  - Momentum
+  - Volatility
+  - Risk Management
+
+keywords:
+  - Technical Analysis Workflow
+  - Technical Thesis
+  - Technical Report
+  - Decision Documentation
+  - Technical Interpretation
+  - Analysis Workflow
+  - Best Practices
+
+version: 1.0
+---
+
+# Technical Analysis Workflow
+
+## Objective
+
+Establish a standardized workflow for performing technical analysis. The workflow defines a repeatable process for collecting evidence, interpreting market conditions, documenting conclusions, and maintaining analytical consistency.
+
+---
+
+# Technical Interpretation Workflow
+
+## Purpose
+
+A technical assessment should follow a structured sequence rather than evaluating indicators or patterns independently.
+
+Each step builds upon the previous one.
+
+---
+
+## Workflow
+
+```
+Market Context
+        │
+        ▼
+Trend Analysis
+        │
+        ▼
+Market Structure Analysis
+        │
+        ▼
+Support & Resistance
+        │
+        ▼
+Volume Analysis
+        │
+        ▼
+Momentum Analysis
+        │
+        ▼
+Volatility Analysis
+        │
+        ▼
+Pattern Evaluation
+        │
+        ▼
+Multi-Timeframe Validation
+        │
+        ▼
+Evidence Integration
+        │
+        ▼
+Technical Thesis
+```
+
+---
+
+## Step 1 — Market Context
+
+Evaluate:
+
+- Primary timeframe.
+- Market phase.
+- Long-term trend.
+- Major support and resistance.
+
+The objective is to establish the broader technical environment.
+
+---
+
+## Step 2 — Trend Analysis
+
+Determine:
+
+- Trend direction.
+- Trend quality.
+- Trend strength.
+- Trend continuation or weakening.
+
+Trend provides the primary directional framework.
+
+---
+
+## Step 3 — Market Structure
+
+Evaluate:
+
+- Swing highs and swing lows.
+- Breakouts.
+- Breakdowns.
+- Structural trend changes.
+- Price acceptance.
+
+Market structure has the highest analytical importance.
+
+---
+
+## Step 4 — Support and Resistance
+
+Identify:
+
+- Horizontal levels.
+- Dynamic levels.
+- Supply zones.
+- Demand zones.
+- Key breakout or breakdown levels.
+
+These define the market's structural boundaries.
+
+---
+
+## Step 5 — Volume Analysis
+
+Evaluate:
+
+- Volume confirmation.
+- Accumulation.
+- Distribution.
+- Breakout volume.
+- Volume divergence.
+
+Volume strengthens or weakens confidence in the structural assessment.
+
+---
+
+## Step 6 — Momentum Analysis
+
+Review:
+
+- RSI.
+- MACD.
+- ROC.
+- CCI.
+- Williams %R.
+- Stochastic Oscillator.
+
+Determine whether momentum supports the prevailing market structure.
+
+---
+
+## Step 7 — Volatility Analysis
+
+Evaluate:
+
+- ATR.
+- Bollinger Bands.
+- Keltner Channels.
+- Volatility expansion.
+- Volatility contraction.
+
+Volatility provides context regarding market activity.
+
+---
+
+## Step 8 — Pattern Evaluation
+
+Review:
+
+- Chart patterns.
+- Candlestick patterns.
+
+Patterns should complement rather than define the technical assessment.
+
+---
+
+## Step 9 — Multi-Timeframe Validation
+
+Compare:
+
+- Monthly.
+- Weekly.
+- Daily.
+
+Determine:
+
+- Timeframe alignment.
+- Structural consistency.
+- Higher timeframe confirmation.
+
+---
+
+## Step 10 — Evidence Integration
+
+Combine all technical observations.
+
+Identify:
+
+- Supporting evidence.
+- Contradictory evidence.
+- Confidence level.
+- Areas of uncertainty.
+
+---
+
+# Building a Technical Thesis
+
+## Definition
+
+A **technical thesis** is a concise, evidence-based summary of the current technical condition of a security.
+
+The thesis should describe current market behaviour rather than forecast future prices.
+
+---
+
+## Components
+
+A complete technical thesis should include:
+
+### Market Context
+
+- Primary trend.
+- Market phase.
+- Higher timeframe alignment.
+
+---
+
+### Primary Evidence
+
+- Market structure.
+- Trend.
+- Support and resistance.
+
+---
+
+### Supporting Evidence
+
+- Volume.
+- Momentum.
+- Volatility.
+- Technical indicators.
+- Chart patterns.
+
+---
+
+### Contradictory Evidence
+
+Document observations that challenge the primary assessment.
+
+These should remain part of the analysis rather than being ignored.
+
+---
+
+### Confidence Assessment
+
+Describe whether confidence is:
+
+- High.
+- Moderate.
+- Low.
+
+Confidence reflects evidence quality, not prediction certainty.
+
+---
+
+### Conditions for Reassessment
+
+Specify observations that would require the technical thesis to be updated.
+
+Examples include:
+
+- Structural trend reversal.
+- Breakdown below major support.
+- Breakout above significant resistance.
+- Loss of volume confirmation.
+- Multi-timeframe disagreement.
+
+---
+
+# Decision Documentation
+
+## Purpose
+
+Technical analysis should produce a documented assessment rather than informal observations.
+
+Documentation improves:
+
+- Consistency.
+- Transparency.
+- Repeatability.
+- Future review.
+
+---
+
+## Documentation Elements
+
+Record:
+
+- Date of analysis.
+- Security.
+- Timeframes analyzed.
+- Technical observations.
+- Supporting evidence.
+- Contradictory evidence.
+- Confidence assessment.
+- Technical thesis.
+
+Documentation should describe observed market conditions without making investment recommendations.
+
+---
+
+# Technical Report Template
+
+A standardized report may follow the structure below.
+
+```
+Security:
+
+Analysis Date:
+
+Primary Timeframe:
+
+Higher Timeframe Context:
+
+Trend:
+
+Market Structure:
+
+Support & Resistance:
+
+Volume Assessment:
+
+Momentum Assessment:
+
+Volatility Assessment:
+
+Chart Patterns:
+
+Multi-Timeframe Alignment:
+
+Supporting Evidence:
+
+Contradictory Evidence:
+
+Confidence Assessment:
+
+Technical Thesis:
+
+Conditions for Reassessment:
+```
+
+The template provides a consistent framework for documenting technical analysis.
+
+---
+
+# Analysis Best Practices
+
+Technical analysis should adhere to several principles.
+
+---
+
+## Objectivity
+
+Describe observable market behaviour rather than personal expectations.
+
+---
+
+## Consistency
+
+Apply the same analytical framework across all securities.
+
+---
+
+## Evidence-Based Reasoning
+
+Base conclusions on multiple independent technical observations.
+
+---
+
+## Context Before Indicators
+
+Evaluate:
+
+1. Market structure.
+2. Trend.
+3. Support and resistance.
+
+before interpreting technical indicators.
+
+---
+
+## Confirmation
+
+Seek confirmation through:
+
+- Volume.
+- Multi-timeframe alignment.
+- Market structure.
+- Independent technical evidence.
+
+---
+
+## Continuous Reassessment
+
+Technical conclusions should evolve as new market information becomes available.
+
+Avoid treating previous analyses as permanently valid.
+
+---
+
+# Workflow Summary
+
+```
+Collect Market Data
+          │
+          ▼
+Evaluate Primary Evidence
+          │
+          ▼
+Evaluate Supporting Evidence
+          │
+          ▼
+Resolve Contradictions
+          │
+          ▼
+Assess Confidence
+          │
+          ▼
+Develop Technical Thesis
+          │
+          ▼
+Document Analysis
+          │
+          ▼
+Monitor for Structural Changes
+```
+
+---
+
+# Important Considerations
+
+- Technical analysis is an evidence-based interpretive process rather than a predictive system.
+- The workflow should be applied consistently across all securities and timeframes.
+- Primary evidence should guide the interpretation of supporting evidence.
+- Technical reports should remain objective, reproducible, and transparent.
+- Conclusions should be updated whenever new evidence materially changes the technical assessment.
+
+---
+
+# Key Takeaways
+
+- A standardized **Technical Analysis Workflow** improves consistency, objectivity, and repeatability.
+- Technical analysis should progress from market context and structure to supporting indicators before integrating all available evidence.
+- A **technical thesis** summarizes current market conditions, supporting evidence, conflicting observations, confidence, and reassessment criteria.
+- **Decision documentation** creates a transparent record of the analytical process and facilitates future reviews.
+- Effective technical analysis is built on structured reasoning, multiple independent confirmations, and continuous reassessment rather than isolated indicators or subjective opinions.

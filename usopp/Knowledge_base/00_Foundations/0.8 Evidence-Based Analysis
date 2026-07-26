@@ -1,0 +1,611 @@
+---
+chapter_number: 0
+chapter_title: Evidence-Based Analysis
+category: Foundations
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: Universal (Applicable Across All Time Horizons)
+prerequisite_concepts:
+  - Introduction
+  - Purpose of Technical Analysis
+  - Long-Term Investment Philosophy
+  - Guiding Principles
+  - AI Analysis Philosophy
+  - Probability vs Prediction
+related_concepts:
+  - Confirmation
+  - Contradictory Evidence
+  - Confidence
+  - Technical Context
+  - Evidence Hierarchy
+  - Technical Interpretation
+  - Market Structure
+  - Trend
+  - Volume Analysis
+---
+
+# Evidence-Based Analysis
+
+## Definition
+
+Evidence-Based Analysis is the systematic methodology of forming technical interpretations by evaluating **multiple independent sources of observable technical evidence** rather than relying on individual indicators, isolated signals, or subjective opinions.
+
+Within this knowledge base, every technical conclusion should emerge from the collective assessment of relevant technical observations, with each observation contributing to the overall interpretation according to its analytical importance.
+
+Evidence-Based Analysis is the primary reasoning methodology used throughout this repository.
+
+---
+
+# Purpose
+
+The purpose of Evidence-Based Analysis is to ensure that technical interpretations are:
+
+- Objective.
+- Logical.
+- Reproducible.
+- Transparent.
+- Consistent.
+- Adaptable to changing market conditions.
+
+By evaluating multiple independent observations, this methodology reduces analytical bias, improves confidence, and provides a more complete understanding of the prevailing technical condition.
+
+---
+
+# Fundamental Principle
+
+No individual technical observation should independently determine the overall technical interpretation.
+
+Instead, conclusions should result from the combined evaluation of:
+
+- Primary evidence.
+- Supporting evidence.
+- Contradictory evidence.
+- Technical context.
+- Overall evidence quality.
+
+The strength of a technical interpretation depends on the consistency of the evidence rather than the presence of any single technical signal.
+
+---
+
+# What Constitutes Technical Evidence
+
+Technical evidence consists of observable market-generated information that contributes to understanding the current technical condition.
+
+Examples include:
+
+## Price Action
+
+Examples:
+
+- Breakouts
+- Pullbacks
+- Consolidation
+- Price gaps
+- Trend days
+- Range days
+
+---
+
+## Market Structure
+
+Examples:
+
+- Higher Highs
+- Higher Lows
+- Lower Highs
+- Lower Lows
+- Structural breaks
+- Swing formation
+
+Market structure generally represents one of the strongest forms of technical evidence.
+
+---
+
+## Trend
+
+Examples:
+
+- Uptrend
+- Downtrend
+- Sideways market
+- Trend continuation
+- Trend exhaustion
+
+Trend provides important context for interpreting other technical observations.
+
+---
+
+## Support and Resistance
+
+Examples:
+
+- Horizontal levels
+- Dynamic levels
+- Trendlines
+- Supply and demand zones
+- Psychological levels
+- Retests
+
+These levels help explain where market participants have previously demonstrated buying or selling interest.
+
+---
+
+## Volume
+
+Examples:
+
+- Volume confirmation
+- Increasing participation
+- Dry volume
+- Volume climax
+- Distribution volume
+- Accumulation volume
+
+Volume evaluates the degree of market participation supporting price movement.
+
+---
+
+## Momentum
+
+Examples:
+
+- RSI
+- MACD
+- ROC
+- Momentum divergence
+
+Momentum provides supporting evidence regarding the strength or weakening of price movement.
+
+---
+
+## Volatility
+
+Examples:
+
+- ATR
+- Bollinger Bands
+- Volatility expansion
+- Volatility contraction
+
+Volatility helps explain the characteristics of price movement but generally serves as supporting evidence.
+
+---
+
+## Multi-Timeframe Alignment
+
+Examples:
+
+- Weekly trend supporting daily trend.
+- Monthly trend confirming weekly structure.
+- Higher timeframe resistance limiting lower timeframe strength.
+
+Alignment across timeframes generally strengthens technical interpretations.
+
+---
+
+# Independent Evidence
+
+## Definition
+
+Independent evidence consists of technical observations that evaluate different aspects of market behavior rather than repeating the same underlying information.
+
+Independent observations increase analytical confidence because they validate a conclusion from multiple perspectives.
+
+---
+
+## Example
+
+A bullish interpretation supported by:
+
+- Higher Highs and Higher Lows.
+- Increasing volume.
+- Price above the 200-day moving average.
+- Weekly and daily trend alignment.
+
+is stronger than one supported solely by several momentum indicators measuring similar characteristics.
+
+---
+
+# Correlated Evidence
+
+Not all technical indicators provide independent information.
+
+Examples include:
+
+- RSI
+- Stochastic Oscillator
+- Williams %R
+
+All three primarily evaluate momentum.
+
+Agreement among correlated indicators is useful but should not be treated as multiple independent confirmations.
+
+The AI should recognize the distinction between:
+
+- Independent evidence.
+- Redundant evidence.
+
+Independent evidence contributes more significantly to analytical confidence.
+
+---
+
+# Evidence Categories
+
+For consistent reasoning, technical evidence can be classified into four categories.
+
+## Primary Evidence
+
+Primary evidence forms the foundation of technical interpretation.
+
+Examples include:
+
+- Long-term trend.
+- Market structure.
+- Support and resistance.
+- Volume.
+- Multi-timeframe alignment.
+
+Primary evidence should receive the greatest analytical importance.
+
+---
+
+## Supporting Evidence
+
+Supporting evidence strengthens or refines interpretations derived from primary evidence.
+
+Examples include:
+
+- Moving averages.
+- Momentum indicators.
+- Volatility indicators.
+- Candlestick patterns.
+- Chart patterns.
+
+Supporting evidence should complement, not replace, primary evidence.
+
+---
+
+## Contradictory Evidence
+
+Contradictory evidence weakens an existing interpretation.
+
+Examples include:
+
+- Weak volume during breakout.
+- Momentum divergence.
+- Breakdown of market structure.
+- Failure of higher timeframe confirmation.
+
+Contradictory evidence should reduce confidence rather than be ignored.
+
+---
+
+## Neutral Evidence
+
+Some observations neither strengthen nor weaken the prevailing interpretation.
+
+Examples include:
+
+- Sideways consolidation within an established trend.
+- Average trading volume during normal market conditions.
+- Stable volatility without directional implications.
+
+Neutral evidence contributes context without materially changing the analytical conclusion.
+
+---
+
+# Evidence Evaluation Process
+
+Evidence-Based Analysis follows a structured reasoning process.
+
+## Step 1 — Observe
+
+Collect observable technical information without interpretation.
+
+Examples include:
+
+- Current trend.
+- Market structure.
+- Volume behavior.
+- Support and resistance.
+- Indicator values.
+
+---
+
+## Step 2 — Classify
+
+Categorize observations according to their analytical role.
+
+Examples:
+
+- Primary evidence.
+- Supporting evidence.
+- Contradictory evidence.
+- Neutral evidence.
+
+---
+
+## Step 3 — Evaluate
+
+Assess:
+
+- Evidence quality.
+- Consistency.
+- Independence.
+- Reliability.
+- Relationship between observations.
+
+---
+
+## Step 4 — Integrate
+
+Combine all available observations into a unified technical interpretation.
+
+The interpretation should explain:
+
+- What technical condition exists.
+- Why the evidence supports it.
+- Which observations increase confidence.
+- Which observations reduce confidence.
+
+---
+
+## Step 5 — Reassess
+
+As new market data becomes available:
+
+- Add new evidence.
+- Remove invalid evidence.
+- Update interpretations.
+- Revise confidence where appropriate.
+
+Evidence-Based Analysis is a continuous process rather than a one-time evaluation.
+
+---
+
+# Role of the Evidence Hierarchy
+
+Not all evidence contributes equally.
+
+The default analytical hierarchy within this repository is:
+
+1. Long-Term Trend
+2. Market Structure
+3. Support and Resistance
+4. Volume
+5. Multi-Timeframe Confirmation
+6. Moving Averages
+7. Momentum Indicators
+8. Volatility Indicators
+9. Candlestick Patterns
+10. Individual Indicator Signals
+
+When observations conflict, higher-priority evidence should generally receive greater analytical weight.
+
+This hierarchy promotes consistency across different analyses.
+
+---
+
+# Example of Evidence Integration
+
+Consider the following observations:
+
+- Weekly trend remains upward.
+- Daily chart continues to form Higher Highs and Higher Lows.
+- Breakout occurs above long-term resistance.
+- Volume increases significantly during the breakout.
+- RSI approaches overbought territory.
+
+Evidence interpretation:
+
+| Observation | Category | Effect |
+|------------|----------|--------|
+| Weekly uptrend | Primary | Strongly supports bullish technical structure |
+| Higher Highs and Higher Lows | Primary | Confirms trend continuation |
+| Breakout above resistance | Primary | Indicates structural improvement |
+| Increased volume | Supporting confirmation | Strengthens breakout reliability |
+| RSI overbought | Supporting / Contradictory context | Suggests short-term extension but does not invalidate the broader trend independently |
+
+The overall interpretation remains primarily supported by structural evidence despite one potentially cautionary momentum observation.
+
+---
+
+# Advantages
+
+Evidence-Based Analysis provides several advantages.
+
+- Reduces dependence on individual indicators.
+- Encourages objective reasoning.
+- Improves analytical consistency.
+- Increases transparency.
+- Supports deterministic AI behavior.
+- Adapts naturally to changing market conditions.
+- Reduces emotional and subjective interpretation.
+
+---
+
+# Limitations
+
+Evidence-Based Analysis does not eliminate uncertainty.
+
+Its limitations include:
+
+- Evidence may conflict.
+- Some evidence may be ambiguous.
+- Technical data may be incomplete.
+- Correlated indicators may create false confidence.
+- Market conditions may change rapidly.
+- Unexpected external events can invalidate technical interpretations.
+
+These limitations require continuous reassessment.
+
+---
+
+# Failure Conditions
+
+Evidence-Based Analysis becomes more difficult when:
+
+- Liquidity is unusually low.
+- Price movements are dominated by news events.
+- Market structure is unclear.
+- Multiple primary evidence sources conflict.
+- Historical price data is unreliable.
+- Technical indicators generate inconsistent signals.
+
+Under these conditions, analytical confidence should generally decrease.
+
+---
+
+# Common Misconceptions
+
+## Misconception 1
+
+**More indicators always produce better analysis.**
+
+**Clarification**
+
+Analytical quality depends on the independence and relevance of the evidence, not the number of indicators.
+
+---
+
+## Misconception 2
+
+**Several momentum indicators represent multiple confirmations.**
+
+**Clarification**
+
+Indicators measuring similar characteristics provide correlated evidence rather than independent confirmation.
+
+---
+
+## Misconception 3
+
+**One strong technical signal is sufficient.**
+
+**Clarification**
+
+Technical conclusions should emerge from multiple independent observations interpreted within the appropriate technical context.
+
+---
+
+## Misconception 4
+
+**Contradictory evidence should be ignored if most indicators agree.**
+
+**Clarification**
+
+Contradictory evidence should always be evaluated because it influences analytical confidence and may indicate changing market conditions.
+
+---
+
+## Misconception 5
+
+**Evidence-Based Analysis guarantees correct market interpretation.**
+
+**Clarification**
+
+The methodology improves analytical quality but cannot eliminate uncertainty or guarantee future outcomes.
+
+---
+
+# AI Interpretation
+
+## Primary Role
+
+The AI should construct every technical interpretation by integrating multiple independent sources of technical evidence into a coherent analytical explanation.
+
+The AI should never base its conclusions solely on individual indicators or isolated observations.
+
+---
+
+## Primary Evidence
+
+The AI should prioritize:
+
+- Long-term trend.
+- Market structure.
+- Support and resistance.
+- Volume.
+- Multi-timeframe alignment.
+
+Supporting indicators should refine rather than replace these primary observations.
+
+---
+
+## Analytical Importance
+
+★★★★★ (Foundational)
+
+Evidence-Based Analysis defines the reasoning methodology used throughout the repository and underpins every technical interpretation generated by the AI.
+
+---
+
+## Required Confirmations
+
+Before presenting a technical conclusion, the AI should generally evaluate:
+
+- Primary evidence.
+- Supporting evidence.
+- Contradictory evidence.
+- Technical context.
+- Overall evidence consistency.
+
+The AI should explicitly explain how these observations collectively support its interpretation.
+
+---
+
+## Situations Requiring Additional Caution
+
+The AI should communicate reduced confidence when:
+
+- Primary evidence conflicts.
+- Technical observations are incomplete.
+- Higher timeframe trends disagree.
+- Volume fails to confirm price movement.
+- Technical indicators provide inconsistent signals.
+- Market conditions are unusually volatile or illiquid.
+
+The AI should explain how these conditions affect the reliability of the technical interpretation.
+
+---
+
+# Relationships
+
+## Depends On
+
+- Introduction
+- Purpose of Technical Analysis
+- Long-Term Investment Philosophy
+- Guiding Principles
+- AI Analysis Philosophy
+- Probability vs Prediction
+
+## Supports
+
+- Confirmation
+- Contradictory Evidence
+- Confidence
+- Technical Context
+- Technical Interpretation
+- Evidence Hierarchy
+- Monitoring Framework
+- Entire Technical Analysis Knowledge Base
+
+## Commonly Used Together
+
+- Market Structure
+- Trend
+- Volume Analysis
+- Multi-Timeframe Analysis
+- Support and Resistance
+- Technical Strength
+- Technical Weakness
+
+## Conflicts With
+
+- Single-indicator decision making
+- Opinion-based analysis
+- Selective use of supporting evidence
+- Ignoring contradictory observations
+- Deterministic forecasting
+- Overreliance on correlated indicators

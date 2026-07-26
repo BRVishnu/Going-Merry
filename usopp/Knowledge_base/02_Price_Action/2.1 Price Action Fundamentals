@@ -1,0 +1,295 @@
+---
+chapter_number: 2
+chapter_title: Price_Action
+document_title: Price Action Fundamentals
+category: Price Action Fundamentals
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Market Participants
+  - Price Discovery
+  - Supply and Demand
+
+related_concepts:
+  - Candlesticks
+  - Trend
+  - Market Structure
+  - Volume
+  - Support
+  - Resistance
+  - Timeframes
+
+keywords:
+  - OHLC
+  - Open
+  - High
+  - Low
+  - Close
+  - Price Action
+  - Candlestick
+  - Trading Range
+
+version: 1.0
+---
+
+# Price Action Fundamentals
+
+## Objective
+
+Introduce the fundamental price components used in technical analysis. Every price chart, candlestick, indicator, and market structure analysis originates from four observable prices recorded during a trading period: **Open, High, Low, and Close (OHLC)**.
+
+---
+
+# OHLC
+
+## Definition
+
+OHLC represents the four prices that summarize all trading activity within a specified timeframe.
+
+| Component | Definition |
+|-----------|------------|
+| **Open (O)** | First traded price during the period. |
+| **High (H)** | Highest traded price during the period. |
+| **Low (L)** | Lowest traded price during the period. |
+| **Close (C)** | Last traded price during the period. |
+
+Every candlestick or OHLC bar is derived directly from these four values.
+
+---
+
+## OHLC Constraints
+
+The following conditions always hold:
+
+- High ≥ Open
+- High ≥ Close
+- Low ≤ Open
+- Low ≤ Close
+- High ≥ Low
+
+The Open and Close may occur anywhere within the High-Low range.
+
+---
+
+## Timeframe Dependency
+
+OHLC values are specific to the selected timeframe.
+
+| Timeframe | OHLC Represents |
+|-----------|-----------------|
+| 1 Minute | Trading activity during one minute |
+| 5 Minutes | Trading activity during five minutes |
+| 15 Minutes | Trading activity during fifteen minutes |
+| 1 Hour | Trading activity during one hour |
+| 1 Day | Entire trading session |
+| 1 Week | Entire trading week |
+
+Changing the timeframe produces a different OHLC record.
+
+---
+
+## Importance
+
+OHLC data forms the basis of:
+
+- Candlestick charts
+- OHLC bar charts
+- Price action analysis
+- Market structure analysis
+- Trend analysis
+- Volatility measurement
+- Nearly all technical indicators
+
+---
+
+# Opening Price
+
+## Definition
+
+The **Opening Price** is the first executed trade of a trading period.
+
+For daily charts, it represents the first traded price after the market opens.
+
+---
+
+## Market Significance
+
+The opening price reflects the market's initial response to all information available before the session begins.
+
+Sources of new information include:
+
+- Corporate announcements
+- Earnings releases
+- Economic data
+- Global market movement
+- Overnight news
+- Order imbalance
+
+---
+
+## Characteristics
+
+The opening price:
+
+- Begins the trading session.
+- Serves as the reference point for intraday movement.
+- May differ significantly from the previous closing price.
+- Can create price gaps.
+
+---
+
+## Opening Gaps
+
+When:
+
+```
+Opening Price ≠ Previous Closing Price
+```
+
+a price gap is formed.
+
+Gap formation is discussed separately in **Price Gaps**.
+
+---
+
+## Analytical Importance
+
+The opening price is commonly used to:
+
+- Measure intraday performance.
+- Identify overnight sentiment changes.
+- Detect opening gaps.
+- Compare opening strength or weakness.
+- Construct candlesticks.
+
+The opening price alone does not determine the direction of the session.
+
+---
+
+# Closing Price
+
+## Definition
+
+The **Closing Price** is the final executed trade of a trading period.
+
+For daily charts, it is the last traded price before market close.
+
+---
+
+## Market Significance
+
+The closing price is generally regarded as the most important price in technical analysis because it represents the market's final consensus for that trading period.
+
+Most technical studies use the closing price as their primary input.
+
+---
+
+## Analytical Importance
+
+The closing price is used to:
+
+- Evaluate trend direction.
+- Calculate returns.
+- Construct candlesticks.
+- Compute moving averages.
+- Compute momentum indicators.
+- Generate oscillator values.
+- Compare consecutive trading sessions.
+
+---
+
+## Interpretation
+
+A close near the session high generally indicates sustained buying pressure during the session.
+
+A close near the session low generally indicates sustained selling pressure.
+
+These observations describe the completed trading period and should not be interpreted as predictions.
+
+---
+
+# High and Low
+
+## High
+
+The **High** is the highest traded price during a trading period.
+
+It represents the maximum price accepted by market participants during that interval.
+
+---
+
+## Low
+
+The **Low** is the lowest traded price during a trading period.
+
+It represents the minimum price accepted by market participants during that interval.
+
+---
+
+## Trading Range
+
+The difference between the High and Low defines the trading range.
+
+```
+Trading Range = High − Low
+```
+
+The trading range measures the total price movement during the period.
+
+---
+
+## Analytical Importance
+
+The High and Low are used to:
+
+- Measure volatility.
+- Determine trading range.
+- Identify support and resistance.
+- Detect breakouts and breakdowns.
+- Construct candlesticks.
+- Compare price expansion and contraction across periods.
+
+---
+
+## Range Interpretation
+
+A wide trading range generally indicates:
+
+- Increased volatility.
+- Greater price movement.
+- Stronger market participation.
+
+A narrow trading range generally indicates:
+
+- Lower volatility.
+- Reduced directional movement.
+- Temporary balance between buyers and sellers.
+
+The range alone does not indicate whether buyers or sellers controlled the session.
+
+---
+
+# Relationship Between OHLC Components
+
+| Component | Primary Purpose |
+|-----------|-----------------|
+| Open | Beginning of the trading period |
+| High | Highest accepted price |
+| Low | Lowest accepted price |
+| Close | Final accepted price and market consensus |
+
+Together, these four values completely describe the observable price movement for a trading period.
+
+---
+
+# Key Takeaways
+
+- Every trading period is summarized by four prices: **Open, High, Low, and Close (OHLC)**.
+- OHLC data forms the foundation of all price charts and most technical analysis techniques.
+- The **Opening Price** reflects the market's initial response to available information.
+- The **Closing Price** represents the market's final consensus and is the most widely used price in technical analysis.
+- The **High** and **Low** define the session's trading range and measure the extent of price movement.
+- Meaningful price analysis requires interpreting all four price components together rather than in isolation.

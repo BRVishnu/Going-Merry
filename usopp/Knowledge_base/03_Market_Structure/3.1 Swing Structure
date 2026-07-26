@@ -1,0 +1,244 @@
+---
+chapter_number: 3
+chapter_title: Market Structure
+document_title: Swing Structure
+category: Market Structure
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - OHLC
+  - Candlesticks
+  - Trend
+
+related_concepts:
+  - Higher High
+  - Higher Low
+  - Lower High
+  - Lower Low
+  - Support
+  - Resistance
+  - Breakouts
+  - Breakdowns
+  - Trend
+  - Trend Reversal
+
+keywords:
+  - Swing High
+  - Swing Low
+  - Swing Point
+  - Pivot High
+  - Pivot Low
+  - Market Structure
+  - Higher High
+  - Higher Low
+  - Lower High
+  - Lower Low
+
+version: 1.0
+---
+
+---
+# Swing Structure
+
+## Objective
+
+Understand swing highs and swing lows, the fundamental building blocks of market structure. Identifying swing points enables objective analysis of trends, support, resistance, and structural changes in price action.
+
+---
+
+# Swing High
+
+## Definition
+
+A **Swing High** is a local maximum where price temporarily stops advancing and begins moving downward.
+
+It represents a point where buying pressure was insufficient to continue pushing prices higher.
+
+---
+
+## Characteristics
+
+A swing high is typically characterized by:
+
+- A price peak relative to surrounding candles.
+- Price movement upward before the peak.
+- Price movement downward after the peak.
+- A temporary shift from buying pressure to selling pressure.
+
+---
+
+## General Representation
+
+```
+        ▲
+       / \
+      /   \
+_____/     \_____
+```
+
+The highest point represents the swing high.
+
+---
+
+## Analytical Importance
+
+Swing highs are used to:
+
+- Identify resistance levels.
+- Measure trend progression.
+- Detect higher highs and lower highs.
+- Construct market structure.
+- Confirm breakout levels.
+
+---
+
+# Swing Low
+
+## Definition
+
+A **Swing Low** is a local minimum where price temporarily stops declining and begins moving upward.
+
+It represents a point where selling pressure was insufficient to continue pushing prices lower.
+
+---
+
+## Characteristics
+
+A swing low is typically characterized by:
+
+- A price trough relative to surrounding candles.
+- Price movement downward before the trough.
+- Price movement upward after the trough.
+- A temporary shift from selling pressure to buying pressure.
+
+---
+
+## General Representation
+
+```
+_____
+     \
+      \
+       /
+______/
+   ▼
+```
+
+The lowest point represents the swing low.
+
+---
+
+## Analytical Importance
+
+Swing lows are used to:
+
+- Identify support levels.
+- Measure trend progression.
+- Detect higher lows and lower lows.
+- Construct market structure.
+- Confirm breakdown levels.
+
+---
+
+# Identifying Swing Points
+
+## Principle
+
+A swing point cannot be confirmed until subsequent price movement establishes that a local high or low has formed.
+
+Because confirmation depends on future candles, swing points are identified **after** they occur.
+
+---
+
+## Swing High Identification
+
+A swing high is confirmed when:
+
+- Price advances to a local maximum.
+- One or more subsequent candles fail to exceed that high.
+- Price begins moving lower.
+
+The exact number of confirming candles depends on the identification method or trading system.
+
+---
+
+## Swing Low Identification
+
+A swing low is confirmed when:
+
+- Price declines to a local minimum.
+- One or more subsequent candles fail to make a lower low.
+- Price begins moving higher.
+
+As with swing highs, confirmation depends on the chosen methodology.
+
+---
+
+## Market Structure Formation
+
+Successive swing highs and swing lows define market structure.
+
+Examples:
+
+| Swing Sequence | Structural Interpretation |
+|---------------|---------------------------|
+| Higher High + Higher Low | Uptrend |
+| Lower High + Lower Low | Downtrend |
+| Mixed Swing Structure | Transition or Consolidation |
+
+The sequence of swing points is more informative than any individual swing.
+
+---
+
+## Subjectivity
+
+Swing identification is not universally fixed.
+
+Different approaches may use:
+
+- Adjacent candle comparisons.
+- Fractal methods.
+- ZigZag algorithms.
+- Percentage movement thresholds.
+- Volatility-based filters.
+
+Regardless of methodology, the objective remains to identify meaningful turning points in price.
+
+---
+
+## Relationship with Support and Resistance
+
+Confirmed swing highs frequently become future resistance areas.
+
+Confirmed swing lows frequently become future support areas.
+
+These levels represent historical areas where price direction previously changed.
+
+---
+
+## Relationship with Trend
+
+Trend analysis is based on the progression of swing points.
+
+| Trend | Swing Structure |
+|--------|-----------------|
+| Uptrend | Higher Highs and Higher Lows |
+| Downtrend | Lower Highs and Lower Lows |
+| Sideways Market | Swing points remain within a defined range |
+
+The evolution of swing structure forms the basis for identifying trend continuation and trend reversal.
+
+---
+
+# Key Takeaways
+
+- A **Swing High** is a local maximum where upward price movement temporarily ends.
+- A **Swing Low** is a local minimum where downward price movement temporarily ends.
+- Swing points are confirmed only after subsequent price movement establishes a turning point.
+- The sequence of swing highs and swing lows defines market structure.
+- Higher highs and higher lows characterize an uptrend, while lower highs and lower lows characterize a downtrend.
+- Swing points provide the foundation for identifying support, resistance, breakouts, breakdowns, and trend transitions.

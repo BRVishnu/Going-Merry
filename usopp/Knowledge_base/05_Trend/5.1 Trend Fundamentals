@@ -1,0 +1,265 @@
+---
+chapter_number: 5
+chapter_title: Trend
+document_title: Trend Fundamentals
+category: Trend
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - Swing Structure
+  - Trend Structure
+  - Market Structure
+  - Support and Resistance
+
+related_concepts:
+  - Market Phases
+  - Trend Continuation
+  - Trend Reversal
+  - Pullbacks
+  - Retracements
+  - Moving Averages
+  - Trendlines
+
+keywords:
+  - Trend
+  - Uptrend
+  - Downtrend
+  - Sideways Market
+  - Trend Direction
+  - Market Structure
+  - Higher High
+  - Lower Low
+
+version: 1.0
+---
+
+# Trend Fundamentals
+
+## Objective
+
+Understand the concept of market trends, their primary classifications, and how trend direction is objectively identified using market structure rather than isolated price movements.
+
+---
+
+# Trend
+
+## Definition
+
+A **trend** is the prevailing direction of price movement over a period of time.
+
+It reflects the dominant balance between buying and selling pressure and provides the primary framework for interpreting market behaviour.
+
+---
+
+## Characteristics
+
+A trend is identified using:
+
+- Swing highs and swing lows.
+- Market structure.
+- Price direction over time.
+- Support and resistance behaviour.
+
+Trend analysis focuses on the overall direction of price rather than individual candlesticks or short-term fluctuations.
+
+---
+
+## Types of Trends
+
+Financial markets generally exhibit one of three conditions:
+
+- Uptrend
+- Downtrend
+- Sideways Market
+
+These conditions may exist simultaneously across different timeframes.
+
+---
+
+# Uptrend
+
+## Definition
+
+An **uptrend** is a market condition in which price consistently advances over time.
+
+Structurally, an uptrend is characterized by a sequence of:
+
+- Higher Highs (HH)
+- Higher Lows (HL)
+
+---
+
+## Characteristics
+
+An uptrend typically exhibits:
+
+- Sustained buying pressure.
+- Rising swing highs.
+- Rising swing lows.
+- Dynamic support through pullbacks.
+- Increasing price acceptance at higher levels.
+
+---
+
+## Market Behaviour
+
+During an uptrend:
+
+- Pullbacks are temporary.
+- Buyers generally regain control after corrections.
+- Resistance levels may eventually be broken.
+- Market structure remains bullish until disrupted.
+
+---
+
+## Confirmation
+
+An uptrend remains valid while the sequence of Higher Highs and Higher Lows is maintained.
+
+Failure to maintain this structure may indicate weakening momentum or a possible transition.
+
+---
+
+# Downtrend
+
+## Definition
+
+A **downtrend** is a market condition in which price consistently declines over time.
+
+Structurally, a downtrend is characterized by a sequence of:
+
+- Lower Highs (LH)
+- Lower Lows (LL)
+
+---
+
+## Characteristics
+
+A downtrend typically exhibits:
+
+- Sustained selling pressure.
+- Falling swing highs.
+- Falling swing lows.
+- Dynamic resistance during rallies.
+- Decreasing price acceptance.
+
+---
+
+## Market Behaviour
+
+During a downtrend:
+
+- Counter-trend rallies are temporary.
+- Sellers generally regain control after recoveries.
+- Support levels may eventually fail.
+- Market structure remains bearish until disrupted.
+
+---
+
+## Confirmation
+
+A downtrend remains valid while the sequence of Lower Highs and Lower Lows is maintained.
+
+Changes to this sequence may indicate weakening bearish momentum or a developing transition.
+
+---
+
+# Sideways Market
+
+## Definition
+
+A **sideways market** is a condition in which price moves within a relatively stable range without establishing a sustained upward or downward trend.
+
+It is also referred to as a **range-bound market** or **consolidating market**.
+
+---
+
+## Characteristics
+
+A sideways market commonly exhibits:
+
+- Absence of Higher Highs and Higher Lows.
+- Absence of Lower Highs and Lower Lows.
+- Repeated movement between support and resistance.
+- Reduced directional conviction.
+- Relatively balanced buying and selling pressure.
+
+---
+
+## Market Behaviour
+
+During a sideways market:
+
+- Price repeatedly reverses within a defined range.
+- Breakouts and breakdowns become important transition events.
+- Trend-following methods may become less effective.
+- Consolidation may precede the next directional trend.
+
+---
+
+## Confirmation
+
+A market remains sideways until a consistent sequence of Higher Highs and Higher Lows or Lower Highs and Lower Lows is established.
+
+---
+
+# Trend Comparison
+
+| Characteristic | Uptrend | Downtrend | Sideways Market |
+|----------------|----------|------------|-----------------|
+| Market Structure | Higher Highs, Higher Lows | Lower Highs, Lower Lows | No consistent sequence |
+| Dominant Pressure | Buying | Selling | Balanced |
+| Price Direction | Rising | Falling | Horizontal |
+| Swing Progression | Increasing | Decreasing | Mixed |
+| Typical Behaviour | Trend continuation | Trend continuation | Consolidation |
+
+---
+
+# Multiple Timeframe Trends
+
+Trend is timeframe-dependent.
+
+The same security may simultaneously exhibit:
+
+- An uptrend on the weekly chart.
+- A sideways market on the daily chart.
+- A downtrend on the hourly chart.
+
+Trend analysis should therefore always specify the timeframe under consideration.
+
+---
+
+# Trend Identification Principles
+
+Trend analysis should prioritize:
+
+1. Market structure.
+2. Swing highs and swing lows.
+3. Support and resistance.
+4. Price behaviour over multiple periods.
+
+Individual candles or short-term volatility should not be used independently to determine trend direction.
+
+---
+
+# Important Considerations
+
+- Trends describe observed market behaviour rather than future expectations.
+- Trend direction can change as market structure evolves.
+- Short-term counter-trend movements do not necessarily invalidate the prevailing trend.
+- Trend analysis becomes more reliable when combined with market structure, support and resistance, volume, and multiple timeframe analysis.
+
+---
+
+# Key Takeaways
+
+- A **trend** represents the prevailing direction of price movement over time.
+- An **uptrend** is characterized by Higher Highs and Higher Lows.
+- A **downtrend** is characterized by Lower Highs and Lower Lows.
+- A **sideways market** lacks a consistent directional structure and typically trades within a defined range.
+- Trend should always be identified using market structure rather than isolated price movements or individual candlesticks.
+- Trend analysis is inherently timeframe-dependent and should always be interpreted within the broader market context.

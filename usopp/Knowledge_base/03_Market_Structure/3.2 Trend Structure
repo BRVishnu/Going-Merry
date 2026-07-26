@@ -1,0 +1,292 @@
+---
+chapter_number: 3
+chapter_title: Market Structure
+document_title: Trend Structure
+category: Market Structure
+
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: All Time Horizons
+
+prerequisite_concepts:
+  - Price Action Fundamentals
+  - Swing Structure
+  - Swing High
+  - Swing Low
+
+related_concepts:
+  - Trend
+  - Support
+  - Resistance
+  - Breakouts
+  - Breakdowns
+  - Trend Reversal
+  - Trend Continuation
+  - Market Behaviour
+
+keywords:
+  - Higher High
+  - Higher Low
+  - Lower High
+  - Lower Low
+  - Trend Structure
+  - Trend Reversal
+  - Trend Continuation
+  - Market Structure
+
+version: 1.0
+---
+
+# Trend Structure
+
+## Objective
+
+Understand how trends are objectively identified using the sequence of swing highs and swing lows. Trend structure provides an evidence-based framework for determining whether a market is advancing, declining, or transitioning.
+
+---
+
+# Higher High (HH)
+
+## Definition
+
+A **Higher High (HH)** occurs when a new confirmed swing high forms above the previous confirmed swing high.
+
+It indicates that buyers were able to push price beyond the previous peak.
+
+---
+
+## Characteristics
+
+A Higher High represents:
+
+- Continued buying pressure.
+- Increasing price acceptance at higher levels.
+- Potential continuation of an existing uptrend.
+
+---
+
+## Interpretation
+
+A single Higher High does not define an uptrend.
+
+It must be evaluated together with the sequence of swing lows.
+
+---
+
+# Higher Low (HL)
+
+## Definition
+
+A **Higher Low (HL)** occurs when a new confirmed swing low forms above the previous confirmed swing low.
+
+It indicates that buyers entered the market before price revisited the previous low.
+
+---
+
+## Characteristics
+
+A Higher Low represents:
+
+- Continued buying interest.
+- Reduced selling pressure.
+- Preservation of upward market structure.
+
+---
+
+## Interpretation
+
+Higher Lows demonstrate that buyers are defending progressively higher price levels.
+
+An uptrend is typically characterized by both Higher Highs and Higher Lows.
+
+---
+
+# Lower High (LH)
+
+## Definition
+
+A **Lower High (LH)** occurs when a new confirmed swing high forms below the previous confirmed swing high.
+
+It indicates that buyers were unable to exceed the previous peak.
+
+---
+
+## Characteristics
+
+A Lower High represents:
+
+- Weakening buying pressure.
+- Increasing selling activity.
+- Preservation of downward market structure.
+
+---
+
+## Interpretation
+
+Lower Highs commonly occur during downtrends but may also appear during transitional market phases.
+
+---
+
+# Lower Low (LL)
+
+## Definition
+
+A **Lower Low (LL)** occurs when a new confirmed swing low forms below the previous confirmed swing low.
+
+It indicates that sellers successfully pushed price below the previous low.
+
+---
+
+## Characteristics
+
+A Lower Low represents:
+
+- Continued selling pressure.
+- Increasing downside acceptance.
+- Potential continuation of an existing downtrend.
+
+---
+
+## Interpretation
+
+A Lower Low should be interpreted alongside the sequence of swing highs.
+
+Downtrends are typically characterized by Lower Highs and Lower Lows.
+
+---
+
+# Trend Structure
+
+Trend direction is determined by the sequence of confirmed swing points rather than by individual candles.
+
+| Trend | Structural Characteristics |
+|--------|----------------------------|
+| Uptrend | Higher Highs and Higher Lows |
+| Downtrend | Lower Highs and Lower Lows |
+| Sideways Market | No consistent sequence of higher or lower swing points |
+
+This approach provides an objective method for identifying market direction.
+
+---
+
+# Trend Changes
+
+## Definition
+
+A **trend change** occurs when the established sequence of swing highs and swing lows is disrupted.
+
+The market no longer maintains the structural characteristics of the prevailing trend.
+
+---
+
+## Uptrend Weakening
+
+An existing uptrend may weaken when:
+
+- A Higher High fails to form.
+- A Higher Low is broken.
+- Lower Highs begin to develop.
+
+These observations indicate weakening upward momentum but do not independently confirm a reversal.
+
+---
+
+## Downtrend Weakening
+
+An existing downtrend may weaken when:
+
+- A Lower Low fails to form.
+- A Lower High is exceeded.
+- Higher Lows begin to develop.
+
+These observations indicate weakening downward momentum but do not independently confirm a reversal.
+
+---
+
+## Transitional Structure
+
+Markets frequently transition through periods where neither bullish nor bearish structure is clearly established.
+
+During these phases:
+
+- Swing sequences become inconsistent.
+- Consolidation may develop.
+- Confirmation should be awaited before classifying a new trend.
+
+---
+
+# Structural Trend Reversals
+
+## Definition
+
+A **structural trend reversal** occurs when the market replaces the existing sequence of swing points with the sequence associated with the opposite trend.
+
+A reversal is identified through changes in market structure rather than isolated price movements.
+
+---
+
+## Bullish Structural Reversal
+
+A bearish structure transitions into a bullish structure when:
+
+- Lower Highs and Lower Lows are no longer maintained.
+- Higher Lows begin to form.
+- Higher Highs are subsequently established.
+
+This sequence indicates that buyers have gained structural control.
+
+---
+
+## Bearish Structural Reversal
+
+A bullish structure transitions into a bearish structure when:
+
+- Higher Highs and Higher Lows are no longer maintained.
+- Lower Highs begin to form.
+- Lower Lows are subsequently established.
+
+This sequence indicates that sellers have gained structural control.
+
+---
+
+## Confirmation
+
+Structural reversals should be confirmed using multiple observations, including:
+
+- Confirmed swing points.
+- Market structure.
+- Breakouts or breakdowns.
+- Volume, where applicable.
+
+Individual candles or short-term price movements are insufficient to confirm a structural reversal.
+
+---
+
+# Structural Progression
+
+```
+Swing High / Swing Low
+          │
+          ▼
+Higher High / Higher Low
+Lower High / Lower Low
+          │
+          ▼
+Trend Structure
+          │
+          ▼
+Trend Continuation
+or
+Trend Reversal
+```
+
+---
+
+# Key Takeaways
+
+- Market trends are identified by the sequence of confirmed swing highs and swing lows.
+- An **uptrend** is characterized by **Higher Highs** and **Higher Lows**.
+- A **downtrend** is characterized by **Lower Highs** and **Lower Lows**.
+- Trend changes begin when the existing structural sequence is disrupted.
+- Structural trend reversals are confirmed through changes in swing structure rather than isolated price movements.
+- Trend structure provides an objective framework for analyzing market direction independent of individual candlesticks or short-term volatility.

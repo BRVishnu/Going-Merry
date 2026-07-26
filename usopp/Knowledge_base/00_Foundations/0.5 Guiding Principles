@@ -1,0 +1,473 @@
+---
+chapter_number: 0
+chapter_title: Guiding Principles
+category: Foundations
+importance: Critical
+analytical_importance: ★★★★★
+primary_time_horizon: Universal (Applicable Across All Time Horizons)
+prerequisite_concepts:
+  - Introduction
+  - Purpose of Technical Analysis
+  - Long-Term Investment Philosophy
+  - Scope of Knowledge Base
+related_concepts:
+  - AI Analysis Philosophy
+  - Probability vs Prediction
+  - Evidence-Based Analysis
+  - Confirmation
+  - Contradictory Evidence
+  - Confidence
+  - Technical Context
+  - Evidence Hierarchy
+---
+
+# Guiding Principles
+
+## Definition
+
+The Guiding Principles define the fundamental rules that govern how Technical Analysis is interpreted throughout this knowledge base. They establish a consistent analytical philosophy that applies across every concept, regardless of the market, timeframe, technical indicator, or analytical methodology.
+
+These principles ensure that technical analysis remains objective, evidence-based, internally consistent, and suitable for deterministic reasoning by downstream AI systems.
+
+Unlike technical concepts, which explain *what* the market is doing, the Guiding Principles define *how* technical evidence should be interpreted.
+
+---
+
+# Purpose
+
+The purpose of the Guiding Principles is to:
+
+- Establish a consistent analytical methodology.
+- Eliminate subjective interpretation.
+- Standardize reasoning across all technical concepts.
+- Improve reproducibility of technical analysis.
+- Define how conflicting evidence should be evaluated.
+- Ensure that conclusions are proportional to the quality of available evidence.
+- Prevent misuse or overinterpretation of technical indicators.
+
+These principles form the analytical rules that govern the entire repository.
+
+---
+
+# Core Principles
+
+## Principle 1 — Markets Are Probabilistic
+
+Financial markets are inherently uncertain.
+
+Every technical observation represents evidence that influences the probability of potential market outcomes rather than certainty about future price movements.
+
+Therefore:
+
+- No technical signal guarantees a specific outcome.
+- Every interpretation remains conditional.
+- New evidence can invalidate previous conclusions.
+- Analytical confidence should never be confused with certainty.
+
+This principle underpins every technical interpretation within the repository.
+
+---
+
+## Principle 2 — Technical Analysis Describes Market Conditions
+
+The objective of Technical Analysis is to describe the current technical condition of the market.
+
+It should answer questions such as:
+
+- What trend currently exists?
+- What evidence supports that trend?
+- Has market structure changed?
+- Is participation strengthening or weakening?
+- How has the technical condition evolved?
+
+It should not attempt to predict future prices with certainty or replace investment decision-making. And every statement should be stated along with reasoning.
+
+---
+
+## Principle 3 — Observable Evidence Takes Priority
+
+All technical conclusions must be derived from observable market-generated evidence.
+
+Primary evidence includes:
+
+- Price
+- Market structure
+- Volume
+- Trend
+- Support and resistance
+- Momentum
+- Volatility
+
+Interpretations should never be based primarily on:
+
+- Opinions
+- Narratives
+- Rumours
+- Personal beliefs
+- Emotional expectations
+- Unsupported assumptions
+
+Evidence always takes precedence over opinion.
+
+---
+
+## Principle 4 — Multiple Independent Sources of Evidence Improve Reliability
+
+Individual technical observations should not be interpreted in isolation.
+
+Confidence increases when multiple independent observations support the same conclusion.
+
+Examples include:
+
+- Strong trend confirmed by market structure.
+- Breakout confirmed by increasing volume.
+- Trend continuation supported by higher timeframe alignment.
+- Momentum confirming trend persistence.
+
+Independent confirmation generally improves analytical quality.
+
+---
+
+## Principle 5 — Higher-Quality Evidence Has Greater Importance
+
+Not all technical observations contribute equally.
+
+Higher-priority evidence should generally outweigh lower-priority evidence.
+
+Within this repository, the default evidence hierarchy is:
+
+1. Long-Term Trend
+2. Market Structure
+3. Support and Resistance
+4. Volume
+5. Multi-Timeframe Confirmation
+6. Moving Averages
+7. Momentum Indicators
+8. Volatility Indicators
+9. Candlestick Patterns
+10. Individual Indicator Signals
+
+Lower-priority evidence should not override stronger higher-level structural observations without substantial supporting confirmation.
+
+---
+
+## Principle 6 — Technical Context Determines Meaning
+
+No technical observation should be interpreted independently of its surrounding market context.
+
+The significance of a technical signal depends on factors such as:
+
+- Prevailing trend.
+- Market structure.
+- Volume characteristics.
+- Volatility.
+- Support and resistance.
+- Higher timeframe direction.
+- Overall market environment.
+
+Identical technical signals may have different interpretations under different technical contexts.
+
+---
+
+## Principle 7 — Contradictory Evidence Must Be Considered
+
+Conflicting observations are an expected characteristic of financial markets.
+
+Contradictory evidence should not be ignored simply because it conflicts with an existing interpretation.
+
+Instead, contradictory observations should:
+
+- Reduce analytical confidence.
+- Trigger reassessment.
+- Encourage additional confirmation.
+- Be explicitly documented in technical analysis.
+
+Ignoring contradictory evidence increases analytical bias.
+
+---
+
+## Principle 8 — Technical Conclusions Must Be Continuously Reassessed
+
+Markets continuously generate new information.
+
+Technical interpretations should therefore evolve as new evidence becomes available.
+
+This requires:
+
+- Continuous monitoring.
+- Re-evaluation of previous conclusions.
+- Recognition of structural changes.
+- Updating analytical confidence.
+
+Technical analysis is an ongoing process rather than a one-time assessment.
+
+---
+
+## Principle 9 — Simplicity Improves Consistency
+
+Complex analysis is not necessarily superior analysis.
+
+Priority should be given to:
+
+- Clear definitions.
+- Logical reasoning.
+- Observable evidence.
+- Consistent interpretation.
+
+Unnecessary complexity increases the likelihood of inconsistent conclusions.
+
+---
+
+## Principle 10 — Analytical Confidence Must Reflect Evidence Quality
+
+Confidence should be proportional to:
+
+- Quantity of supporting evidence.
+- Quality of supporting evidence.
+- Agreement between independent observations.
+- Absence of significant contradictory evidence.
+
+Confidence should never be based on conviction, experience, or intuition alone.
+
+---
+
+## Principle 11 — Technical Analysis Supports, But Does Not Replace, Investment Decisions
+
+Technical Analysis provides structured market interpretation.
+
+It does not determine:
+
+- Whether an investment should be made.
+- Appropriate portfolio allocation.
+- Position sizing.
+- Risk tolerance.
+- Financial objectives.
+
+Investment decisions require broader considerations beyond technical evidence.
+
+---
+
+## Principle 12 — Consistency Is More Important Than Individual Outcomes
+
+A disciplined analytical process produces more reliable long-term results than attempting to maximize the accuracy of individual predictions.
+
+The repository therefore prioritizes:
+
+- Consistent reasoning.
+- Repeatable interpretation.
+- Objective evidence evaluation.
+- Standardized terminology.
+
+The quality of the analytical process is more important than whether a specific technical interpretation ultimately proves correct.
+
+---
+
+# Application Across the Repository
+
+These principles apply uniformly to every subsequent chapter.
+
+Examples include:
+
+- Trend analysis should always consider market structure.
+- Volume should be interpreted within price context.
+- Candlestick patterns require confirmation.
+- Momentum indicators should support, not replace, primary evidence.
+- Technical strength should be evaluated using multiple observations rather than individual signals.
+
+No chapter should contradict these principles.
+
+---
+
+# Decision Framework Derived from the Principles
+
+Every technical interpretation should generally follow the same reasoning process.
+
+1. Observe market-generated evidence.
+2. Identify the prevailing technical conditions.
+3. Evaluate the quality of primary evidence.
+4. Identify supporting evidence.
+5. Identify contradictory evidence.
+6. Assess the overall analytical confidence.
+7. Describe the current technical condition.
+8. Continue monitoring for changes.
+
+This framework provides consistency across different securities, market environments, and timeframes.
+
+---
+
+# Failure Conditions
+
+The Guiding Principles remain valid across all market environments, but applying them becomes more challenging under certain conditions.
+
+Examples include:
+
+- Extremely volatile markets.
+- Thinly traded securities.
+- Major news-driven price movements.
+- Conflicting higher timeframe trends.
+- Incomplete or unreliable market data.
+
+Under these conditions:
+
+- Confidence should generally decrease.
+- Greater emphasis should be placed on primary evidence.
+- Conclusions should explicitly acknowledge increased uncertainty.
+
+---
+
+# Common Misconceptions
+
+## Misconception 1
+
+**A single indicator can determine market direction.**
+
+**Clarification**
+
+Individual indicators provide supporting evidence and should always be interpreted alongside broader technical conditions.
+
+---
+
+## Misconception 2
+
+**Strong conviction improves analytical accuracy.**
+
+**Clarification**
+
+Analytical quality depends on objective evidence rather than personal confidence or experience.
+
+---
+
+## Misconception 3
+
+**Conflicting signals indicate that Technical Analysis has failed.**
+
+**Clarification**
+
+Conflicting evidence is a normal characteristic of financial markets and should reduce confidence rather than invalidate the analytical process.
+
+---
+
+## Misconception 4
+
+**More indicators always produce better analysis.**
+
+**Clarification**
+
+Additional indicators increase analytical value only when they contribute independent evidence. Redundant indicators may increase complexity without improving interpretation.
+
+---
+
+## Misconception 5
+
+**Technical Analysis should produce definitive answers.**
+
+**Clarification**
+
+Technical Analysis provides probabilistic interpretations that evolve as market conditions change.
+
+---
+
+# AI Interpretation
+
+## Primary Role
+
+The AI should treat these principles as the governing rules for interpreting every technical concept contained within this repository.
+
+---
+
+## Primary Responsibilities
+
+When performing technical analysis, the AI should:
+
+- Prioritize objective evidence.
+- Apply the evidence hierarchy consistently.
+- Evaluate both supporting and contradictory observations.
+- Communicate analytical confidence appropriately.
+- Recognize uncertainty explicitly.
+- Avoid deterministic language.
+- Continuously update interpretations as new evidence emerges.
+
+These responsibilities apply regardless of the specific analytical technique being used.
+
+---
+
+## Analytical Importance
+
+★★★★★ (Foundational)
+
+The Guiding Principles establish the analytical methodology used throughout the entire knowledge base.
+
+Every subsequent concept should be interpreted in accordance with these principles.
+
+---
+
+## Required Confirmations
+
+Technical conclusions should generally be supported by:
+
+- Market structure.
+- Trend.
+- Volume.
+- Support and resistance.
+- Multi-timeframe alignment.
+- Absence of significant contradictory evidence.
+
+The AI should avoid assigning excessive importance to isolated technical signals.
+
+---
+
+## Situations Requiring Additional Caution
+
+Greater caution should be exercised when:
+
+- Technical evidence is incomplete.
+- Higher timeframe trends conflict.
+- Volume does not confirm price movement.
+- Markets are highly volatile.
+- Technical indicators provide contradictory signals.
+- Structural market conditions are unclear.
+
+In such situations, the AI should communicate reduced analytical confidence while continuing to describe observable market conditions objectively.
+
+---
+
+# Relationships
+
+## Depends On
+
+- Introduction
+- Purpose of Technical Analysis
+- Long-Term Investment Philosophy
+- Scope of Knowledge Base
+
+## Supports
+
+- AI Analysis Philosophy
+- Probability vs Prediction
+- Evidence-Based Analysis
+- Confirmation
+- Contradictory Evidence
+- Confidence
+- Technical Context
+- Technical Interpretation
+- Evidence Hierarchy
+- Entire Technical Analysis Knowledge Base
+
+## Commonly Used Together
+
+- Market Structure
+- Trend
+- Volume Analysis
+- Multi-Timeframe Analysis
+- Analytical Framework
+- Monitoring Framework
+
+## Conflicts With
+
+- Deterministic forecasting
+- Opinion-based analysis
+- Confirmation bias
+- Single-indicator decision making
+- Ignoring contradictory evidence
+- Investment decisions based solely on technical signals
+```
