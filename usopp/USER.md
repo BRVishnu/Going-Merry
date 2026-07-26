@@ -3,9 +3,9 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:**
-- **What to call them:**
+- **What to call them: Captain
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone: IST
 - **Notes:**
 
 ## Context
